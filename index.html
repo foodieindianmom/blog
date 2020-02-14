@@ -1,0 +1,148 @@
+---
+layout: default
+title: Home
+---
+<div class="container">
+  <div class="row">
+      <div class="col-md-4">
+        {% assign thepost = site.posts | where:"slug","punjabi_chicken_curry" %}
+        {% for post in thepost %}
+          <div class="card mb-4 shadow bg-light">
+              <div class="embed-responsive embed-responsive-16by9">
+                  <iframe class="embed-responsive-item" src="{{ post.video }}"
+                      allowfullscreen></iframe>
+              </div>
+              <div class="card-body">                                    
+                  <p class="card-text">
+                    {{ post.excerpt }}                    
+                 </p>
+                  <div class="d-flex justify-content-between align-items-center">
+                      <div class="btn-group">
+                        <a href="{{ post.url }}" class="btn btn-sm btn-outline-secondary">View Recipe</a>
+                      </div>
+                      <small class="text-muted">9 mins</small>
+                  </div>
+                  {% endfor %}
+              </div>
+          </div>
+      </div>
+      <div class="col-md-4">
+        {% assign thepost = site.posts | where:"slug","karel" %}
+        {% for post in thepost %}    
+          <div class="card mb-4 shadow bg-light">
+              <div class="embed-responsive embed-responsive-16by9">
+                <iframe src="{{ post.video }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              </div>
+              <div class="card-body">
+                                
+                  <p class="card-text">
+                    {{ post.excerpt }}                    
+                 </p>
+                  <div class="d-flex justify-content-between align-items-center">
+                      <div class="btn-group">
+                        <a href="{{ post.url }}" class="btn btn-sm btn-outline-secondary">View Recipe</a>
+                      </div>
+                      <small class="text-muted">9 mins</small>
+                  </div>
+                  {% endfor %}
+              </div>
+          </div>
+      </div>
+      <div class="col-md-4">
+          <div class="card mb-4 shadow bg-light">
+            {% assign thepost = site.posts | where:"slug","veg_cutlets" %}
+            {% for post in thepost %}
+              <div class="embed-responsive embed-responsive-16by9">
+                <iframe src="{{ post.video }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              </div>
+              <div class="card-body">
+                                    
+                  <p class="card-text">
+                    {{ post.excerpt }}                    
+                 </p>
+                  <div class="d-flex justify-content-between align-items-center">
+                      <div class="btn-group">
+                        <a href="{{ post.url }}" class="btn btn-sm btn-outline-secondary">View Recipe</a>
+                      </div>
+                      <small class="text-muted">9 mins</small>
+                  </div>
+                  {% endfor %}
+              </div>
+          </div>
+      </div>
+  </div>
+  <div class="row">
+      <div class="col-md-4">
+          <div
+              class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+              <div class="col p-4 d-flex flex-column position-static">
+                {% assign thepost = site.posts | where:"slug","broccoli_cutlers" %}
+                {% for post in thepost %}
+                  <h3 class="mb-0">{{ post.title }}</h3>
+                  <div class="mb-1 text-muted">{{ post.date | date_to_string }} &bull; <a href="{{site.baseurl}}/{{post.categories[0]|downcase}}.html">{{ post.categories }}</a></div>
+                  {{ post.excerpt }}
+                  <a href="{{ post.url }}">Continue reading</a>
+              </div>
+              <div class="col-auto d-none d-lg-block">
+                  <img src="{{ post.imagePath }}" alt="" width="100%" height="250px;">
+              </div>
+              {% endfor %}
+          </div>
+      </div>
+      <div class="col-md-4">
+          <div
+              class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+              <div class="col p-4 d-flex flex-column position-static">
+                {% assign thepost = site.posts | where:"slug","matar_ka_nimona" %}
+                {% for post in thepost %}
+                  <h3 class="mb-0">{{ post.title }}</h3>
+                  <div class="mb-1 text-muted">{{ post.date | date_to_string }} &bull; <a href="{{site.baseurl}}/{{post.categories[0]|downcase}}.html">{{ post.categories }}</a></div>
+                  {{ post.excerpt }}
+                  <a href="{{ post.url }}">Continue reading</a>
+              </div>
+              <div class="col-auto d-none d-lg-block">
+                  <img src="{{ post.imagePath }}" alt="" width="100%" height="250px;">
+              </div>
+              {% endfor %}
+          </div>
+      </div>
+      <div class="col-md-4">
+          <div
+              class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+              <div class="col p-4 d-flex flex-column position-static">
+                {% assign thepost = site.posts | where:"slug","instant_burfi" %}
+                {% for post in thepost %}
+                  <h3 class="mb-0">{{ post.title }}</h3>
+                  <div class="mb-1 text-muted">{{ post.date | date_to_string }} &bull; <a href="{{site.baseurl}}/{{post.categories[0]|downcase}}.html">{{ post.categories }}</a></div>
+                  {{ post.excerpt }}
+                  <a href="{{ post.url }}">Continue reading</a>
+              </div>
+              <div class="col-auto d-none d-lg-block">
+                  <img src="{{ post.imagePath }}" alt="" width="100%" height="250px;">
+              </div>
+              {% endfor %}
+          </div>
+      </div>
+  </div>
+  <div class="row">
+      <div class="col-md-8">
+        <ul class="list-group list-group-flush">
+            {% for post in site.posts limit:5 %}
+            <a href="{{ post.url }}" class="list-group-item list-group-item-action">
+                <div class="d-flex w-100 justify-content-between">
+                    <h5 class="mb-1">{{ post.title }}</h5>
+                    <small>{{ post.categories }}</small>
+                </div>
+                <p class="mb-1 text-justify">{{ post.excerpt }}</p>
+                <small>Click to continue reading...</small>
+            </a>
+            {% endfor %}
+        </ul>
+      </div>
+      <div class="col-md-4">
+          {% include contact-me.html %}
+          {% include about.html %}
+          {% include categories.html %}
+      </div>
+  </div>
+</div>

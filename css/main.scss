@@ -1,0 +1,38 @@
+---
+---
+@import 'bootstrap/bootstrap.scss';
+
+header {
+    padding-top: 5.5rem;
+}
+
+.bg-orangered {
+    background-color: orangered;
+}
+
+.active {
+    font-weight: bold;
+}
+
+.blog-post-title {
+    font-size: 2rem;
+}
+
+.blog-post-meta {
+    color: #999;
+}
+
+.blog-post-font-size {
+    font-size: large;
+}
+
+footer {
+    padding: 1.5rem 0;
+    color: #595959;
+    text-align: center;
+    background-color: #d9d9d9;
+}
+
+footer p:last-child {
+    margin-bottom: 0;
+}

@@ -1,0 +1,28 @@
+---
+layout: default
+title: Others
+permalink: /others.html
+---
+<div class="container">
+    <div class="row">
+        <div class="col-md-8">
+        <ul class="list-group list-group-flush">
+            {% for post in site.categories.Others %}
+            <a href="{{ post.url }}" class="list-group-item list-group-item-action">
+                <div class="d-flex w-100 justify-content-between">
+                    <h5 class="mb-1">{{ post.title }}</h5>
+                    <small>{{ post.categories }}</small>
+                </div>
+                <p class="mb-1 text-justify">{{ post.excerpt }}</p>
+                <small>Click to continue reading...</small>
+            </a>
+            {% endfor %}
+        </ul>
+        </div>
+        <div class="col-md-4">
+            {% include contact-me.html %}
+            {% include about.html %}
+            {% include categories.html %}
+        </div>
+    </div>
+</div>

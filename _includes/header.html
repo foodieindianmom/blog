@@ -1,0 +1,28 @@
+<header>
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-orangered">
+        <div class="navbar-header">
+            <img src="../images/FoodyIndianMom-Logo12.png" alt="Foody Indian MoM" class="img-responsive" height="50">
+        </div>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>      
+        <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+          <ul class="navbar-nav mr-auto">
+            {% for item in site.data.navigation %}
+            <li {% if page.url == item.link || page.categories.contains(item.link) %}class="nav-item active"{% else %}class="nav-item"{% endif %}>
+                <a class="nav-link text-light" href="{{ item.link }}">{{ item.name }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+          <form class="form-inline my-2 my-lg-0">
+            <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+            <button class="btn btn-success my-2 my-sm-0" type="submit">
+                <svg class="bi bi-search" width="22" height="22" viewBox="0 0 20 20" fill="white" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" d="M12.442 12.442a1 1 0 011.415 0l3.85 3.85a1 1 0 01-1.414 1.415l-3.85-3.85a1 1 0 010-1.415z" clip-rule="evenodd"/>
+                    <path fill-rule="evenodd" d="M8.5 14a5.5 5.5 0 100-11 5.5 5.5 0 000 11zM15 8.5a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z" clip-rule="evenodd"/>
+                  </svg>
+              </button>
+          </form>
+        </div>
+      </nav>
+</header>

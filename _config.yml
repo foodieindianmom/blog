@@ -1,0 +1,27 @@
+# Site settings
+title:
+email:
+author:
+description:
+url:
+
+# Build settings
+permalink: :title/
+sass:
+  sass_dir: css
+
+defaults:
+- scope:
+    path: ""
+    type: "authors"
+  values:
+    layout: "author"
+- scope:
+    path: ""
+    type: "posts"
+  values:
+    layout: "post"
+- scope:
+    path: ""
+  values:
+    layout: "default"
