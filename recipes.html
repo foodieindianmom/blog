@@ -1,0 +1,37 @@
+---
+layout: default
+title: Foody Indian Mom - Recipes
+description: Yummy and healthy Indian Cuisine recipes
+permalink: /recipes.html
+---
+<div class="d-flex p-2 text-white bg-orangered justify-content-center mb-5 shadow">
+    <h1>Recipes</h1>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-8">
+            <div class="divider"></div>
+            <h3>Latest Recipes</h3>
+            <div class="row row-cols-1 row-cols-md-2 text-white">
+                {% for post in site.posts %}
+                <div class="col mb-4">
+                    <div class="card h-100">
+                        <img src="{{ post.imagePath }}" alt="" class="card-img-top" height="100%">
+                        <div class="card-img-overlay d-flex flex-column justify-content-end p-0">
+                            <div class="card-title justify-content-center" id="pointer">
+                                <strong class="p-2">{{ post.title }}</strong>
+                            </div>
+                        </div>
+                        <a href="{{ post.url }}" class="stretched-link"></a>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+        <div class="col-md-4">
+            {% include contact-me.html %}
+            {% include about.html %}
+            {% include video-list.html %}
+        </div>
+    </div>
+</div>

@@ -1,25 +1,18 @@
 ---
 layout: default
 ---
+<div class="d-flex p-2 text-white bg-orangered justify-content-center mb-5 shadow">
+    <h1>{{ page.title }}</h1>
+</div>
 <div class="container">
     <div class="row">
         <div class="col-md-8">
-            <h3 class="blog-post-title">{{ page.title }}</h3>
-            <p class="blog-post-meta">
-                {{ page.date | date_to_string }} &bull;
-                {% if post %}
-                {% assign categories = post.categories %}
-                {% else %}
-                {% assign categories = page.categories %}
-                {% endif %}
-                {% for category in categories %}
-                <a href="{{site.baseurl}}/{{category|downcase}}.html">{{category}}</a>
-                {% unless forloop.last %}
-                &nbsp;
-                {% endunless %}
-                {% endfor %}
-            </p>
-            <hr>
+            <!--{{ page.date | date_to_string }} &bull;-->
+            {% if post %}
+            {% assign categories = post.categories %}
+            {% else %}
+            {% assign categories = page.categories %}
+            {% endif %}
             {{ content }}
             {% if post %}
             {% assign tags = post.tags %}
@@ -35,6 +28,7 @@ layout: default
             {% include contact-me.html %}
             {% include about.html %}
             {% include categories.html %}
+            {% include video-list.html %}
         </div>
     </div>
     <br>

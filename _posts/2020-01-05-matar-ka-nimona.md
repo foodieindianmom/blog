@@ -27,15 +27,16 @@ A dish widely prepared in Uttar Pradesh, this traditional UP style Matar Ka Nimo
 Here is how to make this matar recipe Matar ka Nimona.
 </p>
 
-{% include orange-message.html content="<b>Cuisine</b>: Awadhi<br>
-    <b>Course</b>: Lunch, Dinner<br>
-    <b>Diet</b>: Vegetarian<br>
-    <b>Equipments Used</b>: Kadai (Wok) / Heavy Bottomed Pan<br>
-    <b>Preparation Time</b>: 15 mins<br>
-    <b>Cooking Time</b>: 30 mins<br>
-    <b>Total Time</b>: 45 mins<br>
-    <b>Makes</b>: 2 Servings" 
-    %}
+{% include orange-message.html content='
+    <dt class="col-sm-3">Cuisine</dt><dd class="col-sm-9">Awadhi</dd>
+    <dt class="col-sm-3">Course</dt><dd class="col-sm-9">Lunch, Dinner</dd>
+    <dt class="col-sm-3">Diet</dt><dd class="col-sm-9">Vegetarian</dd>
+    <dt class="col-sm-3">Equipments Used</dt><dd class="col-sm-9">Kadai (Wok) / Heavy Bottomed Pan</dd>
+    <dt class="col-sm-3">Preparation Time</dt><dd class="col-sm-9">15 mins</dd>
+    <dt class="col-sm-3">Cooking Time</dt><dd class="col-sm-9">30 mins</dd>
+    <dt class="col-sm-3">Total Time</dt><dd class="col-sm-9">45 mins</dd>
+    <dt class="col-sm-3">Makes</dt><dd class="col-sm-9">2 Servings</dd>
+'%}
 
 <div class="row">
     <div class="col-md-12">
