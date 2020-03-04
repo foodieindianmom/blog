@@ -7,14 +7,14 @@ author: Parul
 date:   2020-03-01 15:20:23 +0530
 categories: Food
 video: https://www.youtube.com/embed/LejJlY_6Bls
-imagePath: /images/matar_ka_nimona/IMG_matar_ka_nimona_ingredients.jpg
+imagePath: /images/til-laddoo.jpg
 ---
 <p class="text-justify" style="line-height: 175%;">
 Til ke laddoo is a traditional Indian sweet dish that is prepared during festivals like Makar Sankranti, Lohri and Pongal. These laddoos are made of Gur (Jaggery) and Til (Sesame Seeds). Til ke laddoo is also called Tilkut in some parts of Indian. Some people use Sugar instead of Jaggery in Til ke laddoo but the laddoo prepared using Jaggery tastes much better compared to Sugar.
 </p>
 
 <div class="row">
-    <div class="col-md-12"><img src="../images/IMG_3.jpg" alt="" class="rounded img-fluid mb-2"></div>
+    <div class="col-md-12"><img src="../images/til-laddoo.jpg" alt="" class="rounded img-fluid mb-2"></div>
 </div>
 
 <p class="text-justify" style="line-height: 175%;">
@@ -71,16 +71,17 @@ Here is how to make this tasty mouthwatering Til ke laddoo.
 </section>
 <div class="recipe-section-divider"></div>
 <div class="row" id="recipe">
-        <div class="col-md-12"><h5 class="font-weight-bold">Recipe Steps</h5></div>
-    </div>
+    <div class="col-md-12"><h5 class="font-weight-bold">Recipe Steps</h5></div>
+</div>
 <div class="row">
     <div class="col-md-12">
     <ol class="text-justify" style="line-height: 200%">
         <li style="margin-bottom:5px;">Wash the til and spread it on any cotton cloth and keep this in the sun for  6-7 hours , one day before making laddoo.when to get dry keep it aside in any air tight container.</li>
-        <li style="margin-bottom:5px;">Next Day ,Take a wide Kadhai and dry roast the till,  till its color changes to very light brown in colour.y.While Roasting, continuously stir the spatula  in a kadhai  so that It doesn't get burned. Tip: When the till gets easily  mashed  between your fingers, this is the indication that til is properly roasted.</li>
+        <li style="margin-bottom:5px;">Next Day, take a wide Kadhai and dry roast the till,  once its color changes to very light brown in colour. While roasting, continuously stir the spatula in a kadhai so that it doesn't get burned.<br>
+        <i class="fas fa-lightbulb"></i> When the till gets easily  mashed  between your fingers, this is the indication that it is properly roasted.</li>
         <li style="margin-bottom:5px;">Keep the roasted till in a plate and keep it aside and let it cool  at room temperature.</li>
         <li style="margin-bottom:5px;">In the same kadhai add 1 cup of water and add jaggery in it. When the jaggery melts in water,allowed it to boil more and get thickens to a certain point.At that certain point ,add roasted Til and Mix well both the ingredients.Now the mixture of Til and Gur is ready.
-                        <br>How we know at which point of time we have to add til in jaggery<br>
+                        <br><i class="fas fa-lightbulb"></i>  To know at what point of time we have to add til in jaggery<br>
                         &bull; Take a cup of Water and put the drops of Thicken Jaggery in it. If this drop of Jaggery settles down in the bottom without mixing in water then this point, you should mix Til in Jaggery.<br>
                         &bull; If  the drop of Jaggery dissolves in water, then Jaggery and water mixture needs more Boiling and thickening.
                         </li>
@@ -93,7 +94,7 @@ Here is how to make this tasty mouthwatering Til ke laddoo.
 <div class="row" id="video">
     <div class="col-md-12">
         <div class="embed-responsive embed-responsive-16by9">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/LejJlY_6Bls" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="100%" height="315" src="https://www.youtube.com/embed/LejJlY_6Bls" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
     </div>
 </div>

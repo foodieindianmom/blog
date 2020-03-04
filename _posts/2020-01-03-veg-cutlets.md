@@ -6,11 +6,15 @@ author: Parul
 date:   2020-01-03 00:51:23 +0530
 categories: Food
 video: https://www.youtube.com/embed/h53iGuVkoEs
-imagePath: /images/matar_ka_nimona/IMG_matar_ka_nimona_ingredients.jpg
+imagePath: /images/veg_cutlets.png
 ---
 <p class="text-justify" style="line-height: 175%;">
 Cheesy Vegetable Cutlet is a popular snack on any Indian restaurant menu. It is very simple, healthy, easy to make and delicious vegetable cutlets that can be served for an evening snack with a green chutney or Tomato ketchup. A schezwan sauce or mayonnaise dip goes best with these.
 </p>
+
+<div class="row">
+    <div class="col-md-12"><img src="../images/veg_cutlets.png" alt="" class="rounded img-fluid mb-2"></div>
+</div>
 
 <p class="text-justify" style="line-height: 175%;">
 These cutlets can be deep fried or baked or shallow fried depending on one’s taste buds and health factors. These cutlets can be prepared using a combination of different Veggies like beans, carrots, cauliflower, onions, potatoes, mushrooms etc.
@@ -24,21 +28,31 @@ Vegetable cutlets are a gift for those moms whose kids don't want to eat vegetab
 Here is how to make this Cheesy Vegetable Cutlets
 </p>
 
-{% include orange-message.html content="<b>Cuisine</b>: North indian Starter<br>
-    <b>Course</b>: Breakfast and Evening snacks<br>
-    <b>Diet</b>: Vegetarian<br>
-    <b>Equipments Used</b>: Kadai (Wok) / Heavy Bottomed Pan<br>
-    <b>Preparation Time</b>: 20 mins<br>
-    <b>Cooking Time</b>: 25 mins<br>
-    <b>Total Time</b>: 45 mins<br>
-    <b>Makes</b>: 2 Servings" 
-%}
+<div class="row">
+    <div class="col-md-6">
+        <dl class="row">
+            <dt class="col-sm-4">Cuisine</dt><dd class="col-sm-7">North Indian Starter</dd>
+            <dt class="col-sm-4">Course</dt><dd class="col-sm-7">Breakfast and Evening snacks</dd>
+            <dt class="col-sm-4">Diet</dt><dd class="col-sm-7">Vegetarian</dd>
+            <dt class="col-sm-4">Equipments</dt><dd class="col-sm-7">Kadai (Wok) / Heavy Bottomed Pan</dd>
+        </dl>
+    </div>
+    <div class="col-md-6">
+        <dl class="row">
+            <dt class="col-sm-5">Prep. Time</dt><dd class="col-sm-7">20 mins</dd>
+            <dt class="col-sm-5">Cooking Time</dt><dd class="col-sm-7">25 mins</dd>
+            <dt class="col-sm-5">Total Time</dt><dd class="col-sm-7">45 mins</dd>
+            <dt class="col-sm-5">Makes</dt><dd class="col-sm-7">2 Servings</dd>
+        </dl>
+    </div>
+</div>
+
+<div class="recipe-section-divider"></div>
+<div class="row" id="ingredients">
+    <div class="col-md-12"><h5 class="font-weight-bold">Ingredients</h5></div>
+</div>
 <div class="row">
     <div class="col-md-12">
-        <span class="float-right">
-            <img class="img-responsive" src="/images/matar_ka_nimona/IMG_matar_ka_nimona_ingredients.jpg" height="250px;">
-        </span>
-        <h5>Ingredients</h5>
         <ul style="line-height: 200%">
             <li>1/2 cup grated cauliflower</li>
             <li>1/4 cup finely chopped beans</li>
@@ -63,9 +77,12 @@ Here is how to make this Cheesy Vegetable Cutlets
         </ul>
     </div>
 </div>
+<div class="recipe-section-divider"></div>
+<div class="row" id="recipe">
+    <div class="col-md-12"><h5 class="font-weight-bold">Recipe Steps</h5></div>
+</div>
 <div class="row">
     <div class="col-md-12">
-        <h5>Recipe Steps</h5>
         <ol class="text-justify" style="line-height: 200%">
             <li style="margin-bottom:5px;">In a pan heat oil, add onions and saute it for a minute.</li>
             <li style="margin-bottom:5px;">Add grated carrots, beans, mushrooms and cauliflower. Saute for 2-3 minutes. Add red chilli powder, salt and boiled potatoes. Cook for 3-4 minutes till vegetable stop sticking to the pan. Add all the seasonings. Let it cool. Keep aside.</li>
@@ -76,7 +93,7 @@ Here is how to make this Cheesy Vegetable Cutlets
         </ol>
     </div>
 </div>
-<div class="row">
+<div class="row" id="video">
     <div class="col-md-12">
         <div class="embed-responsive embed-responsive-16by9">
             <iframe src="https://www.youtube.com/embed/h53iGuVkoEs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

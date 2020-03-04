@@ -6,7 +6,8 @@ author: Parul
 date:   2020-01-05 00:51:23 +0530
 tags:   food peas awadhi matar
 categories: Food
-imagePath: /images/matar_ka_nimona/IMG_matar_ka_nimona_prepared2.jpg
+video: https://www.youtube.com/embed/S6SAIBX0b-4
+imagePath: /images/matar_nimona.jpg
 published: true
 ---
 <p class="text-justify" style="line-height: 175%;">
@@ -17,8 +18,9 @@ Green Peas are little pellets of nutrients. They may look small, but are loaded 
 This matar recipe is a thick, spicy curry, delicious and rich when enjoyed with rice or rotis. Even though there are spices used, they can be kept at a minimal to actually let the peas shine through.
 </p>
 
-<img class="img-responsive" src="/images/matar_ka_nimona/IMG_matar_ka_nimona_grinded_peas.jpg" height="300px;">
-<img class="img-responsive" src="/images/matar_ka_nimona/IMG_matar_ka_nimona_prepared2.jpg" height="300px;">
+<div class="row">
+    <div class="col-md-12"><img src="../images/matar_nimona.jpg" alt="" class="rounded img-fluid mb-2"></div>
+</div>
 
 <p class="text-justify" style="line-height: 175%;">
 A dish widely prepared in Uttar Pradesh, this traditional UP style Matar Ka Nimona is made using peas and just a few spices. Make it with the most tender winter peas while they are in season. The dish is liked by my all family members. This recipe is very simple, easy to make, very delicious and can be made in large quantities if you have any get-together parties.
@@ -27,45 +29,58 @@ A dish widely prepared in Uttar Pradesh, this traditional UP style Matar Ka Nimo
 Here is how to make this matar recipe Matar ka Nimona.
 </p>
 
-{% include orange-message.html content='
-    <dt class="col-sm-3">Cuisine</dt><dd class="col-sm-9">Awadhi</dd>
-    <dt class="col-sm-3">Course</dt><dd class="col-sm-9">Lunch, Dinner</dd>
-    <dt class="col-sm-3">Diet</dt><dd class="col-sm-9">Vegetarian</dd>
-    <dt class="col-sm-3">Equipments Used</dt><dd class="col-sm-9">Kadai (Wok) / Heavy Bottomed Pan</dd>
-    <dt class="col-sm-3">Preparation Time</dt><dd class="col-sm-9">15 mins</dd>
-    <dt class="col-sm-3">Cooking Time</dt><dd class="col-sm-9">30 mins</dd>
-    <dt class="col-sm-3">Total Time</dt><dd class="col-sm-9">45 mins</dd>
-    <dt class="col-sm-3">Makes</dt><dd class="col-sm-9">2 Servings</dd>
-'%}
-
 <div class="row">
-    <div class="col-md-12">
-        <span class="float-right">
-            <img class="img-responsive" src="/images/matar_ka_nimona/IMG_matar_ka_nimona_ingredients.jpg" height="250px;">
-        </span>
-        <h5>Ingredients</h5>
-        <ul style="line-height: 200%">
-            <li>250 grams Green peas (Matar)</li>
-            <li>Dried Urad Dal vadi</li>
-            <li>1 Tejpatta</li>
-            <li>1 Onion</li>
-            <li>5-6 cloves of garlic</li>
-            <li>1 Tomato</li>
-            <li>Salt, to taste</li>
-            <li>2 teaspoon Red chilli powder</li>
-            <li>1 tablespoon Turmeric powder (Haldi)</li>
-            <li>1-1/2 tablespoon Coriander Powder (Dhania)</li>
-            <li>1/2 teaspoon Asafoetida (hing)</li>
-            <li>1 + 2 tablespoon Cooking oil</li>
-            <li>1 teaspoon Green Chillies, finely chopped</li>
-            <li>1 patato cut in cubes</li>
-            <li>3 spring Coriander (Dhania) Leaves, for garnishing</li>
-        </ul>
+    <div class="col-md-6">
+        <dl class="row">
+            <dt class="col-sm-4">Cuisine</dt><dd class="col-sm-7">North Indian (Awadhi)</dd>
+            <dt class="col-sm-4">Course</dt><dd class="col-sm-7">Lunch and Dinner</dd>
+            <dt class="col-sm-4">Diet</dt><dd class="col-sm-7">Vegetarian</dd>
+            <dt class="col-sm-4">Equipments</dt><dd class="col-sm-7">Kadai (Wok) / Heavy Bottomed Pan</dd>
+        </dl>
     </div>
+    <div class="col-md-6">
+        <dl class="row">
+            <dt class="col-sm-5">Prep. Time</dt><dd class="col-sm-7">15 mins</dd>
+            <dt class="col-sm-5">Cooking Time</dt><dd class="col-sm-7">30 mins</dd>
+            <dt class="col-sm-5">Total Time</dt><dd class="col-sm-7">45 mins</dd>
+            <dt class="col-sm-5">Makes</dt><dd class="col-sm-7">2 Servings</dd>
+        </dl>
+    </div>
+</div>
+<section>
+    <div class="recipe-section-divider"></div>
+    <div class="row" id="ingredients">
+        <div class="col-md-12"><h5 class="font-weight-bold">Ingredients</h5></div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <ul style="line-height: 200%">
+                <li>250 grams Green peas (Matar)</li>
+                <li>Dried Urad Dal vadi</li>
+                <li>1 Tejpatta</li>
+                <li>1 Onion</li>
+                <li>5-6 cloves of garlic</li>
+                <li>1 Tomato</li>
+                <li>Salt, to taste</li>
+                <li>2 teaspoon Red chilli powder</li>
+                <li>1 tablespoon Turmeric powder (Haldi)</li>
+                <li>1-1/2 tablespoon Coriander Powder (Dhania)</li>
+                <li>1/2 teaspoon Asafoetida (hing)</li>
+                <li>1 + 2 tablespoon Cooking oil</li>
+                <li>1 teaspoon Green Chillies, finely chopped</li>
+                <li>1 patato cut in cubes</li>
+                <li>3 spring Coriander (Dhania) Leaves, for garnishing</li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+<div class="recipe-section-divider"></div>
+<div class="row" id="recipe">
+    <div class="col-md-12"><h5 class="font-weight-bold">Recipe Steps</h5></div>
 </div>
 <div class="row">
     <div class="col-md-12">
-        <h5>Recipe Steps</h5>
         <ol class="text-justify" style="line-height: 200%">
             <li style="margin-bottom:5px;">To begin with Matar Ka Nimona, coarsely grind the peas in a blender using very little water and keep it aside.</li>
             <li style="margin-bottom:5px;">Make a onion, garlic and green chili paste.</li>
@@ -80,11 +95,11 @@ Here is how to make this matar recipe Matar ka Nimona.
         </ol>
     </div>
 </div>
-<div class="row">
+<div class="row" id="video">
     <div class="col-md-12">
         <div class="embed-responsive embed-responsive-16by9">
-                  <iframe src="https://www.youtube.com/embed/pnDSoWj-y4I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-              </div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/S6SAIBX0b-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
     </div>
 </div>
 <br>

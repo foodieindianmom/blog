@@ -7,58 +7,19 @@ description: Foody Indian Mom is a blog about Indian Cuisine with vegetarian and
 <div class="container">
     <div class="divider"></div>
     <h3>Latest Recipes</h3>
-    <div class="card-deck mb-3 text-white">
-        <div class="card">
-            <img src="./images/IMG_3.jpg" alt="" class="card-img-top" height="100%">
-            <div class="card-img-overlay d-flex flex-column justify-content-end p-0">
-                <div class="card-title justify-content-center" id="pointer">
-                    <strong class="p-2 font-weight-bolder" style="font-size: larger;">Peanut Chutney</strong>
+    <div class="row row-cols-1 row-cols-md-3 text-white">
+        {% for post in site.posts limit:6 %}
+        <div class="col mb-4">
+            <div class="card h-100">
+                <img src="{{ post.imagePath }}" alt="" class="card-img-top" height="100%">
+                <div class="card-img-overlay d-flex flex-column justify-content-end p-0">
+                    <div class="card-title justify-content-center" id="pointer">
+                        <strong class="p-2">{{ post.title }}</strong>
+                    </div>
                 </div>
-            </div>
-            <a href="/peanut_chutney" class="stretched-link"></a>
-        </div>
-        <div class="card">
-            <img src="./images/IMG_2.jpg" alt="" class="card-img-top" height="100%">
-            <div class="card-img-overlay d-flex flex-column justify-content-end p-0">
-                <div class="card-title justify-content-center" id="pointer">
-                    <strong class="p-2 font-weight-bolder" style="font-size: larger;">Medu Vada</strong>
-                </div>
-            </div>
-            <a href="/medu_vada" class="stretched-link"></a>
-        </div>
-        <div class="card">
-            <img src="./images/IMG_1.jpg" alt="" class="card-img-top" height="100%">
-            <div class="card-img-overlay d-flex flex-column justify-content-end p-0">
-                <div class="card-title justify-content-center" id="pointer">
-                    <strong class="p-2 font-weight-bolder" style="font-size: larger;">Instant Barfi</strong>
-                </div>
+                <a href="{{ post.url }}" class="stretched-link"></a>
             </div>
         </div>
-    </div>
-    <div class="card-deck mb-5 text-white">
-        <div class="card">
-            <img src="./images/IMG-10.jpg" alt="" class="card-img-top" height="100%">
-            <div class="card-img-overlay d-flex flex-column justify-content-end p-0">
-                <div class="card-title justify-content-center" id="pointer">
-                    <strong class="p-2 font-weight-bolder" style="font-size: larger;">Carrot Raita</strong>
-                </div>
-            </div>
-        </div>
-        <div class="card">
-            <img src="./images/IMG_5.jpg" alt="" class="card-img-top" height="100%">
-            <div class="card-img-overlay d-flex flex-column justify-content-end p-0">
-                <div class="card-title justify-content-center" id="pointer">
-                    <strong class="p-2 font-weight-bolder" style="font-size: larger;">Chicken Sausages</strong>
-                </div>
-            </div>
-        </div>
-        <div class="card">
-            <img src="./images/IMG_6.jpg" alt="" class="card-img-top" height="100%">
-            <div class="card-img-overlay d-flex flex-column justify-content-end p-0">
-                <div class="card-title justify-content-center" id="pointer">
-                    <strong class="p-2 font-weight-bolder" style="font-size: larger;">Cabbage Sabji</strong>
-                </div>
-            </div>
-        </div>
+        {% endfor %}
     </div>
 </div>

@@ -6,15 +6,15 @@ slug: peanut_chutney
 author: Parul
 date:   2020-03-01 15:16:23 +0530
 categories: Food
-video: https://www.youtube.com/embed/bMSZpeGJtd8
-imagePath: /images/IMG_3.jpg
+video: https://www.youtube.com/embed/0d7j5T90BGw
+imagePath: /images/peanut_chutney.jpg
 ---
 <p class="text-justify" style="line-height: 175%;">
 Chutneys are a gluten free, spicy and savory dish originating in India. Chutneys can be provided with any dish to balance the flavour of any food and increase the taste of any dish. Chutneys can be made from fruits, vegetables, herbs  with addition of salt, oil, sugar, different  aromatic spices like Cumin (Jeera), Fennel Seeds (Saunf), etc and any tangy item like lemon or vinegar.
 </p>
 
 <div class="row">
-    <div class="col-md-12"><img src="../images/IMG_3.jpg" alt="" class="rounded img-fluid mb-2"></div>
+    <div class="col-md-12"><img src="../images/peanut_chutney.jpg" alt="" class="rounded img-fluid mb-2"></div>
 </div>
 
 <p class="text-justify" style="line-height: 175%;">
@@ -73,8 +73,8 @@ Here is how to make this Peanuts chutney.
     <div class="col-md-12">
     <ol class="text-justify" style="line-height: 200%">
         <li style="margin-bottom:5px;">Heat the pan and dry roast the Peanuts. Now Remove the skin of roasted peanuts and keep these peanuts aside in a plate.</li>
-        <li style="margin-bottom:5px;">In a mixer Grinder or Silbatta add roasted Peanuts, roasted chana dal, garlic, green chilies, curry leaves(half quantity), salt and grind it into fine and smooth chutney.</li>
-        <li style="margin-bottom:5px;">Take a tadka pan and add oil in it and add mustard seeds and curry leaves in it and put this tadka ion chutney.</li>
+        <li style="margin-bottom:5px;">In a mixer Grinder or Silbatta add roasted Peanuts, roasted chana dal, garlic, green chilies, curry leaves (half quantity), salt and grind it into fine and smooth chutney.</li>
+        <li style="margin-bottom:5px;">Take a tadka pan and add oil in it and add mustard seeds and curry leaves in it and add this tadka to chutney.</li>
     </ol>
     </div>
 </div>

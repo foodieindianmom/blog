@@ -5,11 +5,16 @@ slug: broccoli_cutlers
 author: Parul
 date:   2020-02-14 00:01:23 +0530
 categories: Food
-imagePath: /images/matar_ka_nimona/IMG_matar_ka_nimona_ingredients.jpg
+video: https://www.youtube.com/embed/R_LY_gatT0k
+imagePath: /images/broccoli_cutlets.jpg
 ---
 <p class="text-justify" style="line-height: 175%;">
 Broccoli is an edible green plant in the cabbage family whose large flowering head and stalk eaten as a vegetable.
 </p>
+
+<div class="row">
+    <div class="col-md-12"><img src="../images/broccoli_cutlets.jpg" alt="" class="rounded img-fluid mb-2"></div>
+</div>
 
 <p class="text-justify" style="line-height: 175%;">
 Broccoli is low in calories but contain lots of nutrients and antioxidants that support many aspect of human health like improving bone health, preventing cancer, boosting immunity etc... Broccoli is a Superfood should be eaten by everyone especially children.
@@ -27,21 +32,31 @@ A dish widely prepared in North India as a starter or appetizer. The dish is lik
 Here is how to make this Broccoli Cutlets
 </p>
 
-{% include orange-message.html content="<b>Cuisine</b>: North indian Starter<br>
-    <b>Course</b>: Lunch, Dinner<br>
-    <b>Diet</b>: Vegetarian<br>
-    <b>Equipments Used</b>: Kadai (Wok) / Heavy Bottomed Pan<br>
-    <b>Preparation Time</b>: 20 mins<br>
-    <b>Cooking Time</b>: 20 mins<br>
-    <b>Total Time</b>: 40 mins<br>
-    <b>Makes</b>: 2 Servings" 
-    %}
+<div class="row">
+    <div class="col-md-6">
+        <dl class="row">
+            <dt class="col-sm-4">Cuisine</dt><dd class="col-sm-7">North Indian Starter</dd>
+            <dt class="col-sm-4">Course</dt><dd class="col-sm-7">Breakfast, Lunch and Dinner</dd>
+            <dt class="col-sm-4">Diet</dt><dd class="col-sm-7">Vegetarian</dd>
+            <dt class="col-sm-4">Equipments</dt><dd class="col-sm-7">Kadai (Wok) / Heavy Bottomed Pan</dd>
+        </dl>
+    </div>
+    <div class="col-md-6">
+        <dl class="row">
+            <dt class="col-sm-5">Prep. Time</dt><dd class="col-sm-7">20 mins</dd>
+            <dt class="col-sm-5">Cooking Time</dt><dd class="col-sm-7">20 mins</dd>
+            <dt class="col-sm-5">Total Time</dt><dd class="col-sm-7">40 mins</dd>
+            <dt class="col-sm-5">Makes</dt><dd class="col-sm-7">2 Servings</dd>
+        </dl>
+    </div>
+</div>
+
+<div class="recipe-section-divider"></div>
+<div class="row" id="ingredients">
+    <div class="col-md-12"><h5 class="font-weight-bold">Ingredients</h5></div>
+</div> 
 <div class="row">
     <div class="col-md-12">
-        <span class="float-right">
-            <img class="img-responsive" src="/images/matar_ka_nimona/IMG_matar_ka_nimona_ingredients.jpg" height="250px;">
-        </span>
-        <h5>Ingredients</h5>
         <ul style="line-height: 200%">
             <li>1 cup very finely chopped broccoli</li>
             <li>1 small potato -Boiled and grated</li>
@@ -57,9 +72,13 @@ Here is how to make this Broccoli Cutlets
         </ul>
     </div>
 </div>
+
+<div class="recipe-section-divider"></div>
+<div class="row" id="recipe">
+    <div class="col-md-12"><h5 class="font-weight-bold">Recipe Steps</h5></div>
+</div>
 <div class="row">
     <div class="col-md-12">
-        <h5>Recipe Steps</h5>
         <ol class="text-justify" style="line-height: 200%">
             <li style="margin-bottom:5px;">Heat oil in a kadhai.Add onion and cook till soft.</li>
             <li style="margin-bottom:5px;">Add garlic paste and saute for 1 minute.</li>
@@ -72,6 +91,13 @@ Here is how to make this Broccoli Cutlets
             <li style="margin-bottom:5px;">Deep fry in hot oil.Serve them with green chutney and tomato kechup.</li>
             <li style="margin-bottom:5px;">Insert toothpic in each cutlet while plating.</li>
         </ol>
+    </div>
+</div>
+<div class="row" id="video">
+    <div class="col-md-12">
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/R_LY_gatT0k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
     </div>
 </div>
 <br>
