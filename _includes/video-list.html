@@ -4,7 +4,9 @@
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <ul class="list-unstyled">
     {% for post in site.categories[category_name] %}
+    {% if post.video %}
     <li><a href="{{ site.baseurl }}{{ post.url }}#video" class="item">{{post.title}}</a></li>
+    {% endif %}
     {% endfor %}
     </ul>
     {% endfor %}

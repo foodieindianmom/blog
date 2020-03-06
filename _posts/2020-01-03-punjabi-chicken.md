@@ -22,16 +22,6 @@ It’s a North Indian style chicken curry which you can serve with both rice and
 Not too hot and spicy,loaded with meaty flovour,and with the delicious aroma of whole spices,this punjabi chicken curryis loved by a lot of people who tryit for first time. Chicken curry and rice is a match made in heaven. This one is usually served with rice and naan at my place.
 </p>
 
-{% include orange-message.html content="<b>Cuisine</b>: Punjabi<br>
-    <b>Course</b>: Lunch, Dinner<br>
-    <b>Diet</b>: Non-Vegetarian<br>
-    <b>Equipments Used</b>: Kadai (Wok) / Heavy Bottomed Pan<br>
-    <b>Preparation Time</b>: 20 mins<br>
-    <b>Cooking Time</b>: 30 mins<br>
-    <b>Total Time</b>: 50 mins<br>
-    <b>Makes</b>: 2 Servings" 
-    %}
-
 <div class="row">
     <div class="col-md-6">
         <dl class="row">
