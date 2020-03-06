@@ -7,7 +7,7 @@ layout: default
 <div class="container">
     <div class="row">
         <div class="col-md-8">
-            <!--{{ page.date | date_to_string }} &bull;-->
+            <p class="text-right m-0"><i class="far fa-calendar-check"></i><small> {{ page.date | date: "%B %-d, %Y" }}</small></p>
             {% if post %}
             {% assign categories = post.categories %}
             {% else %}
@@ -29,6 +29,11 @@ layout: default
             {% include about.html %}
             {% include categories.html %}
             {% include video-list.html %}
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            {% include share-bar.html %}
         </div>
     </div>
     <br>

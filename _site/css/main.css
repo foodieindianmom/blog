@@ -3251,10 +3251,10 @@ body { font-size: 1.2rem; }
 @keyframes fade { from { opacity: .4; }
   to { opacity: 1; } }
 
-@media (max-width: 767px) { body { font-size: 1.5rem; }
-  .welcome-card { padding: 1rem; font-size: 1.2rem; }
-  .slideshow-container { width: 100%; position: relative; margin: auto; background-color: orangered; }
-  header { font-size: 1rem; } }
+@media (max-width: 767px) { .welcome-card { padding: 1rem; font-size: 1.2rem; }
+  .slideshow-container { width: 100%; position: relative; margin: auto; background-color: orangered; } }
+
+.post-list { list-style-position: inside; padding-left: 0; }
 
 header { background-color: orangered; }
 
@@ -3294,5 +3294,52 @@ footer p:last-child { margin-bottom: 0; }
 .page-title { min-width: 100px; text-align: center; padding-top: 10px; padding-bottom: 10px; margin-bottom: 10px; }
 
 .border-orangered { border-color: orangered; }
+
+/* Share Bar */
+#share-bar { font-size: 1.3rem; }
+
+/* Title */
+#share-bar h4 { margin-bottom: 10px; font-weight: 500; }
+
+/* All buttons */
+/* Each button */
+.share-button { margin: 0px; margin-bottom: 10px; margin-right: 10px; border: 1px solid #D3D6D2; padding: 5px 10px 5px 10px; }
+
+.share-button:hover { opacity: 1; color: #ffffff; }
+
+/* Facebook button */
+.fa-facebook-square { color: #3b5998; }
+
+.fa-facebook-square:hover { background-color: #3b5998; }
+
+/* Twitter button */
+.fa-twitter-square { color: #55acee; }
+
+.fa-twitter-square:hover { background-color: #55acee; }
+
+/* Pinterest button */
+.fa-pinterest-square { color: #cb2027; }
+
+.fa-pinterest-square:hover { background-color: #cb2027; }
+
+/* Tumblr button */
+.fa-tumblr-square { color: #32506d; }
+
+.fa-tumblr-square:hover { background-color: #32506d; }
+
+/* Reddit button */
+.fa-reddit-square { color: #ff4500; }
+
+.fa-reddit-square:hover { background-color: #ff4500; }
+
+/* LinkedIn button */
+.fa-linkedin { color: #007bb5; }
+
+.fa-linkedin:hover { background-color: #007bb5; }
+
+/* Email button */
+.fa-envelope-square { color: #444444; }
+
+.fa-envelope-square:hover { background-color: #444444; }
 
 /*# sourceMappingURL=main.css.map */

@@ -48,7 +48,7 @@ Here is how to make this Suji ke Appe.
 </div>
 <div class="row">
     <div class="col-md-12">
-        <ul style="line-height: 200%">
+        <ul class="post-list" style="line-height: 200%">
             <li>2 cups Suji / Semolina</li>
             <li>250 gm Curd</li>
             <li>1 fine chopped Tomato</li>
@@ -74,7 +74,7 @@ Here is how to make this Suji ke Appe.
 </div>
 <div class="row">
     <div class="col-md-12">
-        <ol class="text-justify" style="line-height: 200%">
+        <ol class="post-list text-justify" style="line-height: 200%">
             <li style="margin-bottom:5px;">Take a large mixing bowl. In that bowl add Suji, tomato, Green Peas, mashed potato, carrots, beans, capsicum, coriander leaves, salt and eno.</li>
             <li style="margin-bottom:5px;">Mix Well. Cover the bowl with a plate and keep it aside.</li>
             <li style="margin-bottom:5px;">Heat the Appam / Appe pan and apply oil in each circular mould in that pan with the help of an oil brush.</li>
