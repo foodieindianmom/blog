@@ -1,5 +1,7 @@
 ---
 ---
+$primary: orangered;
+
 @import 'bootstrap/bootstrap.scss';
 
 body {
@@ -10,8 +12,6 @@ body {
   padding: 2rem;
   font-size: 1.5rem;
 }
-
-
 
 * {box-sizing:border-box}
 
@@ -104,7 +104,17 @@ body {
   to {opacity: 1}
 }
 
+#logo-img {
+  height: 80px;
+}
+
 @media (max-width: 767px) {
+    #logo-img {
+      height: 50px;
+    }
+    .logo-text {
+      font-size: 1.125rem;
+    }
     .welcome-card {
       padding: 1rem;
       font-size: 1.2rem;

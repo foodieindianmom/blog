@@ -40,9 +40,9 @@
       <nav class="navbar navbar-expand-lg navbar-light m-0 p-0">
         <a class="navbar-brand" href="/index.html">
           <div class="d-flex align-items-center">
-            <img src="../images/Logo.png" alt="" height="80px">
+            <img src="../images/Logo.png" alt="" id="logo-img">
             <span class="mb-0">
-                <h2 class="m-0 p-0 font-weight-bold text-center">
+                <h2 class="m-0 p-0 font-weight-bold text-center logo-text">
                   Foody Indian <br>Mom
                 </h2>
             </span>
@@ -118,13 +118,13 @@
                     </div>
                 </div>
                 <div class="card border-orangered">
-                    <img src="../images/aloo_poha.jpg" class="card-img-top" alt="...">
+                    <img src="../images/suji_biscuits.jpg" class="card-img-top" alt="...">
                     <div class="card-body px-5">
-                        <h4 class="card-title">Humble & Amazing Aloo Poha</h4>
+                        <h4 class="card-title">Suji Biscuits</h4>
                         <p class="card-text"><i class="far fa-check-circle"></i> Easy to make</p>
-                        <p class="card-text"><i class="far fa-check-circle"></i> A Superb morning breakfast</p>
-                        <p class="card-text"><i class="far fa-check-circle"></i> Nutritious and Tasty <i class="far fa-smile"></i></p>
-                        <p class="card-text"><i class="far fa-check-circle"></i> Goes well with chai</p>
+                        <p class="card-text"><i class="far fa-check-circle"></i> Healthy and nutritious</p>
+                        <p class="card-text"><i class="far fa-check-circle"></i> Good for kids</p>
+                        <p class="card-text"><i class="far fa-check-circle"></i> Comes in all shapes <i class="far fa-smile"></i></p>
                     </div>
                 </div>
             </div>
@@ -133,8 +133,35 @@
 </div>
 <div class="container">
     <div class="divider"></div>
-    <h3>Latest Recipes</h3>
+    <div class="d-flex justify-content-between align-items-center">
+        <h3>Latest Recipes</h3>
+        <small><a href="/recipes.html" class="btn btn-primary btn-sm">View All</a></small>
+    </div>    
     <div class="row row-cols-1 row-cols-md-3 text-white">
+        
+        <div class="col mb-4">
+            <div class="card h-100">
+                <img src="/images/aloo_patta_gobhi.jpg" alt="" class="card-img-top" height="100%">
+                <div class="card-img-overlay d-flex flex-column justify-content-end p-0">
+                    <div class="card-title justify-content-center" id="pointer">
+                        <strong class="p-2">Cabbage Potato Stir Fry</strong>
+                    </div>
+                </div>
+                <a href="/aloo_patta_gobhi" class="stretched-link"></a>
+            </div>
+        </div>
+        
+        <div class="col mb-4">
+            <div class="card h-100">
+                <img src="/images/aloo_poha.jpg" alt="" class="card-img-top" height="100%">
+                <div class="card-img-overlay d-flex flex-column justify-content-end p-0">
+                    <div class="card-title justify-content-center" id="pointer">
+                        <strong class="p-2">Aloo Matar Poha</strong>
+                    </div>
+                </div>
+                <a href="/aloo_poha" class="stretched-link"></a>
+            </div>
+        </div>
         
         <div class="col mb-4">
             <div class="card h-100">
@@ -144,7 +171,7 @@
                         <strong class="p-2">Suji Appam</strong>
                     </div>
                 </div>
-                <a href="/suji_appam/" class="stretched-link"></a>
+                <a href="/suji_appam" class="stretched-link"></a>
             </div>
         </div>
         
@@ -156,7 +183,7 @@
                         <strong class="p-2">Sesame Laddoo</strong>
                     </div>
                 </div>
-                <a href="/sesame_laddoo/" class="stretched-link"></a>
+                <a href="/sesame_laddoo" class="stretched-link"></a>
             </div>
         </div>
         
@@ -168,7 +195,7 @@
                         <strong class="p-2">Peanut Chutney</strong>
                     </div>
                 </div>
-                <a href="/peanut_chutney/" class="stretched-link"></a>
+                <a href="/peanut_chutney" class="stretched-link"></a>
             </div>
         </div>
         
@@ -180,31 +207,7 @@
                         <strong class="p-2">Lucknowi Mutton Curry</strong>
                     </div>
                 </div>
-                <a href="/mutton_curry/" class="stretched-link"></a>
-            </div>
-        </div>
-        
-        <div class="col mb-4">
-            <div class="card h-100">
-                <img src="/images/sambhar.jpg" alt="" class="card-img-top" height="100%">
-                <div class="card-img-overlay d-flex flex-column justify-content-end p-0">
-                    <div class="card-title justify-content-center" id="pointer">
-                        <strong class="p-2">Sambhar</strong>
-                    </div>
-                </div>
-                <a href="/sambhar/" class="stretched-link"></a>
-            </div>
-        </div>
-        
-        <div class="col mb-4">
-            <div class="card h-100">
-                <img src="/images/vada.jpg" alt="" class="card-img-top" height="100%">
-                <div class="card-img-overlay d-flex flex-column justify-content-end p-0">
-                    <div class="card-title justify-content-center" id="pointer">
-                        <strong class="p-2">Medu Vada</strong>
-                    </div>
-                </div>
-                <a href="/medu_vada/" class="stretched-link"></a>
+                <a href="/mutton_curry" class="stretched-link"></a>
             </div>
         </div>
         

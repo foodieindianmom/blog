@@ -6,7 +6,10 @@ description: Foody Indian Mom is a blog about Indian Cuisine with vegetarian and
 {% include highlighted-recipe.html %}
 <div class="container">
     <div class="divider"></div>
-    <h3>Latest Recipes</h3>
+    <div class="d-flex justify-content-between align-items-center">
+        <h3>Latest Recipes</h3>
+        <small><a href="/recipes.html" class="btn btn-primary btn-sm">View All</a></small>
+    </div>    
     <div class="row row-cols-1 row-cols-md-3 text-white">
         {% for post in site.posts limit:6 %}
         <div class="col mb-4">
