@@ -3,6 +3,7 @@ layout: post
 title:  "Suji Appam"
 slug: suji_appam
 author: Parul
+tags: suji appam appe semolina vegetable snack chutney breakfast instant homemade streetfood southindian appampan recipe kidstiffin lunchbox healthy india eatright curd dahi eno good option foodyindianmom less oil fit diet savoury salty
 date:   2020-03-06 21:32:23 +0530
 categories: Food
 imagePath: /images/suji_appam.jpg

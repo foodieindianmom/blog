@@ -3,6 +3,7 @@ layout: post
 title:  "Sabudana Vada"
 slug: sabudana_vada
 author: Parul
+tags: sabudana vada potato  aloo maharashtrian snack fasting recipe vrat mouthwatering healthy festival breakfast spicy chutney indian snack crispy upvas sago tapioca pearls peanuts navratri foodyindianmom fried teatime evening snack homemade
 date:   2020-03-09 17:58:23 +0530
 categories: Food
 video: https://www.youtube.com/embed/UBO-urwwCZk

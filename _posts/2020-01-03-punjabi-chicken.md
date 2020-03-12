@@ -3,6 +3,8 @@ layout: post
 title:  "Punjabi Chicken Curry"
 slug: punjabi_chicken_curry
 author: Parul
+tags: chicken curry punjabi homestyle foodporn spicy mompresso gravy festivals indian food foodblog foodie healthy eating tasty non-vegetarian non-veg northindian namakshmak chef thali recipies lunch dinner butter naan  tandori roti chicken tikka masala youtube likes
+
 date:   2020-01-03 00:51:23 +0530
 categories: Food
 video: https://www.youtube.com/embed/8q6ItwXCEDY

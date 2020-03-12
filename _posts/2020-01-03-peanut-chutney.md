@@ -4,6 +4,7 @@ title:  "Peanut Chutney"
 description: ""
 slug: peanut_chutney
 author: Parul
+tags: instant peanuts munghfali chutney indianfoodbloggers recipe spicy yummy delicious idli vada sambhar dosa indian foodyindianmom likes youtube dips greenchili healthy food southindian breakfast  eatrightindia healthyindia snack cooking nutritous
 date:   2020-03-01 15:16:23 +0530
 categories: Food
 video: https://www.youtube.com/embed/0d7j5T90BGw

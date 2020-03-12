@@ -4,6 +4,7 @@ title:  "Lucknowi Mutton Curry"
 description: ""
 slug: mutton_curry
 author: Parul
+tags: mutton curry non-veg non-vegetarian northindian roomali roti Tandori roti bakrid spicy healthy gravy muttonchops indian lunch dinner party lambcurry foodyindianmom recipe nonvegfoodlovers awadhi traditional masala goat meat nonvegfoodideas
 date:   2020-03-01 15:01:23 +0530
 categories: Food
 video: https://www.youtube.com/embed/_GsjIFM3boA
