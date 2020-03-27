@@ -6,6 +6,7 @@ author: Parul
 tags: poha cutlet cutlets snack foodyindianmom
 date:   2020-03-12 21:05:23 +0530
 categories: Food
+type: /images/veg.png
 video: https://www.youtube.com/embed/CdPZ4jOXO94
 imagePath: /images/poha_cutlet.jpg
 ---

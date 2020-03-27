@@ -6,6 +6,7 @@ author: Parul
 tags: aloo potato pattagobhi spicy stirfry sabji cabbage spices healthy tasty vegetarian thali recipe roti paratha dal rice northindian sookhi sabji sidedish easy simple kadhai dinner lunch ideas indianthali indiafood eatrightindia recipe foodies homemade 
 date:   2020-03-09 15:58:23 +0530
 categories: Food
+type: /images/veg.png
 imagePath: /images/aloo_patta_gobhi.jpg
 ---
 <p class="text-justify" style="line-height: 175%;">

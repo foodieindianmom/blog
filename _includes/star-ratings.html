@@ -1,0 +1,9 @@
+{% for i in (1..5) %}
+{% assign x = x + 1 %}
+{% if i <= include.rating %}
+{% assign stars = stars | append: '<i class="fas fa-star text-primary"></i>' %}
+{% else %}
+{% assign stars = stars | append: '<i class="far fa-star text-primary"></i>' %}
+{% endif %}
+{% endfor %}
+<p class="star-rating">Rating: <span>{{ stars }} {{ x }}</span></p>

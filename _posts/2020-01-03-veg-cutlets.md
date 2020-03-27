@@ -6,6 +6,7 @@ author: Parul
 tags: Vegetable Cutlets Healthy breakfast snack food spicy  chutney monsoon indian streetfood homestyle foodyindianmom tea party tiffin box lunchbox kids recipe healthyeating yummy nutritous breadcrumbs cheese blackpepper capsicum cauliflower potato carrots onions chef masterchef
 date:   2020-01-03 00:51:23 +0530
 categories: Food
+type: /images/veg.png
 video: https://www.youtube.com/embed/h53iGuVkoEs
 imagePath: /images/veg_cutlets.png
 ---

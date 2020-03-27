@@ -7,6 +7,7 @@ tags: chicken curry punjabi homestyle foodporn spicy mompresso gravy festivals i
 
 date:   2020-01-03 00:51:23 +0530
 categories: Food
+type: /images/non-veg.png
 video: https://www.youtube.com/embed/8q6ItwXCEDY
 imagePath: /images/punjabi_chicken.png
 ---

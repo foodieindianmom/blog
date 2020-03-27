@@ -5,8 +5,8 @@ slug: matar_ka_nimona
 author: Parul
 tags: Matar Nimona winters fresh greeenpeas  dinnerideas spicy gravy rice roti paratha indian northindian food yummy curry vegetarian uttarpradesh traditional homestyle like vadiyaan potato masala thickcurry healthy tasty dinner lunch indianthali foodyindianmom  
 date:   2020-01-05 00:51:23 +0530
-tags:   food peas awadhi matar
 categories: Food
+type: /images/veg.png
 video: https://www.youtube.com/embed/S6SAIBX0b-4
 imagePath: /images/matar_nimona.jpg
 published: true
