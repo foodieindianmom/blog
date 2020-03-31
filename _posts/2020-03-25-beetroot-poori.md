@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Beetroot Poori"
+short_title:  "Beetroot Poori"
 slug: beetroot_poori
 author: Parul
 tags: beetroot poori foodyindianmom

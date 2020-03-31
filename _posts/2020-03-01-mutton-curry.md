@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Lucknowi Mutton Curry"
+short_title:  "Lucknowi Mutton Curry"
 description: ""
 slug: mutton_curry
 author: Parul

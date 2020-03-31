@@ -12,14 +12,14 @@ permalink: /recipes.html
         <div class="col-md-8">
             <div class="divider"></div>
             <h3>All Recipes</h3>
-            <div class="row row-cols-1 row-cols-md-2 text-white">
+            <div class="row row-cols-1 row-cols-md-3 text-white">
                 {% for post in site.posts %}
                 <div class="col mb-4">
                     <div class="card h-100">
                         <img src="{{ post.imagePath }}" alt="" class="card-img-top" height="100%">
                         <div class="card-img-overlay d-flex flex-column justify-content-end p-0">
-                            <div class="card-title justify-content-center" id="pointer">
-                                <strong class="p-2">{{ post.title }}</strong>
+                            <div class="justify-content-center" id="pointer">
+                                <strong>{{ post.short_title }}</strong>
                             </div>
                         </div>
                         <a href="{{ post.url }}" class="stretched-link"></a>

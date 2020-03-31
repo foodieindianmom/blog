@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Bathua Poori & Kachori"
+title:  "Bathua Puri & Kachori"
+short_title:  "Bathua Puri & Kachori"
 slug: bathua_poori_kachori
 author: Parul
 tags: bathua poori aloo kachori foodyindianmom

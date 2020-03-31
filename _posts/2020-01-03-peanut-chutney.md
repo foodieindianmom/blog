@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Peanut Chutney"
+short_title:  "Peanut Chutney"
 description: ""
 slug: peanut_chutney
 author: Parul

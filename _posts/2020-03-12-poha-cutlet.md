@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Poha Cutlets"
+short_title:  "Poha Cutlets"
 slug: poha_cutlets
 author: Parul
 tags: poha cutlet cutlets snack foodyindianmom

@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  " Chessy Vegetable Cutlets"
+title:  "Cheesy Vegetable Cutlets"
+short_title:  "Cheesy Veg Cutlets"
 slug: veg_cutlets
 author: Parul
 tags: Vegetable Cutlets Healthy breakfast snack food spicy  chutney monsoon indian streetfood homestyle foodyindianmom tea party tiffin box lunchbox kids recipe healthyeating yummy nutritous breadcrumbs cheese blackpepper capsicum cauliflower potato carrots onions chef masterchef

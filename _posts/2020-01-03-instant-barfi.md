@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Instant Coconut Barfi"
+short_title:  "Instant Coconut Barfi"
 slug: instant_burfi
 author: Parul
 tags: cocunut nariyal  barfi mithai indian sweet foodyindianmom tasty delicious recipe Cooking chef  dessert festival instant likes youtube instagramfood sweet snack yummy indian dessinated cocunut semolina ladoo barfi peda katli sugar dryfruits ghee favourite meetha

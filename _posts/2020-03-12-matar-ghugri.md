@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Aloo Matar Ghugri"
+short_title:  "Aloo Matar Ghugri"
 slug: aloo_ghugri
 author: Parul
 tags: aloo potato matar greenpeas stir fry indian winter snack foodyindianmom

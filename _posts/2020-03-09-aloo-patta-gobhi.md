@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Cabbage Potato Stir Fry"
+short_title:  "Cabbage Potato Fry"
 slug: aloo_patta_gobhi
 author: Parul
 tags: aloo potato pattagobhi spicy stirfry sabji cabbage spices healthy tasty vegetarian thali recipe roti paratha dal rice northindian sookhi sabji sidedish easy simple kadhai dinner lunch ideas indianthali indiafood eatrightindia recipe foodies homemade 

@@ -3279,11 +3279,7 @@ header { background-color: orangered; }
 
 .recipe-section-divider { width: 20px; border: 0; border-top: 3px solid orangered; }
 
-#pointer { width: 80%; height: 40px; position: relative; background: orangered; opacity: 0.75; }
-
-#pointer:after { content: ""; position: absolute; left: 0; bottom: 0; width: 0; height: 0; border-top: 20px solid transparent; border-bottom: 20px solid transparent; }
-
-#pointer:before { content: ""; position: absolute; right: -20px; bottom: 0; width: 0; height: 0; border-left: 20px solid orangered; border-top: 20px solid transparent; border-bottom: 20px solid transparent; }
+#pointer { width: 100%; position: relative; background: rgba(255, 69, 0, 0.75); text-align: center; color: white; }
 
 .active { font-weight: bold; }
 

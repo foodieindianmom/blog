@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Mutton Keema"
+short_title:  "Mutton Keema"
 slug: mutton_keema
 author: Parul
 tags: mutton keema gravy comfort food foodyindianmom

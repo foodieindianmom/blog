@@ -178,33 +178,33 @@ header {
 }
 
 #pointer {
-    width: 80%;
-    height: 40px;
+    width: 100%;
     position: relative;
-    background: orangered;
-    opacity: 0.75;
+    background: rgba(255,69,0,0.75);
+    text-align: center;
+    color: white;
 }
-#pointer:after {
-    content: "";
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    width: 0;
-    height: 0;
-    border-top: 20px solid transparent;
-    border-bottom: 20px solid transparent;
-}
-#pointer:before {
-    content: "";
-    position: absolute;
-    right: -20px;
-    bottom: 0;
-    width: 0;
-    height: 0;
-    border-left: 20px solid orangered;
-    border-top: 20px solid transparent;
-    border-bottom: 20px solid transparent;
-}
+// #pointer:after {
+//     content: "";
+//     position: absolute;
+//     left: 0;
+//     bottom: 0;
+//     width: 0;
+//     height: 0;
+//     border-top: 20px solid transparent;
+//     border-bottom: 20px solid transparent;
+// }
+// #pointer:before {
+//     content: "";
+//     position: absolute;
+//     right: -20px;
+//     bottom: 0;
+//     width: 0;
+//     height: 0;
+//     border-left: 20px solid orangered;
+//     border-top: 20px solid transparent;
+//     border-bottom: 20px solid transparent;
+// }
 
 .active {
     font-weight: bold;

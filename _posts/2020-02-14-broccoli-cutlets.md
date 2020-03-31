@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Broccoli Cutlets"
+short_title:  "Broccoli Cutlets"
 slug: broccoli_cutlers
 author: Parul
 tags: Brocolli superfood cutlets healthy food lunchbox tiffin ideas kids teatime snack eveningsnack vegetable vegetarian vegan cooking eating snack tea breakfast recipe

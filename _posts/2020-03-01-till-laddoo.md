@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Sesame Laddoo"
+short_title:  "Sesame Laddoo"
 description: ""
 slug: sesame_laddoo
 author: Parul
