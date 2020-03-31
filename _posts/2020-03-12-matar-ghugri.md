@@ -6,7 +6,7 @@ slug: aloo_ghugri
 author: Parul
 tags: aloo potato matar greenpeas stir fry indian winter snack foodyindianmom
 date:   2020-03-12 20:45:23 +0530
-categories: Food
+categories: All  Snacks
 type: /images/veg.png
 video: https://www.youtube.com/embed/aNnU82AL2B4
 imagePath: /images/aloo_ghugri.jpg

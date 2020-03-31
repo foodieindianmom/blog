@@ -6,7 +6,7 @@ slug: broccoli_cutlers
 author: Parul
 tags: Brocolli superfood cutlets healthy food lunchbox tiffin ideas kids teatime snack eveningsnack vegetable vegetarian vegan cooking eating snack tea breakfast recipe
 date:   2020-02-14 00:01:23 +0530
-categories: Food
+categories: All  Snacks
 type: /images/veg.png
 video: https://www.youtube.com/embed/R_LY_gatT0k
 imagePath: /images/broccoli_cutlets.jpg

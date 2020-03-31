@@ -6,7 +6,7 @@ slug: bathua_poori_kachori
 author: Parul
 tags: bathua poori aloo kachori foodyindianmom
 date:   2020-03-25 15:05:23 +0530
-categories: Food
+categories: All  Breads
 type: /images/veg.png
 video: https://www.youtube.com/embed/iRNB73Jf0Do
 imagePath: /images/bathua_poori_kachori.jpg

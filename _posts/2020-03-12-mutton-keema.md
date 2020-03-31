@@ -6,7 +6,7 @@ slug: mutton_keema
 author: Parul
 tags: mutton keema gravy comfort food foodyindianmom
 date:   2020-03-12 21:25:23 +0530
-categories: Food
+categories: All  Curries
 type: /images/non-veg.png
 video: https://www.youtube.com/embed/HZsZqYDmqKc
 imagePath: /images/mutton_keema.jpg

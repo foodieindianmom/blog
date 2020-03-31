@@ -6,7 +6,7 @@ slug: moong_upma
 author: Parul
 tags: moong dal upma foodyindianmom
 date:   2020-03-31 19:05:23 +0530
-categories: Food
+categories: All  Snacks
 type: /images/veg.png
 video: https://www.youtube.com/embed/lJPyVmO_DdM
 imagePath: /images/moong_upma.jpg

@@ -6,7 +6,7 @@ slug: amla_chutney
 author: Parul
 tags: spicy amla chutney foodyindianmom
 date:   2020-03-31 21:05:23 +0530
-categories: Food
+categories: All  Sides
 type: /images/veg.png
 video: https://www.youtube.com/embed/sv0CL-Ux8eA
 imagePath: /images/amla_chutney.jpg

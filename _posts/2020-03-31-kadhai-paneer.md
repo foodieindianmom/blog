@@ -6,7 +6,7 @@ slug: kadhai_paneer
 author: Parul
 tags: kadhai paneer foodyindianmom
 date:   2020-03-31 16:05:23 +0530
-categories: Food
+categories: All  Curries
 type: /images/veg.png
 video: https://www.youtube.com/embed/HHa0K8cYxlY
 imagePath: /images/kadhai_paneer.jpg

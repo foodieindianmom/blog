@@ -7,7 +7,7 @@ slug: sesame_laddoo
 author: Parul
 tags: til ladoo tilkut makarsankrati jaggery sweet indiandessert winters health benefits foodyindianmom sesame gur til blacktil whitetil browntil tilpatti mithai festival easy tasty delicious sesame jaggery balls homemade lohri pongal warmth favourite energy ladoo instant
 date:   2020-03-01 15:20:23 +0530
-categories: Food
+categories: All  Desserts
 type: /images/veg.png
 video: https://www.youtube.com/embed/LejJlY_6Bls
 imagePath: /images/til-laddoo.jpg

@@ -6,7 +6,7 @@ slug: paneer_paratha
 author: Parul
 tags: paneer paratha foodyindianmom
 date:   2020-03-31 18:05:23 +0530
-categories: Food
+categories: All  Breads
 type: /images/veg.png
 video: https://www.youtube.com/embed/XCphy_-yqYE
 imagePath: /images/paneer_paratha.jpg

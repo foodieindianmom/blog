@@ -6,7 +6,7 @@ slug: instant_burfi
 author: Parul
 tags: cocunut nariyal  barfi mithai indian sweet foodyindianmom tasty delicious recipe Cooking chef  dessert festival instant likes youtube instagramfood sweet snack yummy indian dessinated cocunut semolina ladoo barfi peda katli sugar dryfruits ghee favourite meetha
 date:   2020-01-03 00:51:23 +0530
-categories: Food
+categories: All  Desserts
 type: /images/veg.png
 video: https://www.youtube.com/embed/isWhuAP-qJ0
 imagePath: /images/nariyal_barfi.png
