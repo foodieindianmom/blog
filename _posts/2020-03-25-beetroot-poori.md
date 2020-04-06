@@ -6,7 +6,7 @@ slug: beetroot_poori
 author: Parul
 tags: beetroot poori foodyindianmom
 date:   2020-03-25 16:05:23 +0530
-categories: All  Breads
+categories: All Breads
 type: /images/veg.png
 video: https://www.youtube.com/embed/LzA6cF1B-jw
 imagePath: /images/beetroot_poori.jpg

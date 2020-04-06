@@ -6,7 +6,7 @@ slug: chickpeas_salad
 author: Parul
 tags: chickpeas salad foodyindianmom
 date:   2020-03-31 17:05:23 +0530
-categories: All  Salads
+categories: All Salads
 type: /images/veg.png
 video: https://www.youtube.com/embed/zDEYystcvBE
 imagePath: /images/chickpeas_salad.jpg
