@@ -4,7 +4,7 @@ title:  "Garlic Butter Naan"
 short_title:  "Garlic Butter Naan"
 slug: garlic_naan
 author: Parul
-tags: garlic butter naan foodyindianmom
+tags: garlicButterNaan Naan Recipe Indian Flatbread Recipe ButterNaan Kulcha Fluffy and soft Naan Recipe Naan with Yeast Recipe Naan on rolling board Pudina Naan Naan with baking powder Naan with Curd Recipe Naan for Vegetarian dishes Naan for Nonvegetarian Dishes foodyindianmom Recipies
 date:   2020-04-03 20:05:23 +0530
 categories: All Breads
 type: /images/veg.png

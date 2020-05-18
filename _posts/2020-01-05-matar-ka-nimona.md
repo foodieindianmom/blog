@@ -4,7 +4,7 @@ title:  "Matar Ka Nimona"
 short_title:  "Matar Ka Nimona"
 slug: matar_ka_nimona
 author: Parul
-tags: Matar Nimona winters fresh greeenpeas  dinnerideas spicy gravy rice roti paratha indian northindian food yummy curry vegetarian uttarpradesh traditional homestyle like vadiyaan potato masala thickcurry healthy tasty dinner lunch indianthali foodyindianmom  
+tags: Matar ka Nimona winters fresh greeenpeas curry dinnerideas spicy gravy north indian style rice roti paratha indian northindian food yummy curry vegetarian uttarpradesh traditional homestyle like vadiyaan potato masala thickcurry healthy tasty dinner lunch indianthali foodyindianmom
 date:   2020-01-05 00:51:23 +0530
 categories: All  Curries
 type: /images/veg.png

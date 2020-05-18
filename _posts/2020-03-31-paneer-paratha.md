@@ -4,7 +4,7 @@ title:  "Paneer Paratha"
 short_title:  "Paneer Paratha"
 slug: paneer_paratha
 author: Parul
-tags: paneer paratha foodyindianmom
+tags: paneer paratha North indian style cottage cheese stuffed indian flatbread spicy paneer stuffed paratha punjabi paneer paratha how to make fluffy and crispy Paneer paratha Paneer recipies powerpack of many nutrients Classic style Paneer Paratha kids tiffin kids lunchboxes lunch dinner breakfast dhabha style foodyindianmom
 date:   2020-03-31 18:05:23 +0530
 categories: All  Breads
 type: /images/veg.png

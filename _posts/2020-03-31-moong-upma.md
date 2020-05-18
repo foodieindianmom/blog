@@ -4,7 +4,7 @@ title:  "Steamed Moong Dal Upma"
 short_title:  "Moong Dal Upma"
 slug: moong_upma
 author: Parul
-tags: moong dal upma foodyindianmom
+tags: moong dal upma Moong Dal Recipies Upma Recipies diet Recipe Weight loss recipe less oil breakfast recipe healthy and tasty breakfast recipe easy digestable breakfast moong dal upma breakfast helpful for person having high cholestrol high blood pressure diabeties weight loss recipe lentils upma foodyindianmom
 date:   2020-03-31 19:05:23 +0530
 categories: All  Snacks
 type: /images/veg.png

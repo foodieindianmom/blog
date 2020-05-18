@@ -4,7 +4,7 @@ title:  "Bathua Puri & Kachori"
 short_title:  "Bathua Puri & Kachori"
 slug: bathua_poori_kachori
 author: Parul
-tags: bathua poori aloo kachori foodyindianmom
+tags: bathua poori Bathua aloo kachori Bathua recipies Potato stuffed Bathua indian fried flatbread chenophodium Album fried flatbread green leafy vegetables healthy food breakfast lunch dinner green poori bathua has health benefits powerhouse of many nutrients Vitamin rich bathua kid tiffin foodyindianmom
 date:   2020-03-25 15:05:23 +0530
 categories: All  Breads
 type: /images/veg.png

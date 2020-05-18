@@ -4,7 +4,7 @@ title:  "Raw Mango Panaa"
 short_title:  "Raw Mango Panaa"
 slug: mango_panaa
 author: Parul
-tags: Raw Mango Panaa cold drink foodyindianmom
+tags: Raw Mango Panaa raw mango drink indian beverages How to make Raw Mango Panna best Desi drinks in summers kaccha aam ka pana recipe heat resistant drink coolant drink healthy drink Raw Mango found in abundance in summers Indianspices infused raw mango panna foodyindianmom
 date:   2020-04-02 22:05:23 +0530
 categories: All Drinks
 type: /images/veg.png

@@ -4,7 +4,7 @@ title:  "Aloo Matar Ghugri"
 short_title:  "Aloo Matar Ghugri"
 slug: aloo_ghugri
 author: Parul
-tags: aloo potato matar greenpeas stir fry indian winter snack foodyindianmom
+tags: Matar ki Ghughri matar ki ghughni aloo matar ghughri breakfast recipe winter special starter recipe north indian style Uttar pradesh famous matar ki ghugritea time evening snackfresh green peas potato ghughri breakfastgreen peas potato stir fry indian winter snacks appetizerhealthy naasta naaste ki recipe foodyindianmom
 date:   2020-03-12 20:45:23 +0530
 categories: All  Snacks
 type: /images/veg.png

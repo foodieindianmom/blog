@@ -4,7 +4,7 @@ title:  "Sprouted Chickpeas Salad"
 short_title:  "Chickpeas Salad"
 slug: chickpeas_salad
 author: Parul
-tags: chickpeas salad foodyindianmom
+tags: sprouted black chickpeas chaat street style kala chaat healthy sprouted black chickpeas salad kids tiffin indian healthy breakfast chaat recipies sprouted salad recipe kids lunchbox boiled kala chana chaat sprouted black chickpeas chaat sprouted kala chana chaat what is sprouting foodyindianmom
 date:   2020-03-31 17:05:23 +0530
 categories: All Salads
 type: /images/veg.png

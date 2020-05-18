@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Kathal Kofta"
-short_title:  "Jackfruit Kofta"
+title:  "Kathal Kofta Curry"
+short_title:  "Jackfruit Kofta Curry"
 slug: kathal_kofta
 author: Parul
-tags: kathal kofta jackfruit food foodyindianmom
+tags: kathal kofta jackfruit Curry Spicy and Thick Curry Dish Jackfruit kofta curry kathal recipes jackfrit curry recipe vegetarian kofta curry kathal ki sabzi foody india mom subsitute for nonvegetarian mutton kofta How To Make kathal kofta curry northindianstyle kathal kofta how to make jackfruit kofta gravy foody indian mom food foodyindianmom
 date:   2020-04-02 21:25:23 +0530
 categories: All Curries
 type: /images/veg.png

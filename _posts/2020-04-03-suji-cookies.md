@@ -5,7 +5,7 @@ short_title:  "Suji Cookies"
 description: ""
 slug: suji_cookies
 author: Parul
-tags: semolina cookies suji food foodyindianmom
+tags: Suji ke Buiscuit Semolina Cookies FoodyindianmomRecipes IndianSweetSnack kid tiffin kid lunchboxes energy bar Kid Favourite snack Suji atte ke buiscuit Healthy biscuits Rava Ke Biscuits Semolina Dessert Recipe Sooji Recipies
 date:   2020-04-03 15:20:23 +0530
 categories: All Snacks
 type: /images/veg.png

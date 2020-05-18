@@ -4,7 +4,7 @@ title:  "Curd Chilli"
 short_title:  "Curd Chilli"
 slug: curd_chilli
 author: Parul
-tags: curd chilli food foodyindianmom
+tags: curd chilli Dahi Mirchi Stuffed curd chillies moru miris sandgi mirchi sundried curd chillies taste enhancer indian thali chatpati spicy curd chillies store in air tight container shell life is 6 months Spicy Dahi mirchi fried dried curd chillies foodyindianmom
 date:   2020-04-02 22:25:23 +0530
 categories: All Sides
 type: /images/veg.png

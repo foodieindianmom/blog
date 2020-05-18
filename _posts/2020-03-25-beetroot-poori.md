@@ -4,7 +4,7 @@ title:  "Beetroot Poori"
 short_title:  "Beetroot Poori"
 slug: beetroot_poori
 author: Parul
-tags: beetroot poori foodyindianmom
+tags: beetroot poori chukandar ki pooriyan healthy breakfast pink poori deer fried breadmade of atta called Poori Grated Beetroot  beetroot recipies breakfast lunch dinner kids tiffin kid lunchbox foodyindianmom
 date:   2020-03-25 16:05:23 +0530
 categories: All Breads
 type: /images/veg.png

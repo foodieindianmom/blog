@@ -4,7 +4,7 @@ title:  "Mutton Keema"
 short_title:  "Mutton Keema"
 slug: mutton_keema
 author: Parul
-tags: mutton keema gravy comfort food foodyindianmom
+tags: mutton keema gravy non vegetarian curry recipenorth indian style mutton keemamutton keema infused with aromatic spiceshealthy and delicious mutton keemadinner lunch Naan Roomali Roti Rice delicious and flavourful meat keema curry lamb meat curry recipe minced meat gravy recipe comfort food foodyindianmom
 date:   2020-03-12 21:25:23 +0530
 categories: All  Curries
 type: /images/non-veg.png

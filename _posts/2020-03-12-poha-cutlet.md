@@ -4,7 +4,7 @@ title:  "Poha Cutlets"
 short_title:  "Poha Cutlets"
 slug: poha_cutlets
 author: Parul
-tags: poha cutlet cutlets snack foodyindianmom
+tags: poha cutlets, indian snacks, party snacks, apetizer recipe, healthy cutlets, beaten rice cutlets,tea time evening snack,breakfast recipe, kids tiffin , tasty and yummy Poha Cutlets, crispy and crunchy Poha cUtlets , Crispy crunchy snacks, moonsoon snacks,chai time snacks, cutlets snack foodyindianmom
 date:   2020-03-12 21:05:23 +0530
 categories: All Snacks
 type: /images/veg.png

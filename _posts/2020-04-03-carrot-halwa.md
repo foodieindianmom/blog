@@ -5,7 +5,7 @@ short_title:  "Carrot Halwa"
 description: ""
 slug: carrot_halwa
 author: Parul
-tags: carrot halwa gajar foodyindianmom
+tags: carrotPudding Gajar Ka Halwa How To make delicious and yummy Gajar ka halwa Carrot Halwa Gajar Pak Indian famous dessert Sweet dish indian popular gajar ka halwa Carrots khoya halwa condensed milk carrots halwa dryfruits carrots halwa winter special dessert ghee rich gajar halwa northindianstyle gajar ka halwa homemade style gajar ka halwaRed carrots Dessert Red carrots halwa recipe foodyindianmom
 date:   2020-04-03 16:20:23 +0530
 categories: All Desserts
 type: /images/veg.png
