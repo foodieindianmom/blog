@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spinach Soya Cutlets"
-short_title:  "Spinach Cutlets"
+short_title:  "Spinach Soya Cutlets"
 slug: spinach_cutlets
 author: Parul
 tags: spinach soya cutlets recipe foodyindianmom
