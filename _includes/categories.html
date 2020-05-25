@@ -1,9 +1,164 @@
-<div class="px-4 mb-2">
-    <h5 class="font-weight-bold">Latest Recipes</h5>
-    <ul class="list-unstyled">
-    {% for post in site.posts %}
-    <li><a href="{{ site.baseurl }}{{ post.url }}" class="item">{{post.title}}</a></li>
-    {% endfor %}
-    </ul>
-    </ul>
+<div class="px-1 mb-2">
+    <div class="accordion" id="accordionExample">
+        <div class="card p-0">
+          <div class="card-header" id="headingOne">
+            <h2 class="mb-0">
+              <div class="d-flex justify-content-between align-items-center m-0">
+                <a href="#" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                  Curries 
+                </a>
+              </div>
+            </h2>
+          </div>
+          <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+            <div class="card-body">
+                <ul class="list-unstyled">
+                    {% for post in site.categories.Curries %}
+                    <li><img src="{{ post.type }}" height="10px">&nbsp;<a href="{{ site.baseurl }}{{ post.url }}" class="item">{{post.title}}</a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header" id="headingTwo">
+            <h2 class="mb-0">
+              <div class="d-flex justify-content-between align-items-center m-0">
+                <a href="#" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                  Breads 
+                </a>
+              </div>
+            </h2>
+          </div>
+          <div id="collapseTwo" class="collapse hide" aria-labelledby="headingTwo" data-parent="#accordionExample">
+            <div class="card-body">
+                <ul class="list-unstyled">
+                    {% for post in site.categories.Breads %}
+                    <li><img src="{{ post.type }}" height="10px">&nbsp;<a href="{{ site.baseurl }}{{ post.url }}" class="item">{{post.title}}</a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header" id="headingThree">
+            <h2 class="mb-0">
+              <div class="d-flex justify-content-between align-items-center m-0">
+                <a href="#" data-toggle="collapse" data-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
+                  Snacks 
+                </a>
+              </div>
+            </h2>
+          </div>
+          <div id="collapseThree" class="collapse hide" aria-labelledby="headingThree" data-parent="#accordionExample">
+            <div class="card-body">
+                <ul class="list-unstyled">
+                    {% for post in site.categories.Snacks %}
+                    <li><img src="{{ post.type }}" height="10px">&nbsp;<a href="{{ site.baseurl }}{{ post.url }}" class="item">{{post.title}}</a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header" id="headingFour">
+            <h2 class="mb-0">
+              <div class="d-flex justify-content-between align-items-center m-0">
+                <a href="#" data-toggle="collapse" data-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
+                  Desserts 
+                </a>
+              </div>
+            </h2>
+          </div>
+          <div id="collapseFour" class="collapse hide" aria-labelledby="headingFour" data-parent="#accordionExample">
+            <div class="card-body">
+                <ul class="list-unstyled">
+                    {% for post in site.categories.Desserts %}
+                    <li><img src="{{ post.type }}" height="10px">&nbsp;<a href="{{ site.baseurl }}{{ post.url }}" class="item">{{post.title}}</a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header" id="headingFive">
+            <h2 class="mb-0">
+              <div class="d-flex justify-content-between align-items-center m-0">
+                <a href="#" data-toggle="collapse" data-target="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
+                  Drinks 
+                </a>
+              </div>
+            </h2>
+          </div>
+          <div id="collapseFive" class="collapse hide" aria-labelledby="headingFive" data-parent="#accordionExample">
+            <div class="card-body">
+                <ul class="list-unstyled">
+                    {% for post in site.categories.Drinks %}
+                    <li><img src="{{ post.type }}" height="10px">&nbsp;<a href="{{ site.baseurl }}{{ post.url }}" class="item">{{post.title}}</a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header" id="headingSix">
+            <h2 class="mb-0">
+              <div class="d-flex justify-content-between align-items-center m-0">
+                <a href="#" data-toggle="collapse" data-target="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
+                  Veggies
+                </a>
+              </div>
+            </h2>
+          </div>
+          <div id="collapseSix" class="collapse hide" aria-labelledby="headingSix" data-parent="#accordionExample">
+            <div class="card-body">
+                <ul class="list-unstyled">
+                    {% for post in site.categories.Veggies  %}
+                    <li><img src="{{ post.type }}" height="10px">&nbsp;<a href="{{ site.baseurl }}{{ post.url }}" class="item">{{post.title}}</a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header" id="headingSeven">
+            <h2 class="mb-0">
+              <div class="d-flex justify-content-between align-items-center m-0">
+                <a href="#" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="true" aria-controls="collapseSeven">
+                  Salads 
+                </a>
+              </div>
+            </h2>
+          </div>
+          <div id="collapseSeven" class="collapse hide" aria-labelledby="headingSeven" data-parent="#accordionExample">
+            <div class="card-body">
+                <ul class="list-unstyled">
+                    {% for post in site.categories.Salads %}
+                    <li><img src="{{ post.type }}" height="10px">&nbsp;<a href="{{ site.baseurl }}{{ post.url }}" class="item">{{post.title}}</a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header" id="headingEight">
+            <h2 class="mb-0">
+              <div class="d-flex justify-content-between align-items-center m-0">
+                <a href="#" data-toggle="collapse" data-target="#collapseEight" aria-expanded="true" aria-controls="collapseEight">
+                  Sides 
+                </a>
+              </div>
+            </h2>
+          </div>
+          <div id="collapseEight" class="collapse hide" aria-labelledby="headingEight" data-parent="#accordionExample">
+            <div class="card-body">
+                <ul class="list-unstyled">
+                    {% for post in site.categories.Sides %}
+                    <li><img src="{{ post.type }}" height="10px">&nbsp;<a href="{{ site.baseurl }}{{ post.url }}" class="item">{{post.title}}</a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+          </div>
+        </div>
+    </div>
 </div>

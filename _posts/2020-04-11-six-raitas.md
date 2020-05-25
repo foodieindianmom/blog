@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Six Raitas"
-short_title:  "Six Raitas"
+title:  "Types of Raitas"
+short_title:  "Types of Raitas"
 slug: six_raitas
 author: Parul
 tags: raitas carrot raita foodyindianmom

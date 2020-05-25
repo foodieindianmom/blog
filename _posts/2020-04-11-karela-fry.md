@@ -6,7 +6,7 @@ slug: karela_stir_fry
 author: Parul
 tags: Karela Onion Stir Fry foodyindianmom 
 date:   2020-04-11 16:58:23 +0530
-categories: All Veggies
+categories: All Veggies 
 type: /images/veg.png
 video: https://www.youtube.com/embed/CyGAS-jO7aU
 imagePath: /images/karela_fry.jpg

@@ -3342,4 +3342,6 @@ footer p:last-child { margin-bottom: 0; }
 
 .fa-envelope-square:hover { background-color: #444444; }
 
+.top-right-img { position: absolute; top: 8px; right: 8px; }
+
 /*# sourceMappingURL=main.css.map */

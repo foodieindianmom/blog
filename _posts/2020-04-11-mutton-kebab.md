@@ -6,7 +6,7 @@ slug: mutton_kebab
 author: Parul
 tags: mutton galouti kebab comfort food foodyindianmom
 date:   2020-04-11 20:25:23 +0530
-categories: All Snack
+categories: All Snacks
 type: /images/non-veg.png
 video: https://www.youtube.com/embed/bg3P6BcOUVU
 imagePath: /images/mutton_kebab.jpg
