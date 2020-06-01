@@ -4,9 +4,7 @@ title: Foody Indian Mom - Healthy Food Recipes
 description: Yummy and healthy Indian Cuisine recipes
 permalink: /snacks.html
 ---
-<div class="d-flex p-2 text-white bg-primary justify-content-center mb-5 shadow">
-    <h2 class="display-4">Snacks Recipes</h2>
-</div>
+{% include page-heading.html content="Snacks Recipes" %}
 <div class="container-fluid">
     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4">
         {% for post in site.categories.Snacks %}

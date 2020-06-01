@@ -1,12 +1,13 @@
 ---
 layout: default
 ---
-<div class="d-flex p-2 text-white bg-primary justify-content-center mb-5 shadow">
-    <h2 class="display-4">{{ page.title }}</h2>
-</div>
+{% capture page_title %}
+    {{ page.title }}
+{% endcapture %}
+{% include page-heading.html content=page_title %}
 <div class="container">
     <div class="row">
-        <div class="col-md-8 blog-post-font-size">
+        <div class="col-lg-8 mb-2 blog-post-font-size">
             <div class="d-flex justify-content-between align-items-center m-0">
                 <img src="{{ page.type }}" height="25px">
                 <div><i class="fas fa-tag"></i><small> {{ page.categories.last }} </small> <!--&bull; <i class="far fa-calendar-check"></i><small> {{ page.date | date: "%B %-d, %Y" }}</small>--></div>
@@ -27,7 +28,7 @@ layout: default
             <a href="#" class="badge badge-primary">{{ tag }}</a>
             {% endfor %}</span>
         </div>
-        <div class="col-md-4">
+        <div class="col-lg-4">
             {% include categories.html %}
         </div>
     </div>

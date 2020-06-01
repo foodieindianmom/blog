@@ -56,6 +56,10 @@ html body {
   color: #c8232c;
 }
 
+.fa-angle-down {
+  color: orangered;
+}
+
 .padding {
   padding-bottom: 2rem;
 }
@@ -85,9 +89,11 @@ html body {
     #logo-img {
       height: 50px;
     }
+    
     .logo-text {
       font-size: 1.125rem;
     }
+
     .carousel-caption {
       position: absolute;
       top: 20%;
@@ -95,7 +101,7 @@ html body {
     }
     
     .carousel-caption h2 {
-      font-size: 300%;
+      font-size: 250%;
       text-shadow: 1px 1px 10px #000;
     }
     
@@ -119,7 +125,7 @@ html body {
 }
 
 .blog-post-font-size {
-    font-size: 20px;
+    font-size: 1.1rem;
 }
 
 .blog-post-para {
@@ -145,14 +151,6 @@ footer {
 
 footer p:last-child {
     margin-bottom: 0;
-}
-
-.page-title {
-    min-width: 100px;
-    text-align: center;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    margin-bottom: 10px;
 }
 
 .border-orangered {
