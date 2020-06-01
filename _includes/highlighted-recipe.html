@@ -1,63 +1,60 @@
-<div class="d-flex p-2 text-white bg-orangered justify-content-center mb-5 shadow">
-    <div class="container welcome-card">
-        <div class="row">
-            <div class="col-12 col-md text-center">
-                <h2 class="card-title mb-3"><i class="fas fa-praying-hands"></i> Welcome to Foody Indian Mom</h2>
+<div id="slides" class="carousel slide mb-3" data-ride="carousel">
+    <ol class="carousel-indicators">
+        <li data-target="#slides" data-slide-to="0" class="active"></li>
+        <li data-target="#slides" data-slide-to="1"></li>
+    </ol>
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="../images/background.jpeg" class="img-fluid" style="min-height: 270px;">
+            <div class="carousel-caption">
+                <h3><i class="fas fa-praying-hands"></i></h3>
+                <h3>Welcome to</h3>
+                <h2 class="display-3">Foody Indian Mom</h2>
+                <h3>Home to healthy food recipes</h3>
             </div>
         </div>
-        <div class="row">
-            <div class="col-6 col-md pl-4">
-                <p class="card-text">Authentic Cuisines from all over India</p>
-                <p class="card-text">Healthy ingredients</p>
-                <p class="card-text">Simple and easy to follow recipes</p>
-            </div>
-            <div class="col-6 col-md">
-                <p class="card-text">Recipe videos available</p>
-                <p class="card-text">Homemade dishes for all occasions</p>
-                <p class="card-text">Connect with me on 
-                    <a href="https://www.instagram.com/foodyindianmom23" target="_blank" class="text-white"><i
-                            class="fab fa-instagram fa-1x"></i></a>
-                    <a href="https://www.twitter.com/foodyindianmom" target="_blank"
-                        class="text-white"><i class="fab fa-twitter fa-1x"></i></a>
-                    <a href="https://www.youtube.com/channel/UC3S8WE4quVzkx_CtnoU96dQ/videos" target="_blank"
-                        class="text-white"><i class="fab fa-youtube fa-1x"></i></a>
-                    <a href="#" target="_blank"
-                        class="text-white"><i class="fab fa-pinterest fa-1x"></i></a>
+        <div class="carousel-item">
+            <img src="../images/background.jpeg" class="img-fluid" style="min-height: 270px;">
+            <div class="carousel-caption">
+                <h3><u>Our Philosophy</u></h3>
+                <p class="about-content">
+                    Foody Indian Mom is an expression of love and an attempt to share our love for Indian cuisine with all of you.
+                </p>
+                <p class="about-content">
+                    Our mission is to share food recipes from all parts of India and hopefully get you also to fall in love with Indian cuisine.
                 </p>
             </div>
         </div>
     </div>
 </div>
-<div class="container mb-5">
-    <div class="divider"></div>
-    <h3>Favorite Recipes</h3>
-        <div class="row no-gutters">            
-            <div class="card-deck">
-                <div class="card border-orangered">
-                    <img src="../images/kadhai_paneer.jpg" class="card-img-top" alt="..." style="max-height: 400px;">
-                    <div class="card-body px-5">
-                        <div class="d-flex justify-content-between align-items-center">
-                            <h4 class="card-title">Kadhai Paneer</h4>
-                            <a href="/kadhai_paneer" class="btn btn-primary btn-sm">Recipe</a>
-                        </div>
-                        <p class="card-text"><i class="far fa-check-circle"></i> Yummy and healthy vegetarian curry</p>
-                        <p class="card-text"><i class="far fa-check-circle"></i> Goes well with Roti / Naan / Rice</p>
-                        <p class="card-text"><i class="far fa-check-circle"></i> Watch video <a href="https://www.youtube.com/embed/HHa0K8cYxlY" target="_blank"><i class="fas fa-external-link-alt"></i></a></p>
-                    </div>
+<div class="container-fluid padding">
+    <div class="row welcome">
+        <div class="col-12 text-center">
+            <h3 class="display-4">Featured Recipes</h3>
+            <hr class="header-separator mb-5">
+        </div>
+    </div>
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2 row-cols-lg-4">
+        {% for post in site.posts%}
+        {% if post.featured == true %}
+        <div class="col sm-6 md-6 lg-3 mb-3">
+            <div class="card border-orangered">
+                <img src="{{ post.imagePath }}" class="card-img-top" alt="..." style="max-height: 400px;">
+                <img src="{{ post.type }}" alt="" class="top-right-img" height="15px">
+                <div class="card-body">
+                    <h4 class="card-title">{{post.short_title}}</h4>
+                    <a href="{{site.baseurl}}/{{post.categories.last|downcase}}.html"><h6 class="card-subtitle mb-2">{{ post.categories.last }}</h6></a>
+                    <p class="card-text featured-recipe-text">{{ post.excerpt }}</p>
                 </div>
-                <div class="card border-orangered">
-                    <img src="../images/punjabi_chicken.png" class="card-img-top" alt="..." style="max-height: 400px;">
-                    <div class="card-body px-5">
-                        <div class="d-flex justify-content-between align-items-center">
-                            <h4 class="card-title">Punjabi Chicken Curry</h4>
-                            <a href="/punjabi_chicken_curry" class="btn btn-primary btn-sm">Recipe</a>
-                        </div>
-                        <p class="card-text"><i class="far fa-check-circle"></i> Mouthwatering and delicious</p>
-                        <p class="card-text"><i class="far fa-check-circle"></i> Simple and easy to make</p>
-                        <p class="card-text"><i class="far fa-check-circle"></i> YouTube video available <a href="https://www.youtube.com/watch?v=8q6ItwXCEDY" target="_blank"><i class="fas fa-external-link-alt"></i></a></p>                        
+                <div class="card-footer">
+                    <div class="d-flex justify-content-between align-items-center m-0">
+                        <a href="{{ site.baseurl }}{{ post.url }}#video" class="btn btn-outline-primary btn-sm">Video</a>
+                        <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-primary btn-sm">Recipe</a>
                     </div>
                 </div>
             </div>
         </div>
+        {% endif %}
+        {% endfor %}
     </div>
 </div>

@@ -12,25 +12,20 @@ type: /images/veg.png
 video: https://www.youtube.com/embed/djtiCPrL35w
 imagePath: /images/carrot_halwa.jpg
 ---
-<p class="text-justify" style="line-height: 175%;">
+
 Gajar Halwa is a popular sweet dessert in India. Gajar ka halwa also called Gajar Pak / or Carrot Halwa. This Halwa is a slow cooked recipe, traditionally made by simmering grated  Red carrots with Milk, Khoya, Ghee, Sugar and dry fruits. Gajar Halwa is normally prepared during winters in india.
-</p>
+{: .blog-post-para}
 
-<div class="row">
-    <div class="col-md-12"><img src="../images/carrot_halwa.jpg" alt="" class="rounded img-fluid mb-2"></div>
-</div>
+![image]({{ page.imagePath }}){: .rounded .img-fluid .mb-2}
 
-<p class="text-justify" style="line-height: 175%;">
 Some people prefer to eat hot steamy Gajar Halwa and some people like to eat chilled Gajar Halwa. This sweet dish is liked by everyone and it can be prepared easily at home as ingredients are easily available and also not costly.
-</p>
+{: .blog-post-para}
 
-<p class="text-justify" style="line-height: 175%;">
 Gajar ka halwa is loaded with lots of taste and flavours inside it and also very healthy to eat.
-</p>
+{: .blog-post-para}
 
-<p class="text-justify" style="line-height: 175%;">
 Here is how to make this Gajar Halwa.
-</p>
+{: .blog-post-para}
 
 <div class="row">
     <div class="col-md-6">
@@ -51,48 +46,32 @@ Here is how to make this Gajar Halwa.
     </div>
 </div>
 
-<section>
-    <div class="recipe-section-divider"></div>
-    <div class="row" id="ingredients">
-        <div class="col-md-12"><h5 class="font-weight-bold">Ingredients</h5></div>
-    </div>
-    <div class="row">
-        <div class="col-md-12">            
-            <ul style="line-height: 200%">
-                <li>1kg Grated Red Carrots</li>
-                <li>2 tbsp Ghee</li>
-                <li>700 gm Sugar</li>
-                <li>2 tbsp Cardamom Powder</li>
-                <li>500 gm Khoya</li>
-                <li>2 litre Milk</li>
-                <li>Chopped Cashew Nuts(10-12)</li>
-                <li>Chopped Almonds(10-12)</li>
-            </ul>
-        </div>
-    </div>
-</section>
-<div class="recipe-section-divider"></div>
-<div class="row" id="recipe">
-    <div class="col-md-12"><h5 class="font-weight-bold">Recipe Steps</h5></div>
-</div>
-<div class="row">
-    <div class="col-md-12">
-        <ol class="text-justify" style="line-height: 200%">
-            <li style="margin-bottom:5px;">Take a large kadhai and heat it.</li>
-            <li style="margin-bottom:5px;">Add Ghee in kadhai. Now add grated Carrots in it and mix well with ghee and let this cook for 5 minutes.</li>
-            <li style="margin-bottom:5px;">Now add milk in the kadhai and stir it .Cover the lid of the kadhai and cook for 15 minutes.</li>
-            <li style="margin-bottom:5px;">After 15 minutes milk and carrots mixture starts thickening. Now add Sugar, Almonds, Cashew Nuts, Cardamom Powder in the kadhai. Cover the lid of kadhai for another 15 minutes as when sugar cooks with carrot and milk mixture it also releases some water.</li>
-            <li style="margin-bottom:5px;">Now after 15-20 minutes halwa starts thickens as water inside the halwa evaporates, now at this point continuously stir halwa with a spatula so that halwa does not get stuck to the bottom.</li>
-            <li style="margin-bottom:5px;">Now add grated Khoya inside the halwa. Mix khoya and carrots mixture very well.</li>
-            <li style="margin-bottom:5px;">After 5 mInutes Carrot Halwa is ready. Garnish with chopped almonds and Cashew Nuts.</li>
-            <li style="margin-bottom:5px;">Serve Hot Gajar ka Halwa to your loved ones. They will surely enjoy this yummy Gajar ka halwa.</li>
-        </ol>
-    </div>
-</div>
+##### **Ingredients** {#ingredients}
+- 1kg Grated Red Carrots
+- 2 tbsp Ghee
+- 700 gm Sugar
+- 2 tbsp Cardamom Powder
+- 500 gm Khoya
+- 2 litre Milk
+- Chopped Cashew Nuts(10-12)
+- Chopped Almonds(10-12)
+{: .blog-post-steps}
+
+##### **Recipe Steps** {#recipe}
+1. Take a large kadhai and heat it.
+1. Add Ghee in kadhai. Now add grated Carrots in it and mix well with ghee and let this cook for 5 minutes.
+1. Now add milk in the kadhai and stir it .Cover the lid of the kadhai and cook for 15 minutes.
+1. After 15 minutes milk and carrots mixture starts thickening. Now add Sugar, Almonds, Cashew Nuts, Cardamom Powder in the kadhai. Cover the lid of kadhai for another 15 minutes as when sugar cooks with carrot and milk mixture it also releases some water.
+1. Now after 15-20 minutes halwa starts thickens as water inside the halwa evaporates, now at this point continuously stir halwa with a spatula so that halwa does not get stuck to the bottom.
+1. Now add grated Khoya inside the halwa. Mix khoya and carrots mixture very well.
+1. After 5 mInutes Carrot Halwa is ready. Garnish with chopped almonds and Cashew Nuts.
+1. Serve Hot Gajar ka Halwa to your loved ones. They will surely enjoy this yummy Gajar ka halwa.
+{: .blog-post-steps}
+
 <div class="row" id="video">
     <div class="col-md-12">
         <div class="embed-responsive embed-responsive-16by9">
-            <iframe width="100%" height="315" src="https://www.youtube.com/embed/djtiCPrL35w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="100%" height="315" src="{{page.video}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
     </div>
 </div>

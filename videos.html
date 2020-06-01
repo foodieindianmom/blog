@@ -4,40 +4,26 @@ title: Foody Indian Mom - Indian Cuisine Recipe Videos
 description: Indian Cuisine video tutorial
 permalink: /videos.html
 ---
-<div class="d-flex p-2 text-white bg-orangered justify-content-center mb-5 shadow">
-    <div class="row">
-        <div class="col-md-12">
-            <h1>Videos</h1>
-        </div>
-    </div>
+<div class="d-flex p-2 text-white bg-primary justify-content-center mb-5 shadow">
+    <h2 class="display-4">Videos</h2>
 </div>
-<div class="container">
-    <div class="row">
-        <div class="col-md-8">
-            <div class="divider"></div>
-            <h3>Latest Videos</h3>
-            <div class="row row-cols-1 row-cols-md-2 text-white">
-                {% for post in site.posts %}
-                {% if post.video %}
-                <div class="col mb-4">
-                    <div class="card h-100">
-                        <iframe width="100%" height="300" src="{{ post.video }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                        <div class="card-img-overlay d-flex flex-column justify-content-end p-0">
-                            <div class="justify-content-center" id="pointer">
-                                <strong>{{ post.short_title }}</strong>
-                            </div>
-                        </div>
-                        <a href="{{ post.url }}#video" class="stretched-link"></a>
+<div class="container-fluid">
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4">
+        {% for post in site.categories.All %}
+        {% if post.video %}
+        <div class="col mb-4">
+            <div class="card h-100">
+                <div class="card h-100">
+                    <iframe width="100%" height="300" src="{{ post.video }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <div class="card-img-overlay text-white text-center">
+                        <h5 class="card-title" style="background: rgba(255,69,0,0.75);">{{ post.short_title }}</h5>
                     </div>
+                    <a href="{{ post.url }}#video" class="stretched-link"></a>
                 </div>
-                {% endif %}
-                {% endfor %}
             </div>
         </div>
-        <div class="col-md-4">
-            {% include contact-me.html %}
-            {% include about.html %}
-            {% include categories.html %}
-        </div>
+        {% endif %}
+        {% endfor %}
     </div>
 </div>
+{% include about.html %}

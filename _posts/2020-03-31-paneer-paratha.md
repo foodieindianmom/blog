@@ -11,29 +11,27 @@ type: /images/veg.png
 video: https://www.youtube.com/embed/XCphy_-yqYE
 imagePath: /images/paneer_paratha.jpg
 ---
-<p class="text-justify" style="line-height: 175%;">
+
 Paneer Paratha is North Indian style stuffed flatbread eaten with any pickle like Mango pickle or Green chili pickle and any spicy chutney like Amla chutney or Raw Mango chutney. Paneer Paratha with big glass of Lassi (sweetened curd) is a classic combination in India. The origin of Paneer Paratha is considered to be Punjab.
-</p>
+{: .blog-post-para}
 
-<div class="row">
-    <div class="col-md-12"><img src="../images/paneer_paratha.jpg" alt="" class="rounded img-fluid mb-2"></div>
-</div>
+![image]({{ page.imagePath }}){: .rounded .img-fluid .mb-2}
 
-<p class="text-justify" style="line-height: 175%;">
+
 Paneer paratha is a healthy breakfast option as it is stuffed with Paneer and various other Indian spices. Paneer paratha is a powerpack of many nutrients as paneer or cottage cheese is made up of milk.
-</p>
+{: .blog-post-para}
 
-<p class="text-justify" style="line-height: 175%;">
+
 This paratha is very easy to make and delicious to eat. This paratha is served in many Indian restaurants around the world. Many roadside stalls also sell these stuffed paratha with extra butter on it.
-</p>
+{: .blog-post-para}
 
-<p class="text-justify" style="line-height: 175%;">
+
 Paneer paratha is the best option for kids lunch box as it is easily made and ingredients used in making this paneer stuffed paratha is readily available.
-</p>
+{: .blog-post-para}
 
-<p class="text-justify" style="line-height: 175%;">
+
 Here is how to make this Paneer Paratha
-</p>
+{: .blog-post-para}
 
 <div class="row">
     <div class="col-md-6">
@@ -54,50 +52,35 @@ Here is how to make this Paneer Paratha
     </div>
 </div>
 
-<div class="recipe-section-divider"></div>
-<div class="row" id="ingredients">
-    <div class="col-md-12"><h5 class="font-weight-bold">Ingredients</h5></div>
-</div>
-<div class="row">
-    <div class="col-md-12">
-        <ul class="post-list" style="line-height: 200%">
-            <li>200 gm Paneer</li>
-            <li>3 Cups Wheat Flour</li>
-            <li>1 Chopped Onion</li>
-            <li>3-4 chopped green chilies</li>
-            <li>¼ tsp Cumin seeds</li>
-            <li>¼ tsp Chaat masala</li>
-            <li>Chopped Coriander leaves</li>
-            <li>¼ tsp Red chili powder</li>
-            <li>Salt to taste</li>
-            <li>Oil / Ghee for cooking</li>
-        </ul>
-    </div>
-</div>
+##### **Ingredients** {#ingredients}
+- 200 gm Paneer
+- 3 Cups Wheat Flour
+- 1 Chopped Onion
+- 3-4 chopped green chilies
+- ¼ tsp Cumin seeds
+- ¼ tsp Chaat masala
+- Chopped Coriander leaves
+- ¼ tsp Red chili powder
+- Salt to taste
+- Oil / Ghee for cooking
+{: .blog-post-steps}
 
-<div class="recipe-section-divider"></div>
-<div class="row" id="recipe">
-    <div class="col-md-12"><h5 class="font-weight-bold">Recipe Steps</h5></div>
-</div>
-<div class="row">
-    <div class="col-md-12">
-        <ol class="post-list text-justify" style="line-height: 200%">
-            <li style="margin-bottom:5px;">Prepare the dough by mixing wheat flour, little salt, 2 tbsp oil and warm water and keep it aside covered.</li>
-            <li style="margin-bottom:5px;">Take a mixing bowl and grate paneer in it.</li>
-            <li style="margin-bottom:5px;">Add red chili powder, chaat masala, chopped onion, chopped green chilli, cumin seeds, salt and chopped coriander leaves. Mix well. Stuffing of Paratha is ready.</li>
-            <li style="margin-bottom:5px;">Divide dough into equal parts.</li>
-            <li style="margin-bottom:5px;">Take a dough ball, flatten it by your hand, make a small katori or bowl of dough and stuff the paneer mixture in it.</li>
-            <li style="margin-bottom:5px;">Roll down the stuffed dough balls with the help of a rolling pin on a rolling board or chakla.</li>
-            <li style="margin-bottom:5px;">Edges of the paratha should be thin and middle of the paratha should be thick as compared to edges of paratha.This makes paneer paratha more fluffy.</li>
-            <li style="margin-bottom:5px;">Cook these paratha from both sides on tawa by brushing oil or ghee on it.</li>
-            <li style="margin-bottom:5px;">Serve hot with any spicy and sour Chutney like Amla Chutney or Mango chutney or tomato chutney.</li>
-        </ol>
-    </div>
-</div>
+##### **Recipe Steps** {#recipe}
+1. Prepare the dough by mixing wheat flour, little salt, 2 tbsp oil and warm water and keep it aside covered.
+1. Take a mixing bowl and grate paneer in it.
+1. Add red chili powder, chaat masala, chopped onion, chopped green chilli, cumin seeds, salt and chopped coriander leaves. Mix well. Stuffing of Paratha is ready.
+1. Divide dough into equal parts.
+1. Take a dough ball, flatten it by your hand, make a small katori or bowl of dough and stuff the paneer mixture in it.
+1. Roll down the stuffed dough balls with the help of a rolling pin on a rolling board or chakla.
+1. Edges of the paratha should be thin and middle of the paratha should be thick as compared to edges of paratha.This makes paneer paratha more fluffy.
+1. Cook these paratha from both sides on tawa by brushing oil or ghee on it.
+1. Serve hot with any spicy and sour Chutney like Amla Chutney or Mango chutney or tomato chutney.
+{: .blog-post-steps}
+
 <div class="row" id="video">
     <div class="col-md-12">
         <div class="embed-responsive embed-responsive-16by9">
-            <iframe width="100%" height="315" src="https://www.youtube.com/embed/XCphy_-yqYE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="100%" height="315" src="{{page.video}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
     </div>
 </div>

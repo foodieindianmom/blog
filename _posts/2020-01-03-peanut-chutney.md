@@ -12,21 +12,18 @@ type: /images/veg.png
 video: https://www.youtube.com/embed/0d7j5T90BGw
 imagePath: /images/peanut_chutney.jpg
 ---
-<p class="text-justify" style="line-height: 175%;">
+
 Chutneys are a gluten free, spicy and savory dish originating in India. Chutneys can be provided with any dish to balance the flavour of any food and increase the taste of any dish. Chutneys can be made from fruits, vegetables, herbs  with addition of salt, oil, sugar, different  aromatic spices like Cumin (Jeera), Fennel Seeds (Saunf), etc and any tangy item like lemon or vinegar.
-</p>
+{: .blog-post-para}
 
-<div class="row">
-    <div class="col-md-12"><img src="../images/peanut_chutney.jpg" alt="" class="rounded img-fluid mb-2"></div>
-</div>
+![image]({{ page.imagePath }}){: .rounded .img-fluid .mb-2}
 
-<p class="text-justify" style="line-height: 175%;">
 Peanuts chutney or Mungfali ki Chutney is a spicy chutney, which is served as a side dish that can be used with several snacks and breakfast foods. This chutney is normally served with South indian dishes like  Idli, Pongal, Sambar and Vada. Enhancing the taste of any food which is served with this chutney.
-</p>
+{: .blog-post-para}
 
-<p class="text-justify" style="line-height: 175%;">
+
 Here is how to make this Peanuts chutney.
-</p>
+{: .blog-post-para}
 
 <div class="row">
     <div class="col-md-6">
@@ -47,44 +44,29 @@ Here is how to make this Peanuts chutney.
     </div>
 </div>
 
-<section>
-    <div class="recipe-section-divider"></div>
-    <div class="row" id="ingredients">
-        <div class="col-md-12"><h5 class="font-weight-bold">Ingredients</h5></div>
-    </div>
-    <div class="row">
-        <div class="col-md-12">            
-            <ul style="line-height: 200%">
-                <li>1 cup Peanuts</li>
-                <li>Chopped coriander leaves</li>
-                <li>¼ cup unskinned roasted chana dal</li>
-                <li>4-5 cloves Garlic</li>
-                <li>10-12 curry leaves</li>
-                <li>3-4 Green chillies</li>
-                <li>Pinch of Mustard Seeds</li>
-                <li>Salt To taste</li>
-                <li>1 tsp Oil</li>
-            </ul>
-        </div>
-    </div>
-</section>
-<div class="recipe-section-divider"></div>
-<div class="row" id="recipe">
-        <div class="col-md-12"><h5 class="font-weight-bold">Recipe Steps</h5></div>
-    </div>
-<div class="row">
-    <div class="col-md-12">
-    <ol class="text-justify" style="line-height: 200%">
-        <li style="margin-bottom:5px;">Heat the pan and dry roast the Peanuts. Now Remove the skin of roasted peanuts and keep these peanuts aside in a plate.</li>
-        <li style="margin-bottom:5px;">In a mixer Grinder or Silbatta add roasted Peanuts, roasted chana dal, garlic, green chilies, curry leaves (half quantity), salt and grind it into fine and smooth chutney.</li>
-        <li style="margin-bottom:5px;">Take a tadka pan and add oil in it and add mustard seeds and curry leaves in it and add this tadka to chutney.</li>
-    </ol>
-    </div>
-</div>
+##### **Ingredients** {#ingredients}
+- 1 cup Peanuts
+- Chopped coriander leaves
+- ¼ cup unskinned roasted chana dal
+- 4-5 cloves Garlic
+- 10-12 curry leaves
+- 3-4 Green chillies
+- Pinch of Mustard Seeds
+- Salt To taste
+- 1 tsp Oil
+{: .blog-post-steps}
+
+
+##### **Recipe Steps** {#recipe}
+1. Heat the pan and dry roast the Peanuts. Now Remove the skin of roasted peanuts and keep these peanuts aside in a plate.
+1. In a mixer Grinder or Silbatta add roasted Peanuts, roasted chana dal, garlic, green chilies, curry leaves (half quantity), salt and grind it into fine and smooth chutney.
+1. Take a tadka pan and add oil in it and add mustard seeds and curry leaves in it and add this tadka to chutney.
+{: .blog-post-steps}
+
 <div class="row" id="video">
     <div class="col-md-12">
         <div class="embed-responsive embed-responsive-16by9">
-            <iframe width="100%" height="315" src="https://www.youtube.com/embed/0d7j5T90BGw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="100%" height="315" src="{{page.video}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
     </div>
 </div>

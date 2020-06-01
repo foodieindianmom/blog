@@ -11,25 +11,20 @@ type: /images/veg.png
 video: https://www.youtube.com/embed/pnDSoWj-y4I
 imagePath: /images/palak_matar_curry.jpg
 ---
-<p class="text-justify" style="line-height: 175%;">
+
 Palak Matar Curry is a vegetarian dish which is very simple and easy to make, consisting of thick paste made from pureed spinach and green peas seasoned with different aromatic spices. In this Spicy Palak Matar Curry fresh and sweet green peas are coated in spicy spinach (Palak) curry.
-</p>
+{: .blog-post-para}
 
-<div class="row">
-    <div class="col-md-12"><img src="../images/palak_matar_curry.jpg" alt="" class="rounded img-fluid mb-2"></div>
-</div>
+![image]({{ page.imagePath }}){: .rounded .img-fluid .mb-2}
 
-<p class="text-justify" style="line-height: 175%;">
 Healthwise this dish is very healthy and nutritious and on the other side taste wise this curry is so yummy that you will eat two extra rotis with this curry.Palak(Spinach) and Matar (Green Peas) both are rich in antioxidants and nutrients which make the dish more healthy.
-</p>
+{: .blog-post-para}
 
-<p class="text-justify" style="line-height: 175%;">
 This Spicy Palak curry served hot with Chapati and Jeera Rice. This Palak Matar Curry is on the menu in many restaurants. People enjoy eating this spicy palak matar curry for lunch and dinner.
-</p>
+{: .blog-post-para}
 
-<p class="text-justify" style="line-height: 175%;">
 Here is how to make this Palak Matar Curry
-</p>
+{: .blog-post-para}
 
 <div class="row">
     <div class="col-md-6">
@@ -50,61 +45,46 @@ Here is how to make this Palak Matar Curry
     </div>
 </div>
 
-<div class="recipe-section-divider"></div>
-<div class="row" id="ingredients">
-    <div class="col-md-12"><h5 class="font-weight-bold">Ingredients</h5></div>
-</div>
-<div class="row">
-    <div class="col-md-12">
-        <ul class="post-list" style="line-height: 200%">
-            <li>250 gms Spinach Leaves(1 big bunch)</li>
-            <li>½ cup Green Peas</li>
-            <li>1 chopped Tomato</li>
-            <li>2 Onion</li>
-            <li>1 Chopped Potato in big cubes</li>
-            <li>5-6 clove Garlic</li>
-            <li>1 inch Ginger</li>
-            <li>Dried Urad Dal vadi</li>
-            <li>Salt to taste</li>
-            <li>Red chili powder</li>
-            <li>Turmeric Powder</li>
-            <li>Coriander Powder</li>
-            <li>Hing (Pinch)</li>
-            <li>Chopped Coriander Leaves</li>
-            <li>Oil for Cooking</li>
-        </ul>
-    </div>
-</div>
+##### **Ingredients** {#ingredients}
+- 250 gms Spinach Leaves(1 big bunch)
+- ½ cup Green Peas
+- 1 chopped Tomato
+- 2 Onion
+- 1 Chopped Potato in big cubes
+- 5-6 clove Garlic
+- 1 inch Ginger
+- Dried Urad Dal vadi
+- Salt to taste
+- Red chili powder
+- Turmeric Powder
+- Coriander Powder
+- Hing (Pinch)
+- Chopped Coriander Leaves
+- Oil for Cooking
+{: .blog-post-steps}
 
-<div class="recipe-section-divider"></div>
-<div class="row" id="recipe">
-    <div class="col-md-12"><h5 class="font-weight-bold">Recipe Steps</h5></div>
-</div>
-<div class="row">
-    <div class="col-md-12">
-        <ol class="post-list text-justify" style="line-height: 200%">
-            <li style="margin-bottom:5px;">Wash the spinach leaves and chopped potato pieces very well in water.</li>
-            <li style="margin-bottom:5px;">Boil spinach leaves in a cooker with one cup of water till one whistle. Keep the boiled spinach along with its boiled water in a bowl.</li>
-            <li style="margin-bottom:5px;">Prepare Onion Paste and keep it aside.</li>
-            <li style="margin-bottom:5px;">Prepare Ginger Garlic paste and keep it aside.</li>
-            <li style="margin-bottom:5px;">Heat oil in kadhai and fry dried urad dal vadi in it and keep it aside in a plate.</li>
-            <li style="margin-bottom:5px;">In the Same Kadhai add a pinch of hing and then onion paste and cook this until the color of onion changes to golden pink and the raw smell of onion is removed.</li>
-            <li style="margin-bottom:5px;">Now add Ginger garlic paste in kadhai and cook the masala very well.</li>
-            <li style="margin-bottom:5px;">Grind the boiled spinach leaves in a mixer and make its puree and keep it aside.</li>
-            <li style="margin-bottom:5px;">Now make the Puree of Tomato and keep it aside in a bowl.</li>
-            <li style="margin-bottom:5px;">Add Tomato puree in kadhai and bhuno (Cook) the masala very well till the oil separates.</li>
-            <li style="margin-bottom:5px;">Now add Turmeric Powder,Red chili Powder, Coriander Powder, salt in masala cooked in kadai. Mix Well. Add very little water to the masala so that masala does not get burned and again bhuno the masala till the oil separates.</li>
-            <li style="margin-bottom:5px;">Now Add Potato Cubes and Green Peas  into the  masala and mix well  so that each potato and green peas are coated with masala.Cook this for 3-4 minutes.</li>
-            <li style="margin-bottom:5px;">Now Add Spinach (Boiled Palak) puree in kadhai and mix well with masala.</li>
-            <li style="margin-bottom:5px;">Cover the kadhai with its lid and cook the gravy for 10-12 minutes on low flame.</li>
-            <li style="margin-bottom:5px;">After 12 minutes Open the lid of the kadhai and garnish with chopped Coriander leaves and serve hot with Chapati and Jeera Rice.</li>
-        </ol>
-    </div>
-</div>
+##### **Recipe Steps** {#recipe}
+1. Wash the spinach leaves and chopped potato pieces very well in water.
+1. Boil spinach leaves in a cooker with one cup of water till one whistle. Keep the boiled spinach along with its boiled water in a bowl.
+1. Prepare Onion Paste and keep it aside.
+1. Prepare Ginger Garlic paste and keep it aside.
+1. Heat oil in kadhai and fry dried urad dal vadi in it and keep it aside in a plate.
+1. In the Same Kadhai add a pinch of hing and then onion paste and cook this until the color of onion changes to golden pink and the raw smell of onion is removed.
+1. Now add Ginger garlic paste in kadhai and cook the masala very well.
+1. Grind the boiled spinach leaves in a mixer and make its puree and keep it aside.
+1. Now make the Puree of Tomato and keep it aside in a bowl.
+1. Add Tomato puree in kadhai and bhuno (Cook) the masala very well till the oil separates.
+1. Now add Turmeric Powder,Red chili Powder, Coriander Powder, salt in masala cooked in kadai. Mix Well. Add very little water to the masala so that masala does not get burned and again bhuno the masala till the oil separates.
+1. Now Add Potato Cubes and Green Peas  into the  masala and mix well  so that each potato and green peas are coated with masala.Cook this for 3-4 minutes.
+1. Now Add Spinach (Boiled Palak) puree in kadhai and mix well with masala.
+1. Cover the kadhai with its lid and cook the gravy for 10-12 minutes on low flame.
+1. After 12 minutes Open the lid of the kadhai and garnish with chopped Coriander leaves and serve hot with Chapati and Jeera Rice.
+{: .blog-post-steps}
+
 <div class="row" id="video">
     <div class="col-md-12">
         <div class="embed-responsive embed-responsive-16by9">
-            <iframe width="100%" height="315" src="https://www.youtube.com/embed/pnDSoWj-y4I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="100%" height="315" src="{{page.video}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
     </div>
 </div>

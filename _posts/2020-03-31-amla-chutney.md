@@ -11,25 +11,20 @@ type: /images/veg.png
 video: https://www.youtube.com/embed/sv0CL-Ux8eA
 imagePath: /images/amla_chutney.jpg
 ---
-<p class="text-justify" style="line-height: 175%;">
+
 Amla Chutney is spicy and tangy chutney which is a powerpack of Vitamin C and many antioxidants. Amla chutney is prepared by blending fresh Amla pieces, fresh coriander leaves and many other ingredients.
-</p>
+{: .blog-post-para}
 
-<div class="row">
-    <div class="col-md-12"><img src="../images/amla_chutney.jpg" alt="" class="rounded img-fluid mb-2"></div>
-</div>
+![image]({{ page.imagePath }}){: .rounded .img-fluid .mb-2}
 
-<p class="text-justify" style="line-height: 175%;">
 Amla is fruit originated in India that is why it is also called Indian Goosebeery. It is an excellent source of Vitamin C, hence helps in boosting your immunity, Metabolism and prevents many viral and bacterial diseases. Many research across the world shows that amla helps in preventing development of Cancer cells.
-</p>
+{: .blog-post-para}
 
-<p class="text-justify" style="line-height: 175%;">
 Amla has many medicinal uses like it helps in hair growth, slows down hair greying process, improve eyesight and glowing skin. Amla chutney is served as a side dish with Dosa, Dal Rice, Stuffed Paratha, pakora, vada etc.
-</p>
+{: .blog-post-para}
 
-<p class="text-justify" style="line-height: 175%;">
 Here is how to make this Amla Chutney
-</p>
+{: .blog-post-para}
 
 <div class="row">
     <div class="col-md-6">
@@ -50,41 +45,26 @@ Here is how to make this Amla Chutney
     </div>
 </div>
 
-<div class="recipe-section-divider"></div>
-<div class="row" id="ingredients">
-    <div class="col-md-12"><h5 class="font-weight-bold">Ingredients</h5></div>
-</div>
-<div class="row">
-    <div class="col-md-12">
-        <ul class="post-list" style="line-height: 200%">
-            <li>5-6 Amla Pieces</li>
-            <li>3-4 Garlic Cloves</li>
-            <li>Chopped coriander leaves</li>
-            <li>2-3 Chopped Green chillies</li>
-            <li>½ tsp Mustard Oil</li>
-            <li>Salt to taste</li>
-        </ul>
-    </div>
-</div>
+##### **Ingredients** {#ingredients}
+- 5-6 Amla Pieces
+- 3-4 Garlic Cloves
+- Chopped coriander leaves
+- 2-3 Chopped Green chillies
+- ½ tsp Mustard Oil
+- Salt to taste
+{: .blog-post-steps}
 
-<div class="recipe-section-divider"></div>
-<div class="row" id="recipe">
-    <div class="col-md-12"><h5 class="font-weight-bold">Recipe Steps</h5></div>
-</div>
-<div class="row">
-    <div class="col-md-12">
-        <ol class="post-list text-justify" style="line-height: 200%">
-            <li style="margin-bottom:5px;">Boil Amla pieces in water for 7-8 minutes. Let the amla pieces remain in water after boiling for another two minutes.</li>
-        <li style="margin-bottom:5px;">Chopped the boiled Amla into small pieces. Remove its seeds.</li>
-        <li style="margin-bottom:5px;">Blend all ingredients except Mustard oil that is Garlic, Coriander leaves, green chillies,Boiled amla pieces and salt together either with the help of Mixer grinder or Silbatta(Grinding stone)</li>
-        <li style="margin-bottom:5px;">When Chutney is prepared, add raw mustard oil in it. Mix Well. Mustard oil reduces the sour taste of Amla. Mustard oil also helps in making amla chutney fresh for long time.</li>
-        </ol>
-    </div>
-</div>
+##### **Recipe Steps** {#recipe}
+1. Boil Amla pieces in water for 7-8 minutes. Let the amla pieces remain in water after boiling for another two minutes.
+1. Chopped the boiled Amla into small pieces. Remove its seeds.
+1. Blend all ingredients except Mustard oil that is Garlic, Coriander leaves, green chillies, boiled amla pieces and salt together either with the help of Mixer grinder or Silbatta(Grinding stone)
+1. When Chutney is prepared, add raw mustard oil in it. Mix Well. Mustard oil reduces the sour taste of Amla. Mustard oil also helps in making amla chutney fresh for long time.
+{: .blog-post-steps}
+
 <div class="row" id="video">
     <div class="col-md-12">
         <div class="embed-responsive embed-responsive-16by9">
-            <iframe width="100%" height="315" src="https://www.youtube.com/embed/sv0CL-Ux8eA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="100%" height="315" src="{{page.video}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
     </div>
 </div>

@@ -1,0 +1,87 @@
+---
+layout: default
+title: Foody Indian Mom - Healthy Food Recipes
+description: Yummy and healthy Indian Cuisine recipes
+permalink: /others.html
+---
+<div class="d-flex p-2 text-white bg-primary justify-content-center mb-5 shadow">
+    <h2 class="display-4">Other Recipes</h2>
+</div>
+<div class="container-fluid">
+    <h6 class="display-4">Breads</h6>
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4">
+        {% for post in site.categories.Breads %}
+        <div class="col mb-4">
+            <div class="card h-100">
+                <img src="{{ post.imagePath }}" alt="" class="card-img-top" height="100%">
+                <img src="{{ post.type }}" alt="" class="top-right-img" height="15px">
+                <div class="card-img-overlay text-white text-center">
+                    <h5 class="card-title" style="background: rgba(255,69,0,0.75);">{{ post.short_title }}</h5>
+                </div>
+                <a href="{{ post.url }}" class="stretched-link"></a>
+            </div>
+        </div>        
+        {% endfor %}
+    </div>
+    <h6 class="display-4">Desserts</h6>
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4">
+        {% for post in site.categories.Desserts %}
+        <div class="col mb-4">
+            <div class="card h-100">
+                <img src="{{ post.imagePath }}" alt="" class="card-img-top" height="100%">
+                <img src="{{ post.type }}" alt="" class="top-right-img" height="15px">
+                <div class="card-img-overlay text-white text-center">
+                    <h5 class="card-title" style="background: rgba(255,69,0,0.75);">{{ post.short_title }}</h5>
+                </div>
+                <a href="{{ post.url }}" class="stretched-link"></a>
+            </div>
+        </div>        
+        {% endfor %}
+    </div>
+    <h6 class="display-4">Veggies</h6>
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4">
+        {% for post in site.categories.Veggies %}
+        <div class="col mb-4">
+            <div class="card h-100">
+                <img src="{{ post.imagePath }}" alt="" class="card-img-top" height="100%">
+                <img src="{{ post.type }}" alt="" class="top-right-img" height="15px">
+                <div class="card-img-overlay text-white text-center">
+                    <h5 class="card-title" style="background: rgba(255,69,0,0.75);">{{ post.short_title }}</h5>
+                </div>
+                <a href="{{ post.url }}" class="stretched-link"></a>
+            </div>
+        </div>        
+        {% endfor %}
+    </div>
+    <h6 class="display-4">Drinks</h6>
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4">
+        {% for post in site.categories.Drinks %}
+        <div class="col mb-4">
+            <div class="card h-100">
+                <img src="{{ post.imagePath }}" alt="" class="card-img-top" height="100%">
+                <img src="{{ post.type }}" alt="" class="top-right-img" height="15px">
+                <div class="card-img-overlay text-white text-center">
+                    <h5 class="card-title" style="background: rgba(255,69,0,0.75);">{{ post.short_title }}</h5>
+                </div>
+                <a href="{{ post.url }}" class="stretched-link"></a>
+            </div>
+        </div>        
+        {% endfor %}
+    </div>
+    <h6 class="display-4">Salads</h6>
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4">
+        {% for post in site.categories.Salads %}
+        <div class="col mb-4">
+            <div class="card h-100">
+                <img src="{{ post.imagePath }}" alt="" class="card-img-top" height="100%">
+                <img src="{{ post.type }}" alt="" class="top-right-img" height="15px">
+                <div class="card-img-overlay text-white text-center">
+                    <h5 class="card-title" style="background: rgba(255,69,0,0.75);">{{ post.short_title }}</h5>
+                </div>
+                <a href="{{ post.url }}" class="stretched-link"></a>
+            </div>
+        </div>        
+        {% endfor %}
+    </div>
+</div>
+{% include about.html %}

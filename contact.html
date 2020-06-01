@@ -4,40 +4,26 @@ title: Foody Indian Mom - Contact Me
 description: Contact Foody Indian Mom
 ---
 <script src="https://www.google.com/recaptcha/api.js"></script>
-<div class="container-fluid page-title text-white bg-orangered">
-  <div class="row">
-      <div class="col-md-12">
-          <h1>Contact Me</h1>
-      </div>
-  </div>
+<div class="d-flex p-2 text-white bg-primary justify-content-center mb-5 shadow">
+  <h2 class="display-4">Contact Us</h2>
 </div>
 <div class="container">
   <div class="row">
     <div class="col-md-8">
-        <div class="divider"></div>
-        <h3>Please reach out to me by dropping a message below</h3>
-        <form>
-            <div class="form-group">
-              <label for="name">Name</label>
-              <input type="text" class="form-control" id="name">
-            </div>
-            <div class="form-group">
-                <label for="email">Email address</label>
-                <input type="email" class="form-control" id="email" aria-describedby="emailHelp">
-                <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
-              </div>
-              <div class="form-group">
-                <label for="message">Message</label>
-                <textarea class="form-control" id="message" rows="5"></textarea>
-              </div>
-              <button type="submit" class="btn btn-primary mb-1">Submit</button>
-              <div class="g-recaptcha" data-sitekey="6LcvuN4UAAAAAE1MU49FwAinp9Y8wkjhLOhv4KmP"></div>
-        </form>
+        <h3>Please drop me an email on below address:</h3>
+        <p class="lead"><i class="fas fa-envelope"></i> <a href="mailto:foodyindianmom@gmail.com">foodyindianmom@gmail.com</a></p>
+        <br>
+        <h3>Or, drop a comment on various platforms below:</h3>
+        <ul class="list-inline">
+          <li class="list-inline-item"><p class="lead"><i class="fab fa-twitter"></i> <a href="https://www.twitter.com/foodyindianmom" target="_blank">Twitter</a></p></li>
+          <li class="list-inline-item"><p class="lead"><i class="fab fa-instagram"></i> <a href="https://www.instagram.com/foodyindianmom23" target="_blank">Instagram</a></p></li>
+          <li class="list-inline-item"><p class="lead"><i class="fab fa-pinterest"></i> <a href="https://www.pinterest.com/foodyindianmom/" target="_blank">Pinterest</a></p></li>
+          <li class="list-inline-item"><p class="lead"><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/channel/UC3S8WE4quVzkx_CtnoU96dQ/videos" target="_blank">YouTube</a></p></li>
+        </ul>
     </div>
     <div class="col-md-4">
-      {% include contact-me.html %}
-      {% include about.html %}
       {% include categories.html %}
     </div>
   </div>  
 </div>
+{% include about.html %}

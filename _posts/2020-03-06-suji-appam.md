@@ -8,23 +8,20 @@ tags: suji appam appe semolina vegetable snack chutney breakfast instant homemad
 date:   2020-03-06 21:32:23 +0530
 categories: All  Snacks
 type: /images/veg.png
+video: https://www.youtube.com/embed/nNDwxrZVMbM
 imagePath: /images/suji_appam.jpg
 ---
-<p class="text-justify" style="line-height: 175%;">
+
 Suji ke Appe is a very easy to make and healthy breakfast recipe. It is originated in South India but now popular in whole of India. Instant Suji ke appe is a very good option when you are in a hurry, and at the same time, want a wholesome and healthy breakfast to eat, then you should try this crispy instant Suji ke appe. It is a quick, healthy, and tasty breakfast served with Peanuts or Coconut Chutney.
-</p>
+{: .blog-post-para}
 
-<div class="row">
-    <div class="col-md-12"><img src="../images/suji_appam.jpg" alt="" class="rounded img-fluid mb-2"></div>
-</div>
+![image]({{ page.imagePath }}){: .rounded .img-fluid .mb-2}
 
-<p class="text-justify" style="line-height: 175%;">
 Appe can also be made by fermenting rice and urad dal batter, the same batter which is used to make Idli. In this Recipe Semolina is mixed with Curd, Eno (Yes Eno ☺) and a variety of vegetables like onion, beans, carrots, tomato, green peas, green chilies, and capsicum.
-</p>
+{: .blog-post-para}
 
-<p class="text-justify" style="line-height: 175%;">
 Here is how to make this Suji ke Appe.
-</p>
+{: .blog-post-para}
 
 <div class="row">
     <div class="col-md-6">
@@ -45,46 +42,38 @@ Here is how to make this Suji ke Appe.
     </div>
 </div>
 
-<div class="recipe-section-divider"></div>
-<div class="row" id="ingredients">
-    <div class="col-md-12"><h5 class="font-weight-bold">Ingredients</h5></div>
-</div>
-<div class="row">
-    <div class="col-md-12">
-        <ul class="post-list" style="line-height: 200%">
-            <li>2 cups Suji / Semolina</li>
-            <li>250 gm Curd</li>
-            <li>1 fine chopped Tomato</li>
-            <li>1 fine chopped Capsicum</li>
-            <li>2 Fine chopped Carrots</li>
-            <li>French beans (2-3)</li>
-            <li>1 boiled Mashed Potato</li>
-            <li>½ cup Green Peas</li>
-            <li>2-3 fine chopped Green Chillies</li>
-            <li>1 fine chopped Onion</li>
-            <li>chopped coriander leaves</li>
-            <li>1 tsp Eno</li>
-            <li>Salt to Taste</li>
-            <li>½ tbsp Mustard seeds</li>
-            <li>Curry leaves</li>
-        </ul>
-    </div>
-</div>
+##### **Ingredients** {#ingredients}
+- 2 cups Suji / Semolina
+- 250 gm Curd
+- 1 fine chopped Tomato
+- 1 fine chopped Capsicum
+- 2 Fine chopped Carrots
+- French beans (2-3)
+- 1 boiled Mashed Potato
+- ½ cup Green Peas
+- 2-3 fine chopped Green Chillies
+- 1 fine chopped Onion
+- chopped coriander leaves
+- 1 tsp Eno
+- Salt to Taste
+- ½ tbsp Mustard seeds
+- Curry leaves
+{: .blog-post-steps}
 
-<div class="recipe-section-divider"></div>
-<div class="row" id="recipe">
-    <div class="col-md-12"><h5 class="font-weight-bold">Recipe Steps</h5></div>
-</div>
-<div class="row">
+##### **Recipe Steps** {#recipe}
+1. Take a large mixing bowl. In that bowl add Suji, tomato, Green Peas, mashed potato, carrots, beans, capsicum, coriander leaves, salt and eno.
+1. Mix Well. Cover the bowl with a plate and keep it aside.
+1. Heat the Appam / Appe pan and apply oil in each circular mould in that pan with the help of an oil brush.
+1. Add less than a pinch of mustard seeds and chopped curry leaves in each mould, and then add Suji mixture in each mould and cover the appe pan with its lid and let it cook for 4–5 minutes.
+1. After five minutes, open the lid and flip each appam and cook these appe from other side on medium flame for another two minutes.
+1. Transfer these Crispy Suji Ke appe from pan to plate and serve them with coconut chutney or Peanut Chutney.
+{: .blog-post-steps}
+
+<div class="row" id="video">
     <div class="col-md-12">
-        <ol class="post-list text-justify" style="line-height: 200%">
-            <li style="margin-bottom:5px;">Take a large mixing bowl. In that bowl add Suji, tomato, Green Peas, mashed potato, carrots, beans, capsicum, coriander leaves, salt and eno.</li>
-            <li style="margin-bottom:5px;">Mix Well. Cover the bowl with a plate and keep it aside.</li>
-            <li style="margin-bottom:5px;">Heat the Appam / Appe pan and apply oil in each circular mould in that pan with the help of an oil brush.</li>
-            <li style="margin-bottom:5px;">Add less than a pinch of mustard seeds and chopped curry leaves in each mould, and then add Suji mixture in each mould and cover the appe pan with its lid and let it cook for 4–5 minutes.</li>
-            <li style="margin-bottom:5px;">After five minutes, open the lid and flip each appam and cook these appe from other side on medium flame for another two minutes.</li>
-            <li style="margin-bottom:5px;">Transfer these Crispy Suji Ke appe from pan to plate and serve them with coconut chutney or Peanut Chutney.</li>
-        </ol>
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe width="100%" height="315" src="{{page.video}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
     </div>
 </div>
 <br>

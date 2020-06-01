@@ -11,21 +11,17 @@ type: /images/veg.png
 video: https://www.youtube.com/embed/aNnU82AL2B4
 imagePath: /images/aloo_ghugri.jpg
 ---
-<p class="text-justify" style="line-height: 175%;">
+
 Green Peas are little pellets of nutrients. They may look small, but are loaded with nutrients and minerals. Even though there are spices used in this recipe, they can be kept at a minimum to actually let the peas shine through.
-</p>
+{: .blog-post-para}
 
-<div class="row">
-    <div class="col-md-12"><img src="../images/aloo_ghugri.jpg" alt="" class="rounded img-fluid mb-2"></div>
-</div>
+![image]({{ page.imagePath }}){: .rounded .img-fluid .mb-2}
 
-<p class="text-justify" style="line-height: 175%;">
 A dish widely prepared in Uttar Pradesh, this traditional UP style Matar Ki Ghugri is made using peas and just a few spices. Make it with the most tender winter peas while they are in season. The dish is liked by all my family members. The recipe is very simple, easy to make, delicious.
-</p>
+{: .blog-post-para}
 
-<p class="text-justify" style="line-height: 175%;">
 Here is how to make this Matar ki Ghughri / Ghugni
-</p>
+{: .blog-post-para}
 
 <div class="row">
     <div class="col-md-6">
@@ -46,45 +42,30 @@ Here is how to make this Matar ki Ghughri / Ghugni
     </div>
 </div>
 
-<div class="recipe-section-divider"></div>
-<div class="row" id="ingredients">
-    <div class="col-md-12"><h5 class="font-weight-bold">Ingredients</h5></div>
-</div>
-<div class="row">
-    <div class="col-md-12">
-        <ul class="post-list" style="line-height: 200%">
-            <li>3 cup Green Peas</li>
-            <li>Cooking oil</li>
-            <li>1 tbsp Green Chillies, finely chopped</li>
-            <li>1 potato cut in small fine cubes</li>
-            <li>Chopped Coriander (Dhania) Leaves</li>
-            <li>Chopped Green Chillies</li>
-            <li>2-3 clove chopped Garlic</li>
-            <li>1 tbsp Cumin Seeds (Jeera)</li>
-            <li>Hing (pinch)</li>
-        </ul>
-    </div>
-</div>
+##### **Ingredients** {#ingredients}
+- 3 cup Green Peas
+- Cooking oil
+- 1 tbsp Green Chillies, finely chopped
+- 1 potato cut in small fine cubes
+- Chopped Coriander (Dhania) Leaves
+- Chopped Green Chillies
+- 2-3 clove chopped Garlic
+- 1 tbsp Cumin Seeds (Jeera)
+- Hing (pinch)
+{: .blog-post-steps}
 
-<div class="recipe-section-divider"></div>
-<div class="row" id="recipe">
-    <div class="col-md-12"><h5 class="font-weight-bold">Recipe Steps</h5></div>
-</div>
-<div class="row">
-    <div class="col-md-12">
-        <ol class="post-list text-justify" style="line-height: 200%">
-            <li style="margin-bottom:5px;">Heat 3 tbsp oil in kadhai. Add Hing, Cumin seeds, Chopped Garlic, Chopped Green Chili, to a kadhai. Mix well.</li>
-            <li style="margin-bottom:5px;">Now add Green Peas and Potato cubes to the kadhai. Mix well. Cover the kadhai lid and cook this for 7-8 minutes on low flame.</li>
-            <li style="margin-bottom:5px;">After 7-8 minutes Matar ki Ghughri is ready.</li>
-            <li style="margin-bottom:5px;">Garnish this with chopped coriander leaves and lemon slices.</li>
-            <li style="margin-bottom:5px;">Serve hot with Hot tea.</li>
-        </ol>
-    </div>
-</div>
+##### **Recipe Steps** {#recipe}
+1. Heat 3 tbsp oil in kadhai. Add Hing, Cumin seeds, Chopped Garlic, Chopped Green Chili, to a kadhai. Mix well.
+1. Now add Green Peas and Potato cubes to the kadhai. Mix well. Cover the kadhai lid and cook this for 7-8 minutes on low flame.
+1. After 7-8 minutes Matar ki Ghughri is ready.
+1. Garnish this with chopped coriander leaves and lemon slices.
+1. Serve hot with Hot tea.
+{: .blog-post-steps}
+
 <div class="row" id="video">
     <div class="col-md-12">
         <div class="embed-responsive embed-responsive-16by9">
-            <iframe width="100%" height="315" src="https://www.youtube.com/embed/aNnU82AL2B4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="100%" height="315" src="{{page.video}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
     </div>
 </div>

@@ -12,29 +12,23 @@ type: /images/non-veg.png
 video: https://www.youtube.com/embed/_GsjIFM3boA
 imagePath: /images/mutton_curry.png
 ---
-<p class="text-justify" style="line-height: 175%;">
+
 Mutton curry is considered one of the easy, healthy and delicious non-vegetarian curries in India. Mutton means the meat of goat that is above a certain age.
-</p>
+{: .blog-post-para}
 
-<div class="row">
-    <div class="col-md-12"><img src="../images/mutton_curry.png" alt="" class="rounded img-fluid mb-2"></div>
-</div>
+![image]({{ page.imagePath }}){: .rounded .img-fluid .mb-2}
 
-<p class="text-justify" style="line-height: 175%;">
 Meat from a young goat is called lamb. In almost all parts of India, Mutton means the meat of the goat. Lamb Chops are the most expensive cuts of lamb, but are incredibly delicious and tender. Lucknow is famous for its non-vegetarian delicacies, some of which are quite simple to make and some can be quite complex. Mutton Curry is a perfect blend of different aromatic spices and tender juicy meat.
-</p>
+{: .blog-post-para}
 
-<p class="text-justify" style="line-height: 175%;">
 Mutton curry is usually served hot with Rumali Roti or Naan or tandoori Roti and Jeera Rice. The tari / Rasa / Gravy of Mutton Curry can be made according to individual choice. Some people preferred thick gravy while others preferred thin gravy.
-</p>
+{: .blog-post-para}
 
-<p class="text-justify" style="line-height: 175%;">
-The more we roast ( bhuno) themeat and spices (roasting of masala), the more delicious meat will come out. Slow Cooked Mutton always tastes more delicious and yummy.
-</p>
+The more we roast ( bhuno) the meat and spices (roasting of masala), the more delicious meat will come out. Slow Cooked Mutton always tastes more delicious and yummy.
+{: .blog-post-para}
 
-<p class="text-justify" style="line-height: 175%;">
 Here is how to make this Lucknowi Style Mutton Curry.
-</p>
+{: .blog-post-para}
 
 <div class="row">
     <div class="col-md-6">
@@ -55,73 +49,57 @@ Here is how to make this Lucknowi Style Mutton Curry.
     </div>
 </div>
 
-<section>
-    <div class="recipe-section-divider"></div>
-    <div class="row" id="ingredients">
-        <div class="col-md-12"><h5 class="font-weight-bold">Ingredients</h5></div>
-    </div>
-    <div class="row">
-        <div class="col-md-12">            
-            <ul style="line-height: 200%">
-                <li>500 gm Mutton</li>
-                <li>4-5 Cloves of Garlic</li>
-                <li>1 inch Ginger</li>
-                <li>3-4 Green Chili</li>
-                <li>1 Tejpatta</li>
-                <li>½ inch Dalchini</li>
-                <li>Javitri (little)</li>
-                <li>¼ tbsp Cumin seeds/Jeera</li>
-                <li>¼ tbsp Coriander Seeds</li>
-                <li>pinch of Nutmeg</li>
-                <li>2-3 clove/ laung</li>
-                <li>4-5 Blackpeppercons</li>
-                <li>1 Tomato</li>
-                <li>Star Anise (small piece)</li>
-                <li>Big Cardamom</li>
-                <li>5 Medium Size Onion</li>
-                <li>¼tbsp Garam Masala (Optional)</li>
-                <li>4 tbsp Mustard Oil</li>
-                <li>¼ tsp Ghee</li>
-                <li>Chopped Coriander Leaves</li>
-                <li>¼ tbsp Turmeric Powder</li>
-                <li>¼ tbsp Red Chili Powder</li>
-                <li>¼ tbsp Coriander Powder</li>
-                <li>¼ tbsp Mutton Masala</li>
-                <li>Salt to taste</li>
-            </ul>
-        </div>
-    </div>
-</section>
-<div class="recipe-section-divider"></div>
-<div class="row" id="recipe">
-        <div class="col-md-12"><h5 class="font-weight-bold">Recipe Steps</h5></div>
-    </div>
-<div class="row">
-    <div class="col-md-12">
-    <ol class="text-justify" style="line-height: 200%">
-        <li style="margin-bottom:5px;">Make a fine paste of ginger, Garlic, and Green chilies and keep it aside.</li>
-        <li style="margin-bottom:5px;">Coarsely Grind Onion either in mixer or Silbatta and keep it aside on a plate.</li>
-        <li style="margin-bottom:5px;">Pour Mustard oil in the cooker. Firstly add Tejpatta in oil.</li>
-        <li style="margin-bottom:5px;">Then add all solid dry spices in oil like coriander seeds, jeera, star anise, cardamom, black peppercorns, cloves, Dalchini, Javitri in oil.</li>
-        <li style="margin-bottom:5px;">Cook these spices very carefully as it can easily burn and spoil the taste and texture of gravy.</li>
-        <li style="margin-bottom:5px;">When Jeera and Coriander seeds start to splutter, immediately add grounded onion paste and cook this until the raw smell of onion goes off and the color of onion changes to golden pinkish brown.</li>
-        <li style="margin-bottom:5px;">Now add Ginger, Garlic, Green chili paste in the cooker and cook these mixture well until the raw smell of Garlic goes off.</li>
-        <li style="margin-bottom:5px;">Add Mutton pieces in Cooker and mix well with onion ginger garlic masala and do lot of roast (bhuno) the mixture. Do not add any water at this point as juices from mutton is sufficient enough to cook the mixture. Cover the lid of cooker and cook the mixture for 10 minutes.</li>
-        <li style="margin-bottom:5px;">After 10 minutes add all dry spices powder like Turmeric powder, Red Chilli Powder, Coriander powder, Salt in cooker. Cover the lid of Cooker and bhuno this mixture very well for 5 minutes.</li>
-        <li style="margin-bottom:5px;">After 5 minutes, open a lid and add a little water and again bhuno(Cook) this mixture very well so that masala doesn't get burned.</li>
-        <li style="margin-bottom:5px;">Now add 1½ cup of water in masala cooked in a cooker to make gravy. For making thick Gravy add little water or else add more water.</li>
-        <li style="margin-bottom:5px;">Close the lid of the cooker and cook the meat until one whistle.</li>
-        <li style="margin-bottom:5px;">Now Mutton Curry is ready in Lucknowi style.</li>
-        <li style="margin-bottom:5px;">Now to make the tadka, add Ghee in a tadka pan and add Mutton masala in it. Pour this in to cooked mutton curry.</li>
-        <li style="margin-bottom:5px;">Garnish this Mutton Curry with chopped Coriander leaves.</li>
-        <li style="margin-bottom:5px;">Serve Hot Mutton Curry with hot Rumali Roti and Rice.</li>
-    </ol>
-    </div>
-</div>
+##### **Ingredients** {#ingredients}
+- 500 gm Mutton
+- 4-5 Cloves of Garlic
+- 1 inch Ginger
+- 3-4 Green Chili
+- 1 Tejpatta
+- ½ inch Dalchini
+- Javitri (little)
+- ¼ tbsp Cumin seeds/Jeera
+- ¼ tbsp Coriander Seeds
+- pinch of Nutmeg
+- 2-3 clove/ laung
+- 4-5 Blackpeppercons
+- 1 Tomato
+- Star Anise (small piece)
+- Big Cardamom
+- 5 Medium Size Onion
+- ¼tbsp Garam Masala (Optional)
+- 4 tbsp Mustard Oil
+- ¼ tsp Ghee
+- Chopped Coriander Leaves
+- ¼ tbsp Turmeric Powder
+- ¼ tbsp Red Chili Powder
+- ¼ tbsp Coriander Powder
+- ¼ tbsp Mutton Masala
+- Salt to taste
+{: .blog-post-steps}
+
+##### **Recipe Steps** {#recipe}
+1. Make a fine paste of ginger, Garlic, and Green chilies and keep it aside.
+1. Coarsely Grind Onion either in mixer or Silbatta and keep it aside on a plate.
+1. Pour Mustard oil in the cooker. Firstly add Tejpatta in oil.
+1. Then add all solid dry spices in oil like coriander seeds, jeera, star anise, cardamom, black peppercorns, cloves, Dalchini, Javitri in oil.
+1. Cook these spices very carefully as it can easily burn and spoil the taste and texture of gravy.
+1. When Jeera and Coriander seeds start to splutter, immediately add grounded onion paste and cook this until the raw smell of onion goes off and the color of onion changes to golden pinkish brown.
+1. Now add Ginger, Garlic, Green chili paste in the cooker and cook these mixture well until the raw smell of Garlic goes off.
+1. Add Mutton pieces in Cooker and mix well with onion ginger garlic masala and do lot of roast (bhuno) the mixture. Do not add any water at this point as juices from mutton is sufficient enough to cook the mixture. Cover the lid of cooker and cook the mixture for 10 minutes.
+1. After 10 minutes add all dry spices powder like Turmeric powder, Red Chilli Powder, Coriander powder, Salt in cooker. Cover the lid of Cooker and bhuno this mixture very well for 5 minutes.
+1. After 5 minutes, open a lid and add a little water and again bhuno(Cook) this mixture very well so that masala doesn't get burned.
+1. Now add 1½ cup of water in masala cooked in a cooker to make gravy. For making thick Gravy add little water or else add more water.
+1. Close the lid of the cooker and cook the meat until one whistle.
+1. Now Mutton Curry is ready in Lucknowi style.
+1. Now to make the tadka, add Ghee in a tadka pan and add Mutton masala in it. Pour this in to cooked mutton curry.
+1. Garnish this Mutton Curry with chopped Coriander leaves.
+1. Serve Hot Mutton Curry with hot Rumali Roti and Rice.
+{: .blog-post-steps}
+
 <div class="row" id="video">
     <div class="col-md-12">
         <div class="embed-responsive embed-responsive-16by9">
-            <iframe width="100%" height="315" src="https://www.youtube.com/embed/_GsjIFM3boA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="100%" height="315" src="{{page.video}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
     </div>
 </div>

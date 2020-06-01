@@ -4,22 +4,22 @@ title: Foody Indian Mom - Indian Food Recipe Blog
 description: Foody Indian Mom is a blog about Indian Cuisine with vegetarian and non-vegetarian recipes.
 ---
 {% include highlighted-recipe.html %}
-<div class="container">
-    <div class="divider"></div>
-    <div class="d-flex justify-content-between align-items-center">
-        <h3>Latest Recipes</h3>
-        <small><a href="/recipes.html" class="btn btn-primary btn-sm">View All</a></small>
+<div class="container-fluid">
+    <div class="row welcome">
+        <div class="col-12 text-center">
+            <h3 class="display-4">Latest Recipes</h3>
+            <hr class="header-separator mb-5">
+        </div>
     </div>    
-    <div class="row row-cols-1 row-cols-md-3 text-white">
-        {% for post in site.posts limit:6 %}
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4">
+        {% for post in site.posts limit:8 %}
         <div class="col mb-4">
             <div class="card h-100">
                 <img src="{{ post.imagePath }}" alt="" class="card-img-top" height="100%">
                 <img src="{{ post.type }}" alt="" class="top-right-img" height="15px">
-                <div class="card-img-overlay d-flex flex-column justify-content-end p-0">
-                    <div class="justify-content-center" id="pointer">
-                        <strong>{{ post.short_title }}</strong>
-                    </div>
+                <span class="badge badge-secondary top-left-badge">{{post.categories.last}}</span>
+                <div class="card-img-overlay text-white text-center">
+                    <h5 class="card-title" style="background: rgba(255,69,0,0.75);">{{ post.short_title }}</h5>
                 </div>
                 <a href="{{ post.url }}" class="stretched-link"></a>
             </div>
