@@ -4,7 +4,7 @@ title:  "South Indian Gun Powder Masala"
 short_title:  "Gun Powder Masala"
 slug: gunpowder
 author: Parul
-tags: gunpowder foodyindianmom
+tags: gunpowder foodyindianmom milagi podi roasted dry dal chutney spicy taste enhancer idli dosa malaga podi idli podi southindian masala spices ghee button idli gunpowder GheeIdli lentils curryleaves roasted dals urad dal chana dal sesameseeds
 date:   2020-05-25 14:05:23 +0530
 categories: All Sides
 type: /images/veg.png

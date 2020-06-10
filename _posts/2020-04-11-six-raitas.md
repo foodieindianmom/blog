@@ -4,7 +4,7 @@ title:  "Types of Raitas"
 short_title:  "Types of Raitas"
 slug: six_raitas
 author: Parul
-tags: raitas carrot raita foodyindianmom
+tags: raitas carrot raita lauki raita bottle gourd raita beetroot raita lady finger bhindi raita chundar raita yoghurt cucumber raita bathua raita health benifits  typesOf Raita healthy nutritous biryani raita kebabs raita side dish foodyindianmom digestion
 date:   2020-04-11 10:05:23 +0530
 categories: All Sides
 type: /images/veg.png

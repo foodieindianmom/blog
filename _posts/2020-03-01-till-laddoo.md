@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Sesame Laddoo"
-short_title:  "Sesame Laddoo"
+title:  "Til ke Laddoo | Sesame Jaggery Laddoo | Tilkut | Makarsankranti Special"
+short_title:  "Til Gur Laddoo"
 description: ""
 slug: sesame_laddoo
 author: Parul

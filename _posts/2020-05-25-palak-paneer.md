@@ -4,7 +4,7 @@ title:  "Palak Paneer/ Cottage Cheese Restaurant Style"
 short_title:  "Palak Paneer"
 slug: palak_paneer
 author: Parul
-tags: Palak Paneer Curry foody indian mom food foodyindianmom
+tags: Palak Paneer Curry foody indian mom food foodyindianmom cottagecheese green spinach curry vegan curry spinach curry restaurant style palak paneer healthy northindian punjab originated palak paneer creamy spicy spices infused green spinach curry
 date:   2020-05-25 10:25:23 +0530
 categories: All Curries
 type: /images/veg.png

@@ -5,7 +5,7 @@ short_title:  "Coconut Sambhar"
 description: ""
 slug: coconut_sambhar
 author: Parul
-tags: sambhar southindian staple lunch breakfast dinner ricesambhar healthy idlisambhar dosasambhar vadasambhar vegetable lentil stew mildspicy foodyindianmom protein richfood mixedvegetables tadka indian recipe popular srilankan cuisines arhardal toordal tastysambhar homestyle delicious
+tags: sambhar southindian staple lunch breakfast dinner ricesambhar lentil vegetable coconut sambhar  healthy idlisambhar dosasambhar vadasambhar vegetable lentil stew mildspicy foodyindianmom protein richfood mixedvegetables tadka indian recipe popular srilankan cuisines arhardal toordal tastysambhar homestyle delicious
 date:   2020-05-18 14:15:23 +0530
 categories: All Curries
 type: /images/veg.png

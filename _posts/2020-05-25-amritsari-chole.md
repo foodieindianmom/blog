@@ -4,7 +4,7 @@ title:  "Amritsari Chole Traditional Style"
 short_title:  "Amritsari Chole"
 slug: amritsari_chole
 author: Parul
-tags: Amritsari Chole Curry foody indian mom food foodyindianmom
+tags: Amritsari Chole Curry foody indianfood foodyindianmom punjabi Chole tea powder chole spicy tangy chickpeas curry kabuli chana northindian dish spicy tasty restaurantstyle chole bhature chole kulche lunch dinner breakfast blackdark brown chole 
 date:   2020-05-25 12:25:23 +0530
 categories: All Curries
 type: /images/veg.png

@@ -4,7 +4,7 @@ title:  "Karela Onion Stir Fry"
 short_title:  "Karela Stir Fry"
 slug: karela_stir_fry
 author: Parul
-tags: Karela Onion Stir Fry foodyindianmom 
+tags: Karela Onion Stir Fry foodyindianmom bitter gourd onion sabji HowToCook Bitter gourd /karela No Bitterness store easily vegan indian recipes healthy nutritous high diabeties beneficial health benefits bitter gourd
 date:   2020-04-11 16:58:23 +0530
 categories: All Veggies 
 type: /images/veg.png

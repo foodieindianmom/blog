@@ -169,6 +169,27 @@
             </div>
           </div>
         </div>
+        <div class="card">
+          <div class="card-header" id="headingNine">
+            <h5 class="mb-0">
+              <div class="d-flex justify-content-between align-items-center m-0">
+                <a href="#" data-toggle="collapse" data-target="#collapseNine" aria-expanded="true" aria-controls="collapseNine">
+                  Rice 
+                </a>
+                <i class="fas fa-angle-down" data-toggle="collapse" data-target="#collapseNine" aria-expanded="true" aria-controls="collapseEight"></i>
+              </div>
+            </h5>
+          </div>
+          <div id="collapseNine" class="collapse hide" aria-labelledby="headingNine" data-parent="#accordionExample">
+            <div class="card-body">
+                <ul class="list-unstyled">
+                    {% for post in site.categories.Rice %}
+                    <li><img src="{{ post.type }}" height="10px">&nbsp;<a href="{{ site.baseurl }}{{ post.url }}" class="item">{{post.title}}</a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+          </div>
+        </div>
     </div>
 </div>
 <!--googleon: all-->

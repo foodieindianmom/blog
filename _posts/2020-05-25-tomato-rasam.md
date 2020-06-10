@@ -5,7 +5,7 @@ short_title:  "Tomato Rasam"
 description: ""
 slug: tomato_rasam
 author: Parul
-tags: Tomato Rasam homestyle delicious
+tags: Tomato Rasam homestyle delicious tamoto blackpepper arhar dal toor dal pigeonpeas rasam powder spicy and tangy southindian soup lentil soup tamarind good for digestion drink staple southindian thali asafoetida fight agaist diseases like cough cold howTomake Rasam healthy tasty delicious tomato rasam soup afterMealRasam
 date:   2020-05-25 16:05:23 +0530
 categories: All Curries
 type: /images/veg.png

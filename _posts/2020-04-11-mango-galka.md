@@ -4,7 +4,7 @@ title:  "Raw Mango Galka"
 short_title:  "Raw Mango Galka"
 slug: mango_galka
 author: Parul
-tags: raw mango galka foodyindianmom
+tags: raw mango galka foodyindianmom sweet spicy tangy raw mango galkajaggery sugar spices cumin seeds red chillipowder instant sweet raw mango pickle kaloonji instant pickle 
 date:   2020-04-11 11:58:23 +0530
 categories: All Sides
 type: /images/veg.png

@@ -4,7 +4,7 @@ title:  "Kadhi Pakoda Traditional Style"
 short_title:  "Kadhi Pakoda"
 slug: kadhi_pakoda
 author: Parul
-tags: kadhi pakoda Curry foody indian mom food foodyindianmom
+tags: kadhi pakoda Curry foody indian mom food foodyindianmom gram flour besan curd dahi besan northindian style kadhi chawal howToMake Kadhi meal indian food recipessour spicy tangy kadhi plain pakora tadka kadhi
 date:   2020-05-25 11:25:23 +0530
 categories: All Curries
 type: /images/veg.png
