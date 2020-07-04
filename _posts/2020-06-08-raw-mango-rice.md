@@ -3,6 +3,8 @@ layout: post
 title:  "Authentic South Indian Style - Raw Mango Rice"
 short_title:  "Raw Mango Rice"
 slug: raw_mango_rice
+description: "Raw Mango rice is an authentic southindian rice recipe originated in Karnataka , India. The sour ,tangy and spicy flavour of this recipe  is because of raw mangoes used in this recipe.This recipe is prepared by using raw mangoes, crunchy lentils and peanuts and  various herbs and spices.This is a perfect one pot dish.
+" 
 author: Parul
 tags: RawMangoRice Rice Recipes Raw Mango sour and Tangy spicy foodyindianmom mavinakayi chitrana karnataka cuisine Kaccha Aam chawal Khatta rice lunch dinner breakfast comfort food onepot dish easy recipe less time consuming recipe southindian food breakfast
 date:   2020-06-08 11:05:23 +0530

@@ -3,6 +3,8 @@ layout: post
 title:  "Types of Raitas"
 short_title:  "Types of Raitas"
 slug: six_raitas
+description: "Raita is an Indian dish made of thick creamy curd which is mixed together with either cooked or uncooked vegetables, fruits, herbs and various spices. In India Raita is served with Biryani, kebabs and Pulao. Various aromatic spices like Roasted Jeera Powder, Black salt, dried Mint (Pudina) leaves powder, mustard seeds, Hing etc.  that is added in Raita to enhance the taste of it.
+"
 author: Parul
 tags: raitas carrot raita lauki raita bottle gourd raita beetroot raita lady finger bhindi raita chundar raita yoghurt cucumber raita bathua raita health benifits  typesOf Raita healthy nutritous biryani raita kebabs raita side dish foodyindianmom digestion
 date:   2020-04-11 10:05:23 +0530

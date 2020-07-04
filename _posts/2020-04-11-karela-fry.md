@@ -4,6 +4,8 @@ title:  "Karela Onion Stir Fry"
 short_title:  "Karela Stir Fry"
 slug: karela_stir_fry
 author: Parul
+description: "Karela sabzi or Bitter gourd stir fry is a traditional recipe prepared in North Indian style. In this recipe peel of the karela or Bitter gourd is also used while making karela stir fry. The Karela Fry  prepared  doesn't taste bitter after this method of cooking which I will share in this recipe. This Karela Stir fry can be used continously for 2 days without refrigeration. This is the reason many people prefer to take Karela stir fry with them for eating  during travelling.
+"
 tags: Karela Onion Stir Fry foodyindianmom bitter gourd onion sabji HowToCook Bitter gourd /karela No Bitterness store easily vegan indian recipes healthy nutritous high diabeties beneficial health benefits bitter gourd
 date:   2020-04-11 16:58:23 +0530
 categories: All Veggies 

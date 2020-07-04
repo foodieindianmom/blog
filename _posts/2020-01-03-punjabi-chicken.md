@@ -3,6 +3,7 @@ layout: post
 title:  "Punjabi Chicken Curry"
 short_title:  "Punjabi Chicken Curry"
 slug: punjabi_chicken_curry
+description: "Punjabi Chicken Curry is a North Indian style chicken curry which you can serve with both rice and naan.Not too hot and spicy,loaded with meaty flovour,and with the delicious aroma of whole spices,this punjabi chicken curryis loved by a lot of people who tryit for first time. Chicken curry and rice is a match made in heaven."
 author: Parul
 tags: chicken curry punjabi homestyle foodporn spicy mompresso gravy festivals indian food foodblog foodie healthy eating tasty non-vegetarian non-veg northindian namakshmak chef thali recipies lunch dinner butter naan  tandori roti chicken tikka masala youtube likes
 date:   2020-01-03 00:51:23 +0530

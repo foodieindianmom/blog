@@ -3,6 +3,17 @@ layout: post
 title:  "Kadhi Pakoda Traditional Style"
 short_title:  "Kadhi Pakoda"
 slug: kadhi_pakoda
+description: "Kadhi Pakora is the sour and mild spicy gravy dish which is prepared by using Gram flour/ Besan , sour curd and various indian spices.  Kadhi can be plain or contain pakora either plain Besan /gram flour Pakora or any vegetable pakora.
+Kadhi in India is made in different styles like :
+
+Kadhi without Pakora
+kadhi with plain (besan/gram flour) pakora
+kadhi with Boondi
+kadhi with any vegetable pakora like onion pakora , potato pakora, spinach pakora etc
+Sindhi kadhi is made directly by sauteing vegetables in oil and adding Besan curd mixture.
+Gujrati kadhi is slightly sweet in taste as gujrati people add jaggery or sugar while cooking Kadhi.
+
+"
 author: Parul
 tags: kadhi pakoda Curry foody indian mom food foodyindianmom gram flour besan curd dahi besan northindian style kadhi chawal howToMake Kadhi meal indian food recipessour spicy tangy kadhi plain pakora tadka kadhi
 date:   2020-05-25 11:25:23 +0530

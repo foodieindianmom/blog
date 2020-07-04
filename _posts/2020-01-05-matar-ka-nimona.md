@@ -3,6 +3,7 @@ layout: post
 title:  "Matar Ka Nimona"
 short_title:  "Matar Ka Nimona"
 slug: matar_ka_nimona
+description: "Matar ka nimona is a thick, spicy curry, delicious and rich when enjoyed with rice or rotis.A dish widely prepared in Uttar Pradesh, this traditional UP style Matar Ka Nimona is made using peas and just a few spices."
 author: Parul
 tags: Matar ka Nimona winters fresh greeenpeas curry dinnerideas spicy gravy north indian style rice roti paratha indian northindian food yummy curry vegetarian uttarpradesh traditional homestyle like vadiyaan potato masala thickcurry healthy tasty dinner lunch indianthali foodyindianmom
 date:   2020-01-05 00:51:23 +0530

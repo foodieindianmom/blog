@@ -3,6 +3,8 @@ layout: post
 title:  "Spinach Soya Cutlets"
 short_title:  "Spinach Soya Cutlets"
 slug: spinach_cutlets
+description: "Spinach Soya Cutlets is a mouthwatering Indian snack prepared by using Soya chunks,  Spinach leaves, herbs and various spices. It is a healthy, delicious kids-friendly appetizer. These Soya Palak Cutlets are moist from inside and crisp from outside . These soya chunks cutlets are perfect for evening snacks , served with tea/Coffee.
+"
 author: Parul
 tags: spinach soya cutlets recipe foodyindianmom palak soya nuggets soya chunks fried snack tasty delicious kids tiffin party snack breakfast naasta baked spinachRecipes crispy cutlets healthy nutritous indian appetizer food
 date:   2020-05-25 07:05:23 +0530

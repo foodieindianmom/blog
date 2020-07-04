@@ -3,6 +3,8 @@ layout: post
 title:  "Raw Mango Galka"
 short_title:  "Raw Mango Galka"
 slug: mango_galka
+description: "Raw Mango Galka is a North Indian style instant mango pickle which is sweet and sour in taste. Normally mango pickle takes at least a week to get ready for eating. But this sweet and sour raw mango pickle is prepared and ready to eat in half an hour.
+"
 author: Parul
 tags: raw mango galka foodyindianmom sweet spicy tangy raw mango galkajaggery sugar spices cumin seeds red chillipowder instant sweet raw mango pickle kaloonji instant pickle 
 date:   2020-04-11 11:58:23 +0530

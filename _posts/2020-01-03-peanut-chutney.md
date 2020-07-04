@@ -2,7 +2,7 @@
 layout: post
 title:  "Peanut Chutney"
 short_title:  "Peanut Chutney"
-description: ""
+description: "Chutneys are a gluten free, spicy and savory dish originating in India. Chutneys can be provided with any dish to balance the flavour of any food and increase the taste of any dish.Peanuts chutney or Mungfali ki Chutney is a spicy chutney, which is served as a side dish that can be used with several snacks and breakfast foods." 
 slug: peanut_chutney
 author: Parul
 tags: instant peanuts munghfali chutney foodyindianmom recipe spicy yummy delicious idli vada sambhar dosa indian foodyindianmom likes youtube dips greenchili healthy food southindian breakfast  eatrightindia healthyindia snack cooking nutritous

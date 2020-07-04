@@ -3,6 +3,9 @@ layout: post
 title:  "Raw Mango Panaa"
 short_title:  "Raw Mango Panaa"
 slug: mango_panaa
+description: "Raw Mango Panaa is the desi drink which we Indians usually enjoy drinking during summers. This Raw mango Panaa acts as a coolant when a person suffering from intensive heat, drinks it. The heat resistant properties of this Raw Mango Panaa make it as a perfect Desi drink or beverage in India.
+This Aam ka Panaa is made up of Raw mangoes, Pudina (dried mint leaves powder) Powder, Roasted Cumin Powder and many other ingredients.
+"
 author: Parul
 tags: Raw Mango Panaa raw mango drink indian beverages How to make Raw Mango Panna best Desi drinks in summers kaccha aam ka pana recipe heat resistant drink coolant drink healthy drink Raw Mango found in abundance in summers Indianspices infused raw mango panna foodyindianmom
 date:   2020-04-02 22:05:23 +0530

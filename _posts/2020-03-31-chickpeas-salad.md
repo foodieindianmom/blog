@@ -3,6 +3,7 @@ layout: post
 title:  "Sprouted Chickpeas Salad"
 short_title:  "Chickpeas Salad"
 slug: chickpeas_salad
+description: "Sprouted Black Chana chaat is a nutrition enriched food that everyone should have in their diet.This homemade sprouted kala chana chaat can be prepared in two ways, mentioned in Recipe steps below. Cooking through both the ways have the same nutrition content so one can cook according to any of the ways."
 author: Parul
 tags: sprouted black chickpeas chaat street style kala chaat healthy sprouted black chickpeas salad kids tiffin indian healthy breakfast chaat recipies sprouted salad recipe kids lunchbox boiled kala chana chaat sprouted black chickpeas chaat sprouted kala chana chaat what is sprouting foodyindianmom
 date:   2020-03-31 17:05:23 +0530

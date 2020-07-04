@@ -10,7 +10,9 @@ layout: default
         <div class="col-lg-8 mb-2 blog-post-font-size">
             <div class="d-flex justify-content-between align-items-center m-0">
                 <img src="{{ page.type }}" height="25px">
-                <div><i class="fas fa-tag"></i><small> {{ page.categories.last }} </small> <!--&bull; <i class="far fa-calendar-check"></i><small> {{ page.date | date: "%B %-d, %Y" }}</small>--></div>
+                <div>
+                    <i class="fas fa-tag"></i><small> {{ page.categories.last }} </small> <!--&bull; <i class="far fa-calendar-check"></i><small> {{ page.date | date: "%B %-d, %Y" }}</small>-->
+                </div>
             </div>
             {% if post %}
             {% assign categories = post.categories %}

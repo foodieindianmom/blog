@@ -3,6 +3,9 @@ layout: post
 title:  "Garlic Butter Naan"
 short_title:  "Garlic Butter Naan"
 slug: garlic_naan
+description: "Naan is the most popular flatbread in India. The soft, fluffy and chewy texture of naan make it more lovable for food lovers. It is mostly served with Curries either vegetarian or non-vegetarian.
+In this recipe I use Kalonji / Onion seeds, Butter, fine chopped Garlic and chopped coriander leaves as toppings for this naan. This homemade  Garlic butter naan is prepared on iron Tawa. Texture and taste of this tawa naan is the same as naan prepared on Tandoor.
+"
 author: Parul
 tags: garlicButterNaan Naan Recipe Indian Flatbread Recipe ButterNaan Kulcha Fluffy and soft Naan Recipe Naan with Yeast Recipe Naan on rolling board Pudina Naan Naan with baking powder Naan with Curd Recipe Naan for Vegetarian dishes Naan for Nonvegetarian Dishes foodyindianmom Recipies
 date:   2020-04-03 20:05:23 +0530

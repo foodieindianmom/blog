@@ -2,7 +2,8 @@
 layout: post
 title:  "Lucknowi Mutton Curry"
 short_title:  "Lucknowi Mutton Curry"
-description: ""
+description: "Mutton curry is considered one of the easy, healthy and delicious non-vegetarian curries in India. Mutton Curry is a perfect blend of different aromatic spices and tender juicy meat.
+Mutton curry is usually served hot with Rumali Roti or Naan or tandoori Roti and Jeera Rice." 
 slug: mutton_curry
 author: Parul
 tags: mutton curry non-veg non-vegetarian northindian roomali roti Tandori roti bakrid spicy healthy gravy muttonchops indian lunch dinner party lambcurry foodyindianmom recipe nonvegfoodlovers awadhi traditional masala goat meat nonvegfoodideas

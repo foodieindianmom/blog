@@ -3,6 +3,10 @@ layout: post
 title:  "Mutton Keema"
 short_title:  "Mutton Keema"
 slug: mutton_keema
+description: "Mutton Keema is considered one of the easy, healthy and delicious non-vegetarian dishes in India.Mutton keema is a favourite among all non-vegetarians. This dish is prepared using minced meat and a variety of aromatic spices  which makes this dish more flavourful and tasty.
+Mutton keema is a perfect blend of different aromatic spices and tender juicy meat.
+Mutton keema is usually served hot with Rumali Roti or Naan or tandoori Roti and Jeera Rice. The more we roast (bhuno) the minced meat and spices (roasting of masala), the more delicious keema will come out. Slow Cooked Mutton always tastes more delicious and yummy.
+"
 author: Parul
 tags: mutton keema gravy non vegetarian curry recipenorth indian style mutton keemamutton keema infused with aromatic spiceshealthy and delicious mutton keemadinner lunch Naan Roomali Roti Rice delicious and flavourful meat keema curry lamb meat curry recipe minced meat gravy recipe comfort food foodyindianmom
 date:   2020-03-12 21:25:23 +0530

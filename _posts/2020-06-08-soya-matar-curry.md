@@ -3,6 +3,8 @@ layout: post
 title:  "Soya Chunks Curry | Soya Nuggets Curry | Soya Matar Curry"
 short_title:  "Soya Chunks Curry"
 slug: soya_chunks_curry
+description: "Soya Matar Curry is a delicious and healthy vegan gravy dish that is prepared by using  Soya nuggets,  green peas and various other spices. The creaminess in gravy  of Soya matar Curry is because of the dry fruits that are used in this gravy. Use of dry fruits and fresh cream while preparing  gravy/ Rasa makes this dish more rich and flavourful. 
+"
 author: Parul
 tags: soya chunks curry recipes soya nuggets curry soya matar curry restaurant style curries indian food indian cuisine lunch dinner foodyindianmom soya chunks green peas masala gravy recipes 
 date:   2020-06-08 11:05:23 +0530

@@ -3,6 +3,8 @@ layout: post
 title:  "Stuffed Moong Dal Cheela | Moong dal Dosa | Moong Dal Savoury Pancake"
 short_title:  "Stuffed Moong Dal Cheela"
 slug: stuffed_moong_dal_cheela
+description: "Stuffed Moong Dal cheela is the traditional recipe which is both tasty and healthy.In north India this recipe is called Cheela and in South India this recipe called Dosa.But the Batter of both remain same.
+This Recipe is simple and easy to make with help of easily available ingredients in the kitchen.Moong dal cheela or Moong dal dosa is served with coconut chutney and Green chutney. This is a healthy option of breakfast  and tea time snacks."
 author: Parul
 tags: stuffed moong dal cheela lentils dosa pancake healthy breakfast evening snacks foodyindianmom
 date:   2020-06-08 12:05:23 +0530

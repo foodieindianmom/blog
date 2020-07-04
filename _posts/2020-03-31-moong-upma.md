@@ -3,6 +3,9 @@ layout: post
 title:  "Steamed Moong Dal Upma"
 short_title:  "Moong Dal Upma"
 slug: moong_upma
+description: "Steamed Moong Dal Upma is a healthy breakfast option for people who want to eat something healthy and can be prepared within a couple of minutes. Many dietitians in India suggest to eat breakfast that is full of minerals and fibre in it. This moong dal upma contains lots of nutrients like protein, minerals, fibre and vitamins in it. 
+This Homemade Moong dal upma is easy to make as ingredients used in this recipe are easily found in every kitchen.
+"
 author: Parul
 tags: moong dal upma Moong Dal Recipies Upma Recipies diet Recipe Weight loss recipe less oil breakfast recipe healthy and tasty breakfast recipe easy digestable breakfast moong dal upma breakfast helpful for person having high cholestrol high blood pressure diabeties weight loss recipe lentils upma foodyindianmom
 date:   2020-03-31 19:05:23 +0530

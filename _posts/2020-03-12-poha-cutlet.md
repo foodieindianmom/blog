@@ -3,6 +3,9 @@ layout: post
 title:  "Poha Cutlets"
 short_title:  "Poha Cutlets"
 slug: poha_cutlets
+description: " Poha cutlets is a very simple, healthy, easy to make and can be served for an evening snack with green chutney or Tomato  ketchup. A schezwan sauce or mayonnaise dip goes best with these.
+These cutlets can be deep fried or baked or shallow fried depending on one’s taste buds and health factors. It is a favourite tea time breakfast snack made with a combination of Potato, Poha (Chiwda) and many more ingredients.
+"
 author: Parul
 tags: poha cutlets, indian snacks, party snacks, apetizer recipe, healthy cutlets, beaten rice cutlets,tea time evening snack,breakfast recipe, kids tiffin , tasty and yummy Poha Cutlets, crispy and crunchy Poha cUtlets , Crispy crunchy snacks, moonsoon snacks,chai time snacks, cutlets snack foodyindianmom
 date:   2020-03-12 21:05:23 +0530

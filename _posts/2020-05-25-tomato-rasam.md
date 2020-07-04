@@ -2,7 +2,8 @@
 layout: post
 title:  "Tomato Rasam South Indian Style"
 short_title:  "Tomato Rasam"
-description: ""
+description: "Tomato Rasam is a traditional spicy and tangy soup originated in Madurai, a place in Southern India. Tomato rasam is prepared by using Lentils, Tomatoes and varieties of indian spices and herbs.
+"
 slug: tomato_rasam
 author: Parul
 tags: Tomato Rasam homestyle delicious tamoto blackpepper arhar dal toor dal pigeonpeas rasam powder spicy and tangy southindian soup lentil soup tamarind good for digestion drink staple southindian thali asafoetida fight agaist diseases like cough cold howTomake Rasam healthy tasty delicious tomato rasam soup afterMealRasam

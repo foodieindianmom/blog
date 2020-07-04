@@ -3,6 +3,8 @@ layout: post
 title:  "Palak Namak Pare | Nutrients Enriched Spinach Snack"
 short_title: "Palak Namak Pare"
 slug: palak_namak_pare
+description: "Palak Namak Pare is a Indian snack which is tasty and healthy at the same time .  In this snack Spinach is added to increase the nutritional value of the snack.
+Palak namak pare is the best evening or tea time snack. You can make this snack in large quantities and store and use it for at least 15-20 days."
 author: Parul
 tags: palak namak pare spinach snacks tea time snack evening snack recipe healthy snack nutrients enrich snack namak pare kids snack tiffin store picnic homemade foodyindianmom
 date:  2020-06-08 12:05:23 +0530

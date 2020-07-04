@@ -3,6 +3,8 @@ layout: post
 title:  "Amritsari Urad Dal Wadiya"
 short_title:  "Urad Dal Wadiya"
 slug: amritsari_urad_dal_wadiya
+description: "Amritsari masala vadi is very popular across the world especially among the Punjabi community. This Amritsari masala vadi is prepared from Urad dal paste , grated cauliflower and various other Indian Spices.
+Amritsari  masala vadiya  is quite helpful when there is scarcity of vegetables or no vegetables at home"
 author: Parul
 tags:  dried wadiya urad dal phoolgobhi blackpepper redchillies sundried masala wadiya amritasari  punjab famous wadiyan spicy wadiya curry aloo wadi punjabi dish no vegetable store for year recipes breakfast lunch dinner foodyindianmom
 date:   2020-06-10 06:05:23 +0530

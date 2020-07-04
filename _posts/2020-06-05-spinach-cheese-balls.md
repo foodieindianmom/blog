@@ -3,6 +3,9 @@ layout: post
 title:  "Spinach Cheese Cutlets"
 short_title:  "Spinach Cheese Cutlets"
 slug: spinach_cheese_cutlets
+description: "Spinach Cheese Balls is a delicious and healthy Indian appetizer made by using Spinach, cheese and various Indian spices. This vegan snack is easily made in less time with help of ingredients that is easily found in any kitchen.
+This healthy snack is kid friendly as kids like to eat cheese and this snack contains both taste and nutrients in the form of cheese and spinach.
+"
 author: Parul
 tags: spinach cheese cutlets foodyindianmom fried teatime evening snack homemade palak recipes cheese nutritous healthy crispy cutlets indian appetizer party snack kids tiffin easy to make cutlets vegan cutlets pakora
 date:   2020-06-05 11:58:23 +0530

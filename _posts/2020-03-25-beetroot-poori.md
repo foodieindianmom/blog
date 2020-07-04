@@ -3,6 +3,7 @@ layout: post
 title:  "Beetroot Poori"
 short_title:  "Beetroot Poori"
 slug: beetroot_poori
+description: " It is Deep fried bread made of whole wheat atta, normally served with any savoury and spicy curry or any stir fry vegetables or any Raitas. "
 author: Parul
 tags: beetroot poori chukandar ki pooriyan healthy breakfast pink poori deer fried breadmade of atta called Poori Grated Beetroot  beetroot recipies breakfast lunch dinner kids tiffin kid lunchbox foodyindianmom
 date:   2020-03-25 16:05:23 +0530

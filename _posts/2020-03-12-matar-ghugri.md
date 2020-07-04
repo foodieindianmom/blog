@@ -3,6 +3,8 @@ layout: post
 title:  "Aloo Matar Ghugri"
 short_title:  "Aloo Matar Ghugri"
 slug: aloo_ghugri
+description: "A dish widely prepared in Uttar Pradesh, this traditional UP style Matar Ki Ghugri is made using peas and just a few spices. Make it with the most tender winter peas while they are in season.The recipe is very simple, easy to make, delicious.
+"
 author: Parul
 tags: Matar ki Ghughri matar ki ghughni aloo matar ghughri breakfast recipe winter special starter recipe north indian style Uttar pradesh famous matar ki ghugritea time evening snackfresh green peas potato ghughri breakfastgreen peas potato stir fry indian winter snacks appetizerhealthy naasta naaste ki recipe foodyindianmom
 date:   2020-03-12 20:45:23 +0530

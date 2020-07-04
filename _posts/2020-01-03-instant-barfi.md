@@ -3,6 +3,7 @@ layout: post
 title:  "Instant Coconut Barfi"
 short_title:  "Instant Coconut Barfi"
 slug: instant_burfi
+description: "Nariyal ki Barfi is an Indian sweet which is very soft and delicious, and is an instant hit with everyone. This homemade style of making Instant Nariyal ki barfi is quite simple and easy to make. Nariyal ki Barfi is an Indian sweet which is very soft and delicious, and is an instant hit with everyone.It is an Indian sweet that can be made in minutes. This nariyal ki barfi is the easiest festival sweet that anyone can prepare in their home. This recipe is made up of only three basic ingredients."
 author: Parul
 tags: cocunut nariyal  barfi mithai indian sweet foodyindianmom tasty delicious recipe Cooking chef  dessert festival instant likes youtube instagramfood sweet snack yummy indian dessinated cocunut semolina ladoo barfi peda katli sugar dryfruits ghee favourite meetha
 date:   2020-01-03 00:51:23 +0530

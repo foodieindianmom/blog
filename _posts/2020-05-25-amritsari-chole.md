@@ -3,6 +3,7 @@ layout: post
 title:  "Amritsari Chole Traditional Style"
 short_title:  "Amritsari Chole"
 slug: amritsari_chole
+description: "Amritsari chola is the traditional authentic Punjabi dish which is prepared by using Kabuli chana , ginger garlic masalas and a variety of indian spices. This punjabi style amritsari chola is different in colour and flavour of regular Kabuli chola gravy. Amritsari chola is dark in colour because of using tea powder or tea bags while boiling Kabuli Chole."
 author: Parul
 tags: Amritsari Chole Curry foody indianfood foodyindianmom punjabi Chole tea powder chole spicy tangy chickpeas curry kabuli chana northindian dish spicy tasty restaurantstyle chole bhature chole kulche lunch dinner breakfast blackdark brown chole 
 date:   2020-05-25 12:25:23 +0530

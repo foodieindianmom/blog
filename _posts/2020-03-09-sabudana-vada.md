@@ -3,6 +3,9 @@ layout: post
 title:  "Sabudana Vada"
 short_title:  "Sabudana Vada"
 slug: sabudana_vada
+description: "Sabudana Vada is a popular maharashtrian snack, often served with spicy green chutney and hot chai. It is a crisp fried snack made up of sabudana or Sago(Tapioca pearls),Peanuts,Potatoes and herbs.
+Sabudana Vada is an excellent option when you are fasting. In India this filling and nutritious snack is usually served during religious festivals and during fast/ vrat / upvas especially during Navratri vrats. 
+"
 author: Parul
 tags: sabudana vada potato aloo maharashtrian snack fasting recipe vrat food item upvas food item sago patties tapica mouthwatering healthy festival breakfast spicy chutney indian snack crispy upvas sago tapioca pearls peanuts navratri foodyindianmom fried teatime evening snack homemade
 date:   2020-03-09 17:58:23 +0530

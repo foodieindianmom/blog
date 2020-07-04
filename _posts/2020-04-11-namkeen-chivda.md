@@ -3,6 +3,9 @@ layout: post
 title:  "Namkeen Chivda"
 short_title:  "Namkeen Chivda"
 slug: namkeen_chivda
+description: "This Homemade Namkeen Chivda is a spicy salty dry mixture of Roasted Poha ,Peanuts and various other ingredients. It involves the preparation, Roasting and frying of different ingredients,which are brought together to create this delicious Namkeen Chivda.  
+This Namkeen Chivda is the best tea time snack in India.It is very Light and fluffy to eat, a great snack option for kids. Make this Namkeen chivda and you can store it easily in an airtight container for one month.
+"
 author: Parul
 tags: Namkeen Chivda foodyindianmom
 date:   2020-04-11 10:58:23 +0530

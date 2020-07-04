@@ -3,6 +3,7 @@ layout: post
 title:  "Chana Dal Baffauri | Protein rich spicy snack | Healthy Steamed Snack Recipe"
 short_title:  "Chana Dal Baffauri"
 slug: chana_dal_baffauri
+description: "Chana Dal Bafauri is a healthy snack made using chana dal, onions, green chilies and very few spices. It is a healthy steamed snack prepared with very little oil .It is one of the Zero oil recipes. This is a very healthy option for people with high cholesterol and people who want to lose weight"
 author: Parul
 tags:  Chana dal baffauri steamed snack healthy snack gram dal lentils snacks protein enriched snackrecipes breakfast foodyindianmom less oil recipe tea time eevening snack gram dal lentil snack indian healthy appetizer kids tiffin breakfast recipe 
 date:   2020-06-08 11:05:23 +0530

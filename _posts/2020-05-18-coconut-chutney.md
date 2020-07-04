@@ -3,6 +3,9 @@ layout: post
 title:  "Coconut Chutney South Indian Style"
 short_title:  "Coconut Chutney"
 slug: coconut_chutney
+description: "Coconut Chutney is a popular south indian side dish that is made by grinding fresh coconut pulp along with various herbs, lentils and spices. Almost all the  snacks in South India are eaten with Coconut Chutney like Idli, Vada, Dosa, Uttapam, Ponal, Upma etc. 
+Coconut Chutneys is a southindian condiment which is  easy to make and is quite healthy and tasty.
+"
 author: Parul
 tags: coconut chutney recipes breakfast lunch dinner nariyal kopra chutney southindian style foodyindianmom condiment healthy chutney mixed herbs spices how to make nariyal chutney calorie southindian style store 3months weightloss chutney green coconut chuney red coconut chutney spicy sour mildsweet idli vada dosa coconut chutney healthiest chutney 
 date:   2020-05-18 20:05:23 +0530

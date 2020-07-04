@@ -2,7 +2,8 @@
 layout: post
 title:  "Suji / Semolina Cookies"
 short_title:  "Suji Cookies"
-description: ""
+description: "Semolina / Suji / Rava Cookies are simple, easy and tasty recipes made with Semolina(Suji), Wheat Flour(Atta), Sugar and Ghee. These delicious cookies are prepared  just by using a few ingredients  which are very healthy.
+"
 slug: suji_cookies
 author: Parul
 tags: Suji ke Buiscuit Semolina Cookies FoodyindianmomRecipes IndianSweetSnack kid tiffin kid lunchboxes energy bar Kid Favourite snack Suji atte ke buiscuit Healthy biscuits Rava Ke Biscuits Semolina Dessert Recipe Sooji Recipies

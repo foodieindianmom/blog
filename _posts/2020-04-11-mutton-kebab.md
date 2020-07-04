@@ -3,6 +3,9 @@ layout: post
 title:  "Mutton Galouti Kebab"
 short_title:  "Mutton Galouti Kebab"
 slug: mutton_kebab
+description: "The delicate Galouti kebab (Gilawat ke kebab) are flat, medium size patties made of finely ground and spiced minced meat fried in desi ghee.
+Galouti kebab is also known as Gilawat ke kabab. These kebabs were invented for old nawab of Lucknow who have no teeth and that is why these kebabs were made so that they were easy to eat. 
+"
 author: Parul
 tags: mutton galouti kebab comfort food foodyindianmom
 date:   2020-04-11 20:25:23 +0530

@@ -3,6 +3,7 @@ layout: post
 title:  "Cheesy Vegetable Cutlets"
 short_title:  "Cheesy Veg Cutlets"
 slug: veg_cutlets
+description: "Cheesy Vegetable Cutlet is a popular snack on any Indian restaurant menu. It is very simple, healthy, easy to make and delicious vegetable cutlets that can be served for an evening snack with a green chutney or Tomato ketchup. A schezwan sauce or mayonnaise dip goes best with these."
 author: Parul
 tags: Vegetable Cutlets Healthy breakfast snack food spicy  chutney monsoon indian streetfood homestyle foodyindianmom tea party tiffin box lunchbox kids recipe healthyeating yummy nutritous breadcrumbs cheese blackpepper capsicum cauliflower potato carrots onions chef masterchef
 date:   2020-01-03 00:51:23 +0530

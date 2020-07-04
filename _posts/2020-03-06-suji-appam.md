@@ -3,6 +3,8 @@ layout: post
 title:  "Suji Appam"
 short_title:  "Suji Appam"
 slug: suji_appam
+description: "Suji ke appe is a very easy to make and healthy breakfast recipe. Suji ke Appe is originated in Southindia but now popular in whole India.Instant Suji ke appe is a very good option when you  are in a hurry and at the same time, want a wholesome and healthy breakfast to eat, then you should try this crispy instant Suji ke appe. It is a very quick ,healthy and tasty breakfast served with Peanuts or Coconut Chutney."
+
 author: Parul
 tags: suji appam appe semolina vegetable snack chutney breakfast instant homemade streetfood southindian appampan recipe kidstiffin lunchbox healthy india eatright curd dahi eno good option foodyindianmom less oil fit diet savoury salty
 date:   2020-03-06 21:32:23 +0530

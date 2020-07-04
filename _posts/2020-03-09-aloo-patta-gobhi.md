@@ -3,6 +3,9 @@ layout: post
 title:  "Cabbage Potato Stir Fry"
 short_title:  "Cabbage Potato Fry"
 slug: aloo_patta_gobhi
+description: "Aloo Patta Gobhi sabji is the healthy and tasty sabji, prepared in a very simple manner. This vegetarian Sabji acts as a side dish in any vegetarian thali in India.
+This sabji requires very less spices and oil to cook. This sabji is mainly eaten with Roti, Paratha and Dal Rice. 
+"
 author: Parul
 tags: aloo potato pattagobhi spicy cabbage stirfry cabbage ki sabji cabbage spices healthy tasty vegetarian thali recipe roti paratha dal rice northindian sookhi sabji sidedish easy simple kadhai dinner lunch ideas indianthali indiafood eatrightindia recipe foodies homemade 
 date:   2020-03-09 15:58:23 +0530

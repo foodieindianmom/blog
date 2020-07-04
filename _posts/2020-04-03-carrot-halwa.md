@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  ""
+title:  "Gajar Halwa|Carrot Halwa"
 short_title:  "Gajar Halwa"
-description: ""
+description: "Gajar Halwa is a popular sweet dessert in India. Gajar ka halwa also called Gajar Pak / or Carrot Halwa. This Halwa is a slow cooked recipe, traditionally made by simmering grated  Red carrots with Milk, Khoya, Ghee, Sugar and dry fruits. Gajar Halwa is normally prepared during winters in india."
 slug: carrot_halwa
 author: Parul
 tags: carrotPudding Gajar Ka Halwa How To make delicious and yummy Gajar ka halwa Carrot Halwa Gajar Pak Indian famous dessert Sweet dish indian popular gajar ka halwa Carrots khoya halwa condensed milk carrots halwa dryfruits carrots halwa winter special dessert ghee rich gajar halwa northindianstyle gajar ka halwa homemade style gajar ka halwaRed carrots Dessert Red carrots halwa recipe foodyindianmom
 date:   2020-04-03 16:20:23 +0530
 categories: All Desserts
 type: /images/veg.png
-video: https://www.youtube.com/embed/OPyYMwLcWr4
-imagePath: /images/.jpg
+video: "https://www.youtube.com/embed/djtiCPrL35w"
+imagePath: /images/carrot_halwa.jpg
 ---
 
 Gajar Halwa is a popular sweet dessert in India. Gajar ka halwa also called Gajar Pak / or Carrot Halwa. This Halwa is a slow cooked recipe, traditionally made by simmering grated  Red carrots with Milk, Khoya, Ghee, Sugar and dry fruits. Gajar Halwa is normally prepared during winters in india.

@@ -3,6 +3,7 @@ layout: post
 title:  "Kadhai Paneer"
 short_title:  "Kadhai Paneer"
 slug: kadhai_paneer
+description: "Kadhai Paneer is the most famous Paneer gravy dish across the world.Kadhai Paneer is a thick gravy recipe, normally served with Naan / Paratha / Roti and Jeera Rice. Kadhai Paneer as the name suggests is cooked in a vessel called Kadhai. This recipe is a perfect blend of Indian spices and Masalas."
 author: Parul
 tags: kadhai paneer curry recipe Restaurant style kadhai paneer paneer recipies how to make kadhai panner at home cottage cheese spicy curry how to make gravy for kadhai paneer North indian syle Kadhai paneer lunch time dinner ideas kadhai paneer cooked in festivals parties tips to make best kadhai paneer dhaba style kadhai paneer foodyindianmom
 date:   2020-03-31 16:05:23 +0530

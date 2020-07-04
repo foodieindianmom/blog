@@ -4,6 +4,8 @@ title:  "Carrot Raddish Instant Pickle | Gaajar Mooli Pani vala Achaar"
 short_title:  "Carrot Raddish Instant Pickle"
 slug: carrot_raddish_instant_pickle
 author: Parul
+description: "Instant Carrot and Radish Pickle is a  spicy and sour in taste pickle . It is usually served as a side dish in any Indian Thali with Dal Rice, Stuffed Paratha  etc.It enhances the taste of any food item served with this pickle. This aachar can be eaten in breakfast with any stuffed Paratha andalso eaten  in Lunch and Dinner. 
+Gaajar Mooli ka Pani vala aachar is a traditional method of making  Instant pickle with use of water. "
 tags: carrot raddish instant pickle gaajar mooli panivala aachar pickle recipes winters sour tangy spicy aachar recipes breakfast lunch dinner foodyindianmom
 date:   2020-06-08 11:05:23 +0530
 categories: All Sides

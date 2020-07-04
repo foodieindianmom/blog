@@ -3,6 +3,9 @@ layout: post
 title:  "Palak Paneer/ Cottage Cheese Restaurant Style"
 short_title:  "Palak Paneer"
 slug: palak_paneer
+description: "Palak Paneer is a delicious vegetarian curry dish consisting of butter tossed  Paneer cubes dipped in creamy spinach masala gravy. This vegetarian curry originated in Punjab, a place in North India where this dish is considered to be staple food. 
+Here in this blog I prepared Palak Paneer  by adding lightly  fried paneer cubes in thick green gravy of spinach, ginger,garlic , tomatoes, fresh cream and various other spices.
+"
 author: Parul
 tags: Palak Paneer Curry foody indian mom food foodyindianmom cottagecheese green spinach curry vegan curry spinach curry restaurant style palak paneer healthy northindian punjab originated palak paneer creamy spicy spices infused green spinach curry
 date:   2020-05-25 10:25:23 +0530

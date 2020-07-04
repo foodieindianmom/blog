@@ -3,6 +3,8 @@ layout: post
 title:  "Spicy Amla Chutney"
 short_title:  "Amla Chutney"
 slug: amla_chutney
+description: "Amla Chutney is spicy and tangy chutney which is a powerpack of Vitamin C and many antioxidants. Amla chutney is prepared by blending fresh Amla pieces, fresh coriander leaves and many other ingredients.
+"
 author: Parul
 tags: spicy amla chutney sour and spicy chutney immunity booster chutney amla recipies tangy chutney Indian gooseberry chutney amla rich in vitamin C amla boosts metabolism amla help in fighting viral and bacterial diseases fresh amla chutney amla native is India amla fruit Chutney recipe amla recipes breakfast lunch dinner foodyindianmom
 date:   2020-03-31 21:05:23 +0530

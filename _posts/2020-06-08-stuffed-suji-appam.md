@@ -3,6 +3,9 @@ layout: post
 title:  "Stuffed Suji Appam | Rava Appe | Appam Recipe | Paniyaram | Guliyappa"
 short_title:  "Stuffed Suji Appam"
 slug: stuffed_suji_appam
+description: "Appe or Paddu is the south indian dish made by steaming batter in a special mould called Appe pan. The batter can be of fermented Rice flour and lentils like we prepare batter for Idli and dosa or batter can be of Semolina/ Suji and curd.
+In the Stuffed Suji Appe recipe, spicy potato mixture is stuffed inside the Semolina batter. It is usually served with coconut chutney or peanuts chutney.
+"
 author: Parul
 tags: recipes breakfast foodyindianmom appam suji stuffed suji appe paniyaram guliyappa semolina rava appe appam recipe healthy breakfast 
 date:   2020-06-08 11:05:23 +0530

@@ -3,6 +3,9 @@ layout: post
 title:  "Vegetable Masala Tehri | Mixed Vegetable Masala Tehri | One pot Rice Dish"
 short_title:  "Vegetable Masala Tehri"
 slug: vegetable_tehri
+description: "Vegetable Tehri is the one Pot Rice Dish prepared in Awadhi Style of cooking (Awadhi style of cooking is followed in Awadh region of Northern India particularly Lucknow.This Tehri is prepared by using various kinds of vegetables ,Vadiya, Rice and various Indian spices. Awadh cuisine quite resembles Mughlai cuisine.
+Tehri can be  prepared by using vegetables or meat or combination of vegetable and meat.Many People get confused between Vegetable tehri and Vegetable Pulao. Both are different recipes.
+"
 author: Parul
 tags: vegetable tehri mixed vegetable masala pulao one pot dish comfort food foodyindianmom rice recipes lunch dinner healthy indian food
 date:   2020-06-08 14:05:23 +0530

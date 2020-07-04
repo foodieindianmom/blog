@@ -2,7 +2,7 @@
 layout: post
 title:  "Til ke Laddoo | Sesame Jaggery Laddoo | Tilkut | Makarsankranti Special"
 short_title:  "Til Gur Laddoo"
-description: ""
+description: "Til ke laddoo is a traditional Indian sweet dish that is prepared during festivals like Makar Sankranti, Lohri and Pongal. These laddoos are made of Gur (Jaggery) and Til (Sesame Seeds). Til ke laddoo is also called Tilkut in some parts of India. "
 slug: sesame_laddoo
 author: Parul
 tags: til ladoo tilkut makarsankrati jaggery sweet indiandessert winters health benefits foodyindianmom sesame gur til blacktil whitetil browntil tilpatti mithai festival easy tasty delicious sesame jaggery balls homemade lohri pongal warmth favourite energy ladoo instant

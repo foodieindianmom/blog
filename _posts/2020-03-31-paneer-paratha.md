@@ -3,6 +3,9 @@ layout: post
 title:  "Paneer Paratha"
 short_title:  "Paneer Paratha"
 slug: paneer_paratha
+description: "Paneer paratha is a healthy breakfast option as it is stuffed with Paneer and various other Indian spices. Paneer paratha is a powerpack of many nutrients.Paneer Paratha is North Indian style stuffed flatbread eaten with any pickle like Mango  pickle or Green chili pickle and any spicy chutney like  Amla chutney or Raw Mango chutney.
+Paneer Paratha  with big glass of Lassi (sweetened curd) is a classic combination in India. The origin of Paneer Paratha is considered to be Punjab. 
+"
 author: Parul
 tags: paneer paratha North indian style cottage cheese stuffed indian flatbread spicy paneer stuffed paratha punjabi paneer paratha how to make fluffy and crispy Paneer paratha Paneer recipies powerpack of many nutrients Classic style Paneer Paratha kids tiffin kids lunchboxes lunch dinner breakfast dhabha style foodyindianmom
 date:   2020-03-31 18:05:23 +0530

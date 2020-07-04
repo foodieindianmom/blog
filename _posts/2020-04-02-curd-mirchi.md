@@ -3,6 +3,7 @@ layout: post
 title:  "Curd Chilli"
 short_title:  "Curd Chilli"
 slug: curd_chilli
+description: "Dahi Mirchi is a mouthwatering Maharashtrian recipe, served as a side dish in any indian thali. Dahi Mirchi enhances the taste of food items served in thali. This Curd chilli is prepared by using curd, green chillies and various other indian spices.This recipe is so easy to make and delicious to eat."
 author: Parul
 tags: curd chilli Dahi Mirchi Stuffed curd chillies moru miris sandgi mirchi sundried curd chillies taste enhancer indian thali chatpati spicy curd chillies store in air tight container shell life is 6 months Spicy Dahi mirchi fried dried curd chillies foodyindianmom
 date:   2020-04-02 22:25:23 +0530

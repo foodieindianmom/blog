@@ -3,6 +3,9 @@ layout: post
 title:  "Sweet Nariyal Paratha | Sweet Coconut Paratha | Coconut Poli "
 short_title:  "Sweet Nariyal Paratha"
 slug: sweet_nariyal_paratha
+description: "Nariyal Paratha is the sweet Indian flatbread prepared by using grated coconut , Sugar, ghee and cardamom powder. Nariyal Paratha is also called Coconut Paratha.This sweet paratha is easy to make paratha with use of only four major ingredients.
+Coconut Paratha is a healthy and delicious paratha. It has so many health benefits because of using coconut in paratha.Coconut improves the hair growth ,bone growth , improves skin complexion, cools down the heat in the body, improves eyesight etc.
+"
 author: Parul
 tags: sweet nariyal paratha coconut paratha recipes dessert sweet recipes kopra stuffed paratha healthy nutritous kids tiffin breakfast lunch dinner foodyindianmom
 date:   2020-06-08 13:05:23 +0530

@@ -3,6 +3,8 @@ layout: post
 title:  "Kathal Kofta Curry"
 short_title:  "Jackfruit Kofta Curry"
 slug: kathal_kofta
+description: "Kathal Kofta is a spicy, rich and thick curry dish. Many people eat Jackfruit Sabji but there is one more dish that is made from Kathal or Jackfruit called Kathal Kofta. Kofta in india are usually cooked in a spicy gravy and eaten with Jeera rice and Chapati/Roti.
+Jackfruit is considered  as a popular meat substitute. Preparation of Jackfruit Kofta curry is same as preparation of lamb kofta curry.  Kathal or Jackfruit Kofta curry is tasty and delicious to eat with hot Rotis (Indian wheat flatbread)."
 author: Parul
 tags: kathal kofta jackfruit Curry Spicy and Thick Curry Dish Jackfruit kofta curry kathal recipes jackfrit curry recipe vegetarian kofta curry kathal ki sabzi foody india mom subsitute for nonvegetarian mutton kofta How To Make kathal kofta curry northindianstyle kathal kofta how to make jackfruit kofta gravy foody indian mom food foodyindianmom
 date:   2020-04-02 21:25:23 +0530

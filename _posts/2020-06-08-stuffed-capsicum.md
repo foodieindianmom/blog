@@ -3,6 +3,9 @@ layout: post
 title:  "Stuffed Capsicum | Bharwa Shimla Mirch | Stuffed Bell Peppers"
 short_title:  "Stuffed Capsicum"
 slug: stuffed_capsicum
+description: "Bharwa Shimla mirch is a very tasty and delicious vegetarian recipe served as a side dish in any Indian Thali.In this recipe small green capcicum is stuffed with Boiled Potato mixture.
+The tangy Potatoes and Green peas mixture stuffed inside the capsicum make it more appealing and delicious.
+"
 author: Parul
 tags: stuffed capsicum bharwa shimlamirch potato mixture vegan indian food thali side dish dry capsicum sabji paratha stirfry lunch dinner foodyindianmom
 date:   2020-06-08 11:05:23 +0530

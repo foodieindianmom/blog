@@ -4,6 +4,8 @@ title:  "Palak Matar Curry"
 short_title:  "Palak Matar Curry"
 slug: palak_matar_curry
 author: Parul
+description: "Palak Matar Curry is a vegetarian dish which is very simple and easy to make ,consisting of  thick paste made from pureed spinach and green peas seasoned with different aromatic spices. In this Spicy Palak Matar Curry fresh  and sweet green peas are coated in spicy spinach (Palak) curry.
+"
 tags: Palak Matar Curry foody indian mom food foodyindianmom
 date:   2020-04-11 19:25:23 +0530
 categories: All Curries

@@ -3,6 +3,7 @@ layout: post
 title:  "Bathua Puri & Kachori"
 short_title:  "Bathua Puri & Kachori"
 slug: bathua_poori_kachori
+description: "Bathua leaves are full of nutrients and minerals, amino acids and antioxidants. It is a powerhouse of Vitamin A, B, C. There are many health benefits of eating Bathua, so eating any dishes cooked with Bathua will have a good impact on your health. We can make paratha, Poori, Raita and Saag using Bathua leaves.We are going to look at two recipes of Bathua namely Bathua Poori and Aloo Bathua Kachori."
 author: Parul
 tags: bathua poori Bathua aloo kachori Bathua recipies Potato stuffed Bathua indian fried flatbread chenophodium Album fried flatbread green leafy vegetables healthy food breakfast lunch dinner green poori bathua has health benefits powerhouse of many nutrients Vitamin rich bathua kid tiffin foodyindianmom
 date:   2020-03-25 15:05:23 +0530

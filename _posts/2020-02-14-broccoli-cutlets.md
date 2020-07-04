@@ -3,6 +3,7 @@ layout: post
 title:  "Broccoli Cutlets"
 short_title:  "Broccoli Cutlets"
 slug: broccoli_cutlers
+description: "A dish widely prepared in North India as a starter or appetizer.This recipe is very simple, easy to make and  very delicious.Broccoli is vegetable low in calories but contains lots of nutrients and antioxidants that support many aspects of human health  like improving bone health,preventing cancer,boosting immunity etc..."
 author: Parul
 tags: Brocolli superfood cutlets healthy food lunchbox tiffin ideas kids teatime snack eveningsnack vegetable vegetarian vegan cooking eating snack tea breakfast recipe
 date:   2020-02-14 00:01:23 +0530

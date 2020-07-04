@@ -3,6 +3,9 @@ layout: post
 title:  "South Indian Gun Powder Masala"
 short_title:  "Gun Powder Masala"
 slug: gunpowder
+description: "Gunpowder or milagai podi is spicy powdered chutney that is prepared by perfectly blending spices like roasted chana dal, roasted urad dal, sesame seeds ,lots of dry red chillies, curry leaves and many other spices. This coarse spice powder originated and is quite popular in South india.
+Gun Powder is a taste enhancer which enhances the taste of any food item served with it. It is also called Milagai Podi or Malaga Podi or Idli podi or Chutney Podi. 
+"
 author: Parul
 tags: gunpowder foodyindianmom milagi podi roasted dry dal chutney spicy taste enhancer idli dosa malaga podi idli podi southindian masala spices ghee button idli gunpowder GheeIdli lentils curryleaves roasted dals urad dal chana dal sesameseeds
 date:   2020-05-25 14:05:23 +0530

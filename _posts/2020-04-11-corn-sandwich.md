@@ -3,6 +3,9 @@ layout: post
 title:  "Creamy Corn Sandwich"
 short_title:  "Creamy Corn Sandwich"
 slug: corn_sandwich
+description: "Creamy Corn Sandwich Is an easy, spicy and tasty sweet corn grilled sandwich recipe for breakfast or snacks. The Creamy, Cheesy filling of sweet corn and other herbs makes it more delicious.
+This recipe of Sweet corn sandwich is easily found in any restaurant menu in the appetizer section. 
+"
 author: Parul
 tags: Creamy Corn Sandwich foodyindianmom 
 date:   2020-04-11 15:58:23 +0530

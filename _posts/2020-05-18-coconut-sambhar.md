@@ -2,7 +2,9 @@
 layout: post
 title:  "Mix Vegetarian Coconut Sambhar"
 short_title:  "Coconut Sambhar"
-description: ""
+description: "Sambhar is a South Indian lentil and vegetable Soup like dish, cooked with tamarind and various other spices. There is a special spice mixture known as Sambhar Powder which creates magic, thus enhancing the taste of sambhar. The variety of spices, herbs and lentils are used to make this magic masala known as Sambhar Powder.
+There are different kinds of Sambhar like Onions Sambhar, Mixed Vegetable Sambar with or without Coconut, buttermilk Sambar, Drumstick Sambhar, Sambhar with or without Tamarind.
+"
 slug: coconut_sambhar
 author: Parul
 tags: sambhar southindian staple lunch breakfast dinner ricesambhar lentil vegetable coconut sambhar  healthy idlisambhar dosasambhar vadasambhar vegetable lentil stew mildspicy foodyindianmom protein richfood mixedvegetables tadka indian recipe popular srilankan cuisines arhardal toordal tastysambhar homestyle delicious
