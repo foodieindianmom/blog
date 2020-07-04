@@ -11,7 +11,7 @@ date:   2020-06-10 06:05:23 +0530
 categories: All  Sides
 type: /images/veg.png
 video: https://www.youtube.com/embed/csZghDP5Ql0
-imagePath: /images/amritsari_urad_dal_wadiyan.jpg
+imagePath: /images/amritsari_urad_dal_wadiyan.JPG
 ---
 
 Amritsari masala vadi is very popular across the world especially among the Punjabi community. This Amritsari masala vadi is prepared from Urad dal paste, grated cauliflower and various other Indian Spices.
